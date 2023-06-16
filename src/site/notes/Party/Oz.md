@@ -3,4 +3,10 @@
 ---
 
 
-![Oz IMG.png](/img/user/z_Assets/Oz%20IMG.png)
+> [!infobox]
+> # Oz
+> ![Oz IMG.png](/img/user/z_Assets/Oz%20IMG.png)
+> ###### Basic Information
+> **Race:** Human
+> **Class:**  Cleric
+> **Subclass:** Grave Domain
