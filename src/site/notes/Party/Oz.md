@@ -4,7 +4,6 @@
 
 
 > [!infobox]
-> # Oz
 > ![Oz IMG.png|300](/img/user/z_Assets/Oz%20IMG.png)
 > ###### Basic Information
 > **Race:** Human
