@@ -12,7 +12,7 @@ Back at the bar, [[Party/Hymn\|Hymn]] successfully flirted with the half-orc bar
 
 During their conversation, the bartender mentioned a blue tiefling who had passed through the town a few weeks ago. There were rumors of a tentacle sighting in the river, but the bartender dismissed them as drunken ramblings.
 
-Later, Oz used her magic to communicate with Goathead, her god, and received some valuable information. It was revealed that there was indeed a lich in town, worshipped by the villagers as a false god. Oz shared this information with the party.
+Later, Oz used her magic to communicate with [[Lore/Goathead\|Goathead]], her god, and received some valuable information. It was revealed that there was indeed a lich in town, worshipped by the villagers as a false god. Oz shared this information with the party.
 
 Mabel attempted to scry on the other blue tiefling but failed, narrowly avoiding the scrying effect backfiring. 
 
