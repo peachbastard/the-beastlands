@@ -4,8 +4,7 @@
 
 
 > [!infobox]
-> # Mabel
-> ![[IMG.png\|IMG.png]]
+> ![Mabel IMG.png](/img/user/z_Assets/Mabel%20IMG.png)
 > ###### Basic Information
 > **Race:** Firbolg
 > **Class:**  Druid/Monk
