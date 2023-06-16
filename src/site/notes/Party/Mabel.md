@@ -7,6 +7,12 @@
 > # Mabel
 > ![[IMG.png\|IMG.png]]
 > ###### Basic Information
-> **Race:** Human
-> **Class:**  Fighter
-> **Subclass:** Rune Knight
+> **Race:** Firbolg
+> **Class:**  Druid/Monk
+> **Subclass:** Spores/Kensei
+
+
+- Was forced into servitude by the Junken and forced to receive a tattoo that made her appear like one of them
+- Has a tattoo on her back of a map that leads back to home 
+- Mother was killed by a blue tiefling
+
