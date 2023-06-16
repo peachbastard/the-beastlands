@@ -5,7 +5,7 @@
 
 > [!infobox]
 > # Hymn
-> ![Hymn IMG.png](/img/user/z_Assets/Hymn%20IMG.png)
+> ![Hymn IMG.png|300](/img/user/z_Assets/Hymn%20IMG.png)
 > ###### Basic Information
 > **Race:** Tiefling
 > **Class:**  Warlock
