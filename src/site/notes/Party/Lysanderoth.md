@@ -4,7 +4,6 @@
 
 
 > [!infobox]
-> # Lysanderoth
 > ![[IMG.png\|IMG.png]]
 > ###### Basic Information
 > **Race:** Human
