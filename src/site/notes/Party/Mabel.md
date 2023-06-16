@@ -14,4 +14,5 @@
 - Was forced into servitude by the Junken and forced to receive a tattoo that made her appear like one of them
 - Has a tattoo on her back of a map that leads back to home 
 - Mother was killed by a blue tiefling
+- Manifests spores using her druidic magic, and is trained in hand-to-hand and weaponry combat
 
