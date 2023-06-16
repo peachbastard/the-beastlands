@@ -4,11 +4,11 @@
 
 
 
-The day began with Lysanderoth and Mabel speaking to a local priest and leaving Pill under the care of healers. The priest informed them about the train schedule and warned them about the Wizard's Union police corps. They were also advised to be cautious, but were offered limited assistance if they encountered any trouble with the union.
+The day began with [[Party/Lysanderoth\|Lysanderoth]] and [[Party/Mabel\|Mabel]] speaking to a local priest and leaving Pill under the care of healers. The priest informed them about the train schedule and warned them about the Wizard's Union police corps. They were also advised to be cautious, but were offered limited assistance if they encountered any trouble with the union.
 
 Mabel inquired about other firbolgs in town, and the priest mentioned meeting a druid mother during his research. The group was informed that there was no lich problem in the town. They were invited to attend a religious service the next day.
 
-Back at the bar, Hymn successfully flirted with the half-orc bartender but lost an arm wrestling match to her. Oz, on the other hand, struggled with flirting. Mabel then informed the party about the five-day wait for the next train, which angered Oz. She went to her room while the others discussed the situation.
+Back at the bar, [[Party/Hymn\|Hymn]] successfully flirted with the half-orc bartender but lost an arm wrestling match to her. [[Party/Oz\|Oz]], on the other hand, struggled with flirting. Mabel then informed the party about the five-day wait for the next train, which angered Oz. She went to her room while the others discussed the situation.
 
 During their conversation, the bartender mentioned a blue tiefling who had passed through the town a few weeks ago. There were rumors of a tentacle sighting in the river, but the bartender dismissed them as drunken ramblings.
 
