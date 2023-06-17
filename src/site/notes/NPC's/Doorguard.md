@@ -3,6 +3,12 @@
 ---
 
 
+> [!infobox]
+> ![Doorguard IMG.png](/img/user/z_Assets/Doorguard%20IMG.png)
+> ###### Basic Information
+> **Race:** Human
+> **Friendly:** Unknown
+
 - Encountered when the party was investigating the thefts of a tavern keeper's special spirits and elixirs 
 - [[Party/Oz\|Oz]] bet [[Party/Mabel\|Mabel]] 10 GP that she couldn't kiss him
 	- Mabel kisses him and wins the bet
