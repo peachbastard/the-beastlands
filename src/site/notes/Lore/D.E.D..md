@@ -4,3 +4,5 @@
 
 
 **D**efense **E**xploration **D**iplomacy
+
+[[Lore/Junken\|Junken]] squads 
