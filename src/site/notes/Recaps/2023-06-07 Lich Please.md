@@ -16,7 +16,7 @@ Once the caravan arrived, the party noticed a familiar face—the boy they had l
 
 Hymn shared with the party that they were told stealing a wand from a lich would be the key to removing the cursed ring. Oz recognized that the wand belonged to the most powerful lich known to exist, who was rumored to use it in conjunction with an eye and a hand.
 
-Meanwhile, Pill, who had been badly damaged in the previous fight, required healing. [[Party/Lysanderoth\|Lysanderoth]] and [[Party/Mabel\|Mabel]] accompanied him to the temple in search of someone who could assist.
+Meanwhile, [[NPC's/Pill\|Pill]], who had been badly damaged in the previous fight, required healing. [[Party/Lysanderoth\|Lysanderoth]] and [[Party/Mabel\|Mabel]] accompanied him to the temple in search of someone who could assist.
 
 Oz and Hymn decided to stay behind and engage in some socializing at the tavern, particularly flirting with the bartender.
 
