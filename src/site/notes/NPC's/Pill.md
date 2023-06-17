@@ -3,8 +3,12 @@
 ---
 
 
-**Race:** Human
-**Friendly?:** Yes
+> [!infobox]
+> ![Pill IMG.png](/img/user/z_Assets/Pill%20IMG.png)
+> ###### Basic Information
+> **Race:** Human
+> **Friendly:** Yes
+
 
 - Young man that the party rescued and took on as a charge
 - Was injured by a tentacle monstrosity and now has a permanent scar over his left eye
