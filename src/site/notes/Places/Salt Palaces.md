@@ -3,6 +3,12 @@
 ---
 
 
+> [!infobox]
+> ![Salt Palaces IMG.png](/img/user/z_Assets/Salt%20Palaces%20IMG.png)
+> ###### Basic Information
+> **Where:** Whitelands
+> **Territory:** [[Lore/Junken\|Junken]] 
+
 - The Salt Palaces are made of the same white stone that gives the Whitelands its name
 - A shining white mineral, the city itself actually predates the [[Lore/Junken\|Junken]], but the Junken have claimed it as their capital for a millennia
 - There are newer buildings, (easy to tell from non-white rock material), these are mostly built around more impoverished areas close to the two huge gates on either side of the city. 
