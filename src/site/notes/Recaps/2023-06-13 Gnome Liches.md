@@ -8,11 +8,11 @@ The day began with [[Party/Lysanderoth\|Lysanderoth]] and [[Party/Mabel\|Mabel]]
 
 Mabel inquired about other firbolgs in town, and the priest mentioned meeting a druid mother during his research. The group was informed that there was no lich problem in the town. They were invited to attend a religious service the next day.
 
-Back at the bar, [[Party/Hymn\|Hymn]] successfully flirted with the half-orc bartender but lost an arm wrestling match to her. [[Party/Oz\|Oz]], on the other hand, struggled with flirting. Mabel then informed the party about the five-day wait for the next train, which angered Oz. She went to her room while the others discussed the situation.
+Back at the bar, [[Party/Hymn\|Hymn]] successfully flirted with the half-orc bartender but lost an arm wrestling match to her. [[Party/Oz\|Oz]], on the other hand, struggled with flirting. Mabel then informed the party about the five-day wait for the next train to [[Places/Foghaven\|Foghaven]], which angered Oz. She went to her room while the others discussed the situation.
 
 During their conversation, the bartender mentioned a blue tiefling who had passed through the town a few weeks ago. There were rumors of a tentacle sighting in the river, but the bartender dismissed them as drunken ramblings.
 
-Later, Oz used her magic to communicate with [[Lore/Goathead\|Goathead]], her god, and received some valuable information. It was revealed that there was indeed a lich in town, worshipped by the villagers as a false god. Oz shared this information with the party.
+Meanwhile, Oz used her magic to communicate with [[Lore/Goathead\|Goathead]], her god, and received some valuable information. It was revealed that there was indeed a lich in town, worshipped by the villagers as a false god. Oz shared this information with the party.
 
 Mabel attempted to scry on the other blue tiefling but failed, narrowly avoiding the scrying effect backfiring. 
 
@@ -22,8 +22,8 @@ Hymn sought to acquire diamonds for spellcasting and spotted a loving half-elf c
 
 Curiosity drew the party to investigate the river. Hymn used Alter Self to breathe underwater, accompanied by Mabel in eel form. Lysanderoth checked the north part of the bridge while Oz watched from the shore.
 
-Suddenly, Oz was attacked by a fireball and thrown into the river. The party engaged in combat with a man who had previously ambushed them. The battle intensified as a monstrous tentacle grabbed Hymn, and Oz retaliated with a Guiding Bolt, revealing the source of the tentacle.
+Suddenly, Oz was attacked by a fireball and thrown into the river. The party engaged in combat with a man who had previously ambushed them. The battle intensified as a monstrous tentacle grabbed Hymn, and Oz retaliated with a Guiding Bolt, revealing the monstrous source of the tentacle.
 
-After a fierce fight, the party managed to tie up their assailant, who revealed himself as a member of the Sorcerers' Secret Police (SSP). They discovered papers describing the party, including Mabel's illusory magic, and a stone amulet resembling Mabel's back tattoo but defaced.
+After a fierce fight, the party managed to tie up their assailant, who revealed himself as a member of the Sorcerers' Secret Police (SSP). They discovered papers describing the party, including Mabel's illusionary magic, and a stone amulet resembling Mabel's back tattoo but defaced with a deep gash through the surface.
 
 The next morning, Oz engaged in an exchange with the bartender, causing some tension between her and Hymn. The session ended with Hymn returning to their shared room in tears, while Oz remained outside the tavern.
