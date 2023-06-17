@@ -11,7 +11,7 @@ The session started with the party witnessing the doorguard [[Party/Mabel\|Mabel
 
 [[Party/Hymn\|Hymn]], utilizing their powers, sent the monster to a brief moment in hell before it returned for more punishment. Eventually, the party managed to defeat the creature along with the remaining pirates who had arrived.
 
-After the battle, the doorguard was released from the monster's clutches, and Mabel used her healing magic to stabilize the man with a kiss. However, to everyone's surprise, the supposedly cured doorguard stabbed Mabel and revealed that he was still possessed. He rambled about the tolling bells and bringing the elixir, prompting [[Party/Oz\|Oz]] to cast Remove Curse to try to free him.
+After the battle, the [[NPC's/Doorguard\|doorguard]] was released from the monster's clutches, and Mabel used her healing magic to stabilize the man with a kiss. However, to everyone's surprise, the supposedly cured doorguard stabbed Mabel and revealed that he was still possessed. He rambled about the tolling bells and bringing the elixir, prompting [[Party/Oz\|Oz]] to cast Remove Curse to try to free him.
 
 Although the curse was lifted, the doorguard remained on the brink of death. Oz looted the pirates' corpses and found a message in a bottle, along with some gold. The message, from a Priest Emissary of the Leviathan, demanded the return of the Reliquary or face dire consequences. This information added to the party's growing concerns and revealed the urgency surrounding the bells tolling.
 
