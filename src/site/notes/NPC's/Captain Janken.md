@@ -3,7 +3,11 @@
 ---
 
 
-**Race:** Tiefling
-**Friendly?:** Unknown
+> [!infobox]
+> ![Captain Janken IMG.png](/img/user/z_Assets/Captain%20Janken%20IMG.png)
+> ###### Basic Information
+> **Race:** Tiefling
+> **Friendly:** Unknown
+
 
 - The only other blue tiefling that the party has heard of besides [[Party/Hymn\|Hymn]] 
