@@ -3,27 +3,108 @@
 ---
 
 
+# What Happened? 
 
-The day began with [[Party/Lysanderoth\|Lysanderoth]] and [[Party/Mabel\|Mabel]] speaking to a local priest and leaving [[NPC's/Pill\|Pill]] under the care of healers. The priest informed them about the train schedule and warned them about the Wizard's Union police corps. They were also advised to be cautious, but were offered limited assistance if they encountered any trouble with the union.
+## Day 1
 
-Mabel inquired about other firbolgs in town, and the priest mentioned meeting a druid mother during his research. The group was informed that there was no lich problem in the town. They were invited to attend a religious service the next day.
+ - [[Party/Lysanderoth\|Lysanderoth]] and [[Party/Mabel\|Mabel]] talk to a priest and have Pill dropped off with healers 
+ - Priest tells them that if they're heading to the railroad they'll have to wait in town because the train just left and it won't be back for 5 days 
+- Mabel asks if the priest has come across any other firbolg, and he says he has met a druid mother during is research
+- Priest tells them to be wary of the Wizard's Union peace corps 
+	- Tells them to tell the priest if they run into any trouble and he may be able to assist, but his influence is limited
+- Lysanderoth asks if they've been experiencing a lich problem, and the priest says no
+- Asks that they return tomorrow for the religious service 
+- Mabel and Lysanderoth return to the bar
+- [[Party/Hymn\|Hymn]] successfully hits on the half-orc [[NPC/Shook\|baretender]], but loses an arm wrestling match against her 
+	- Oz does poorly at flirting with her 
+- Mabel tells the party that they will have to stay there for the next five days while they wait for the next train 
+	- [[Party/Oz\|Oz]] becomes angry and drops some money on the counter, then goes off to her room 
+	- Mabel asks if she shouldn't have told her about the wait period, but Hymn says that she will recover 
+- The bartender tells them about another [[NPC/Captain Janken\|blue tiefling]] that came through a few weeks ago that looked just like Hymn 
+	- The party asks if anything has been found in the river, and the bartender says that someone in the bar claimed to see a tentacle rise from the water, but she didn't believe the drunkard 
+- Oz casts Commune to speak with [[Lore/Goathead\|Goathead]] and asks the following questions:
+	- Is there a lich in town?
+		- Yes, and the villagers worship it as a pretender god
+	- Is there a faster way to [[Places/Foghaven\|Foghaven]] than the train?
+		- No, they will have to wait the five days 
+	- Is Pill going to be okay?
+		- He will heal, but he will never be okay 
+	- Once her questions are answered, she leaves out the window, making sure to rip off some cloth to cover her eye
+- [[Party/Mabel\|Mabel]] enters her room and tries to cast Scrying on the other blue tiefling, but fails
+	- She just barely manages to escape the effect rebounding on her 
+- Oz watches the tavern all night and does not sleep 
+	- She notes that the only lights on at the time are from the tavern (or commissary?) and the church
+	- Nothing else happens 
+	- She returns in the morning, and asks Hymn if they can steal some diamonds for her so that she can cast her spells 
+		- She pulls out her jewelers' kit to show them a ring they've been working on to have the diamonds on hand 
+- The party goes to the church in the morning to pick up [[NPC/Pill\|Pill]] and attend the service 
+	- Oz is apprehensive and does not want to go to church
+	- The party sees that Pill is well, and now has a mark over the same eye that Oz has her golden eye
+- Oz tells the party that she had talked to her god, who confirmed that there is a lich somewhere in the town 
+	- Hymn theorizes that it could be a gnome lich
+- Nothing eventful happens during the sermon 
+	- The priest talks about the tenets of their religion 
+- The party talks to the priest after the sermon, who also invites them to keep attending 
+	- Hymn asks if the priest has ever died, and he says no
+	- He talks about how when people die here, their souls are guided into other body's
+		- He has not been through this process, and has lived several years in his original body, as this infinite resurrection is not the intent of the religion 
+	- Oz uses Eyes of the Dead and detects the presence of undead in the church 
+- Party eventually leaves the church, but not without the priest inviting them back before they leave to attend a special potluck as the guests of honor 
+- Hymn decides it's time to look for some diamonds and looks for some people that look married 
+	- The party spots a nearby half-elf couple that looks deeply in love 
+	- Oz calls out to them in Elvish and says that she's a traveling priest that has been wanting to marry people together, and they look very deeply in love 
+	- Hymn levitates themselves and rests their head on Oz's shoulder and introduces themselves as her love assistant
+	- Hymn charms the couple, but backs out of stealing from them 
+	- They cry a little bit, and say that they don't like to steal from good people and they can't bring themselves to do it
+	- Oz says that they don't have to steal from anybody they don't want to, and Hymn thanks her for respecting their stealing boundaries 
 
-Back at the bar, [[Party/Hymn\|Hymn]] successfully flirted with the half-orc bartender but lost an arm wrestling match to her. [[Party/Oz\|Oz]], on the other hand, struggled with flirting. Mabel then informed the party about the five-day wait for the next train to [[Places/Foghaven\|Foghaven]], which angered Oz. She went to her room while the others discussed the situation.
 
-During their conversation, the bartender mentioned a [[NPC's/Captain Janken\|blue tiefling]] who had passed through the town a few weeks ago. There were rumors of a tentacle sighting in the river, but the bartender dismissed them as drunken ramblings.
+### The River
+- Party decides to check out the river 
+	- Hymn casts Alter Self so they can breath and swim in the water, and Mabel changes into an eel and wraps around their neck so they can check out the area around/below the church 
+	- Lysanderoth checks out the north part of the bridge 
+	- Oz stays near the shoreline and watches 
+- There is a sudden burst of light as a fireball launches towards Oz, who is then set on fire and hurled into the river
+- Combat begins as another one of the same men that had ambushed them on the way earlier, then commit suicide appears and calls the party fascist spies:
+	- Hymn rushes back towards shore as far as they can go with eel-Mabel around their neck and lobs their own fireball at the attacker
+	- Lysanderoth runs as fast as he can towards their attacker 
+	- Mabel is unable to do anything as an eel 
+	- Oz casts a Sacred Flame at him
+	- Hymn casts levitate on the man and forces him to fall 70 feet, but he had hardened his skin and survives the fall 
+	- Lysanderoth is eventually able to catch up to him and jams a waterskin in his mouth so he can't activate the suicide pill 
+	- Mabel eventually goes to where Lysanderoth has the man grappled and is able to stun him
+	- A tentacle grabs Hymn from underwater and pulls them deeper into the water
+	- Oz follows and launches a Guiding Bolt at the source of the tentacle, revealing some kind of giant monster 
+	- Hymn uses their eldritch blasts 
+	- Mabel returns from the shore and starts attacking the tentacle, and is able to set Hymn free 
+	- Hymn sends the creature to hell and yells for everyone to get out of the water 
+- Initiative ends as the party ties up the man 
+	- Oz uses the blunt end of her dagger to knock in some of his teeth ("I'll show you fascist spy") 
+	- Lysanderoth uses one of his runes to impose Disadvantage on the man so that Hymn can cast Command on him
+- Commands the man to remove the suicide tooth, then to tell them why they're following the party 
+	- He says that he is with the SSP (Sorcerers' Secret? Police) and that the party has been flagged 
+	- Party finds paper on the man that gives the party's description 
+		- Oz notes that the age is incorrect, as she is not 40 
+		- There is an asterisk near Mabel's race and a note saying that she is using illusionary magic 
+		- Mabel tells the party about how she got roughed up by the SSP when she had her passport done
+		- Hymn checks to see if the paper notes them being cute, and is disappointed to see no such mention
+- Oz removes the bandages from his face and reveals a firbolg
+- Man also has a stone amulet that resembles Mabel's back tattoo exactly, but with a rough mark slashed through it; which Mabel keeps
 
-Meanwhile, Oz used her magic to communicate with [[Lore/Goathead\|Goathead]], her god, and received some valuable information. It was revealed that there was indeed a lich in town, worshipped by the villagers as a false god. Oz shared this information with the party.
-
-Mabel attempted to scry on the other blue tiefling but failed, narrowly avoiding the scrying effect backfiring. 
-
-The next morning, the group gathered at the church to collect Pill and attend the religious service. Oz was reluctant to enter but eventually joined them. During the sermon, nothing eventful occurred, and after the service, they spoke with the priest, who invited them to a special potluck before their departure.
-
-Hymn sought to acquire diamonds for spellcasting and spotted a loving half-elf couple. Oz approached them under the guise of a traveling priest, but Hymn decided against stealing from them because they looked like good people.
-
-Curiosity drew the party to investigate the river. Hymn used Alter Self to breathe underwater, accompanied by Mabel in eel form. Lysanderoth checked the north part of the bridge while Oz watched from the shore.
-
-Suddenly, Oz was attacked by a fireball and thrown into the river. The party engaged in combat with a man who had previously ambushed them. The battle intensified as a monstrous tentacle grabbed Hymn, and Oz retaliated with a Guiding Bolt, revealing the monstrous source of the tentacle.
-
-After a fierce fight, the party managed to tie up their assailant, who revealed himself as a member of the Sorcerers' Secret Police (SSP). They discovered papers describing the party, including Mabel's illusionary magic, and a stone amulet resembling Mabel's back tattoo but defaced with a deep gash through the surface.
-
-The next morning, Oz engaged in an exchange with the bartender, causing some tension between her and Hymn. The session ended with Hymn returning to their shared room in tears, while Oz remained outside the tavern.
+### Night 1
+- Hymn sidles up to the bar to hit on the bartender again whilst coughing up blood
+	- She laughs and hits them in the head, causing more damage, and says that the crimson will help them clear their mind 
+	- The topic of conversation turns to the bartender's mother, who died a rebel too far to benefit from the resurrection ritual
+	- Says that her father keeps to himself, and that she got her last name from him 
+		- Oz says "I bet my friend here can steal that last name from you"
+		- Hymn flirts with the bartender again and doesn't get beat up by her (maybe flusters the bartender?)
+- Party goes to bed, but Oz goes out to smoke a cigarette 
+	- Hymn invisibly sends their imp to follow and watches as Oz waits in an alley and surveils the tavern, then decides to go to bed 
+- As Oz watches, two cloaked figures with swords at their hips stealthily enter the tavern
+	- Oz "drunkenly" stumbles into one of the man in the tavern, who tells her to fuck off 
+	- Oz yells "I need a drink!" and the men disperse, turning invisible and disappearing into the night, saying that they will remember this  
+- The bartender blearily comes out from her room and asks why she needs a drink at 4 in the morning, and says that it's called a problem 
+	- Oz says that her only problem is that the bartender didn't invite her into her room for the night
+	- The bartender says that she's not dealing with this in the morning, and leaves 
+- Hymn slams open the door to their shared room with tears running down their face, then slams it shut without saying anything
+- Session ends as they go back into their room to cry more, but Oz does not return 
