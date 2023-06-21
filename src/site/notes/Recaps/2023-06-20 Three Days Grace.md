@@ -92,4 +92,4 @@ People approach Lysanderoth as he's sitting imposingly on a bench
 Meanwhile:
 - As Hymn and Oz sleep, the door starts to slowly open 
 	- Oz asks Hymn if they're close to the bartender like that, and Hymn blearily asks what's going on
-- Session ends as fish-people from Kinnsmouth rush into the room and are bombarded by the two's spells
+- Session ends as fish-people from [[Places/Kinnsmouth\|Kinnsmouth]] rush into the room and are bombarded by the two's spells
