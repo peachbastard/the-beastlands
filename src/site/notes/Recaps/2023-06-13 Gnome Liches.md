@@ -7,7 +7,7 @@
 
 ## Day 1
 
- - [[Party/Lysanderoth\|Lysanderoth]] and [[Party/Mabel\|Mabel]] talk to a [[NPC/Priest\|priest]] and have Pill dropped off with healers 
+ - [[Party/Lysanderoth\|Lysanderoth]] and [[Party/Mabel\|Mabel]] talk to a [[NPC/Priest\|priest]] and have [[NPC/Pill\|Pill]] dropped off with healers 
  - Priest tells them that if they're heading to the railroad they'll have to wait in town because the train just left and it won't be back for 5 days 
 - Mabel asks if the priest has come across any other firbolg, and he says he has met a druid mother during is research
 - Priest tells them to be wary of the Wizard's Union peace corps 
@@ -15,20 +15,14 @@
 - Lysanderoth asks if they've been experiencing a lich problem, and the priest says no
 - Asks that they return tomorrow for the religious service 
 - Mabel and Lysanderoth return to the bar
-- [[Party/Hymn\|Hymn]] successfully hits on the half-orc [[NPC/Shook\|baretender]], but loses an arm wrestling match against her 
+- [[Party/Hymn\|Hymn]] successfully hits on the half-orc [[NPC/Shook\|bartender]], but loses an arm wrestling match against her 
 	- Oz does poorly at flirting with her 
 - Mabel tells the party that they will have to stay there for the next five days while they wait for the next train 
 	- [[Party/Oz\|Oz]] becomes angry and drops some money on the counter, then goes off to her room 
 	- Mabel asks if she shouldn't have told her about the wait period, but Hymn says that she will recover 
 - The bartender tells them about another [[NPC/Captain Janken\|blue tiefling]] that came through a few weeks ago that looked just like Hymn 
 	- The party asks if anything has been found in the river, and the bartender says that someone in the bar claimed to see a tentacle rise from the water, but she didn't believe the drunkard 
-- Oz casts Commune to speak with [[Lore/Goathead\|Goathead]] and asks the following questions:
-	- Is there a lich in town?
-		- Yes, and the villagers worship it as a pretender god
-	- Is there a faster way to [[Places/Foghaven\|Foghaven]] than the train?
-		- No, they will have to wait the five days 
-	- Is Pill going to be okay?
-		- He will heal, but he will never be okay 
+- Oz casts Commune to speak with [[Lore/Goathead\|Goathead]] 
 	- Once her questions are answered, she leaves out the window, making sure to rip off some cloth to cover her eye
 - [[Party/Mabel\|Mabel]] enters her room and tries to cast Scrying on the other blue tiefling, but fails
 	- She just barely manages to escape the effect rebounding on her 
