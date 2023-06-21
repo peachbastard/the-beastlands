@@ -8,37 +8,37 @@
 
 ## Day 3 Morning
 
-- Day begins with Pill asking Mabel if she regrets killing what could have been one of her last remaining family members
+- Day begins with [[NPC's/Pill\|Pill]] asking [[Party/Mabel\|Mabel]] if she regrets killing what could have been one of her last remaining family members
 	- Mabel says she did what she needed to in that moment 
 - Pill reveals that he killed his whole family on accident, and he wasn't proud of it
-	- He says that the SSP is a weird organization that all defers to one group, but it matters more which sect you report back to; with all ultimately reporting to Archmangus Meowcifer
-- Lysanderoth asks Pill if the Archmangus has been seen in public recently, but he seldom is seen. His votes still come through as reported in the papers. 
+	- He says that the SSP is a weird organization that all defers to one group, but it matters more which sect you report back to; with all ultimately reporting to Archmagis Meowcifer
+- [[Party/Lysanderoth\|Lysanderoth]] asks Pill if the Archmagis has been seen in public recently, but he seldom is seen. His votes still come through as reported in the papers. 
 	- Lysanderoth tells Pill that he saw Meowcifer killed, must keep it secret
 - Pill is optimistic that they have nothing to fear as magic-having citizens, not "no-magi's"
 	- Hymn takes offense to that and says that people shouldn't be judged because of their magic, and should be judged on other things instead like their appearance 
 		- Pill notes that one can change their appearance with magic
-- Pill mentions that Arthur has been growing quite quickly
+- Pill mentions that [[NPC's/Arthur\|Arthur]] has been growing quite quickly
 - Lysanderoth picks up the baby, who calls him dada 
 - They test the baby by saying hi to it in several different languages, and the baby is able to somehow comprehend it all 
 - At Lysanderoth's request, Pill uses the meager cantrips that he can muster, then the baby copies him
 	- Hymn gives him a motivational speech: says that the baby can learn new things so quickly because it isn't afraid of failing; whereas, Pill needs to just be like the baby and send it
 - Mabel casts Detect Thoughts to read deep inside the baby's thoughts and hears it thinking in Abyssal 
 	- She decides to put Pill to the test and tries to relay the Abyssal to him, but it's terrible and sounds racist 
-- Oz walks in at this moment with a new black eye and recognizes the bad Abyssal, asks if they're teaching the baby swear words and says "fuck" to the baby in Abyssal 
+- [[Party/Oz\|Oz]] walks in at this moment with a new black eye and recognizes the bad Abyssal, asks if they're teaching the baby swear words and says "fuck" to the baby in Abyssal 
 	- Hymn turns their nose up as Oz approaches and pointedly ignores her 
 	- Oz asks if they're mad at her, and they deny it 
-- Hymn goes to talk to the bartender, and successfully flusters her with their flirting 
+- Hymn goes to talk to [[NPC's/Shook\|the bartender]], and successfully flusters her with their flirting 
 
 
 Party attends the morning sermon
 - Oz makes a sarcastic joke about being excited to go to church, and Hymn laughs back sarcastically at her
 - Hymn sees trough their imp: purple fluid being piped up to a goblet
-- Semon: false ends in life and looking past them and true immortality that exists for all. To destroy anything completely is the greatest immorality, to treasure and to nurture is moral. To create, the most moral thing of all
+- Sermon: false ends in life and looking past them and true immortality that exists for all. To destroy anything completely is the greatest immorality, to treasure and to nurture is moral. To create, the most moral thing of all
 - Oz sees undead in the crowd, priest is undead
 - Priest talks about the wisdom of elders and that knowledge that comes with years cannot be easily bought 
 - Mabel shows the priest the amulet, but he doesn't recognize it
 	- He offers to take it so that he can conduct additional research on it, but Mabel offers to draw him a picture of it instead
-- Hymn asks if another blue tiefling has some through this church, and he says that one did a couple weeks ago with some rough looking people 
+- Hymn asks if another [[NPC's/Captain Janken\|blue tiefling]] has some through this church, and he says that one did a couple weeks ago with some rough looking people 
 	- He wasn't entirely polite to the congregation, made some startling accusations, and stormed out of town
 	- The priest just shrugs when asked about what those accusations were, seeming nonplussed by the matter 
 - Hymn uses their imp to invisibly steal a few drops of the church's sacramental liquid from behind the altar 
@@ -56,6 +56,9 @@ Party attends the morning sermon
 	- Pill asks Oz if she learned how to do tattoos in prison, but Oz dodges the question, then pulls out a prison tattoo-apparatus 
 	- Per Mabel's request, she decently tattoos a mushroom with a crown on Mabel's sternum 
 		- Mabel desires something that says that she is a strong leader 
+
+![Mabel's Tattoo IMG.png](/img/user/z_Assets/Mabel's%20Tattoo%20IMG.png)
+
 - Oz hands the tattoo-apparatus over to Hymn and asks if they want to give her a tattoo 
 	- Hymn says that they weren't mad at Oz, and asks if bartender really isn't her type 
 		- Oz says she isn't 
@@ -72,11 +75,11 @@ Party attends the morning sermon
 - Party debates their next steps: 
 	- Hymn asks Mabel to make sure that Oz gets some sleep, but Oz protests and says that it's still early 
 	- She suggests that she hangs out with Mabel while she brews her potions, but Mabel says that she should go to the sermon
-- Evening  sermon: Night is not truly the lack of light 
+- Evening sermon: Night is not truly the lack of light 
 - Not many of the congregation are undead, slightly high percentage are now than the noon service
-- Oz pulls Lysanderoth aside and tells him about the Yuncan people that attacked the tavern the night prior and asks that he take watch 
+- Oz pulls Lysanderoth aside and tells him about the [[Lore/Junken\|Junken]] people that attacked the tavern the night prior and asks that he take watch 
 	- Lysanderoth asks if that's how she got the black eye, but Oz says it was from the bartender
-- Lysanderoth enlists hymn, and they decide to take turns taking watch
+- Lysanderoth enlists Hymn, and they decide to take turns taking watch
 - Before they do, they contemplate putting the bomb in a different dimension because their attackers could be tracking them through the bomb
 - Oz is asleep, and they ultimately decide against doing it without telling her first 
 	- Mabel says that she'll be mad if they do it without asking her like how she was mad at the train, but Hymn says that she's only concerned about missing people 
