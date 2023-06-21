@@ -27,7 +27,7 @@
 - [[Party/Oz\|Oz]] walks in at this moment with a new black eye and recognizes the bad Abyssal, asks if they're teaching the baby swear words and says "fuck" to the baby in Abyssal 
 	- Hymn turns their nose up as Oz approaches and pointedly ignores her 
 	- Oz asks if they're mad at her, and they deny it 
-- Hymn goes to talk to [[NPC/Shook\|the bartender]], and successfully flusters her with their flirting 
+- [[Party/Hymn\|Hymn]] goes to talk to [[NPC/Shook\|the bartender]], and successfully flusters her with their flirting 
 
 
 Party attends the morning sermon
@@ -96,7 +96,7 @@ Party attends the morning sermon
 People approach Lysanderoth as he's sitting imposingly on a bench
 - Three people with huge spikey grey slugs coming out of their brains attack him all at once
 - Situation looks dire as he calls for help and no one answers, then a tall figure in a triangle hood approaches 
-- The priest appears and startles the attackers with his booming voice 
+- The [[NPC/Priest\|priest]] appears and startles the attackers with his booming voice 
 
 Meanwhile:
 - As Hymn and Oz sleep, the door starts to slowly open 
