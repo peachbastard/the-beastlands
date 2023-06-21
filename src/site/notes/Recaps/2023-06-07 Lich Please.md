@@ -4,7 +4,7 @@
 
 # What Happened? 
  - [[Party/Oz\|Oz]] opens the door and several fish townsfolk start rushing in
- - Party gets into a fish with the villagers and a figured in a pointed-hood
+ - Party gets into a fish with the villagers and a [[NPC/Triangle-Hood Figure\|figure]] in a pointed-hood
 	 - Fight seems to be going well, but then the creatures start regenerating 
 - Party jumps out the window and flees 
 - Oz casts Earthquake on the town as they leave 
