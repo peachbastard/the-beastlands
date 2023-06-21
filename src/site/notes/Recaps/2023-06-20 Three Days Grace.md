@@ -65,9 +65,10 @@ Party attends the morning sermon
 		- Oz says she isn't 
 	- Hymn asks if she's down to get a tramp stamp, and Oz agrees
 		- Hymn tattoos a set of chains on Oz's lower back 
+- Oz reveals that she can see Hymn's invisible imp, who flips her off from its perch in Hymn's horns 
 - Mabel tries to scry on Captain Janken again, but is unsuccessful 
 - Hymn suddenly panics and casts Darkness on the entirety of the interior of the bar, casting it in magical darkness, and tells Mabel that they're being scryed on
-	- They then use Counterspell on the Scrying and laugh it off as a funny joke
+	- They then use Counterspell on the Scrying and laugh the darkness off as a funny joke
 - Hymn asks the bartender if they're interested in hearing about the church's shady on-goings, but Lysanderoth sees that other people are listening in and stops the conversation 
 - The bartender asks Hymn if she and Oz are close, and Hymn says they're work friends
 
