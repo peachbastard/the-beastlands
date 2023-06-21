@@ -26,11 +26,11 @@
 	- Once her questions are answered, she leaves out the window, making sure to rip off some cloth to cover her eye
 - [[Party/Mabel\|Mabel]] enters her room and tries to cast Scrying on the other blue tiefling, but fails
 	- She just barely manages to escape the effect rebounding on her 
-- Oz does not return to the tavern all night and does not sleep 
+- Oz does not return to the tavern all night
 	- She returns in the morning, and asks Hymn if they can steal some diamonds for her so that she can cast her spells 
 		- She pulls out her jewelers' kit to show them a ring they've been working on to have the diamonds on hand 
 - The party goes to the church in the morning to pick up [[NPC/Pill\|Pill]] and attend the service 
-	- Oz is apprehensive and does not want to go to church
+	- Oz is apprehensive and does not want to go to church 
 	- The party sees that Pill is well, and now has a mark over the same eye that Oz has her golden eye
 - Oz tells the party that she had talked to her god, who confirmed that there is a lich somewhere in the town 
 	- Hymn theorizes that it could be a gnome lich
@@ -97,6 +97,6 @@
 	- Oz yells "I need a drink!" and the men disperse, turning invisible and disappearing into the night, saying that they will remember this  
 - The bartender blearily comes out from her room and asks why she needs a drink at 4 in the morning, and says that it's called a problem 
 	- Oz says that her only problem is that the bartender didn't invite her into her room for the night
-	- The bartender says that she's not dealing with this in the morning, and leaves 
+	- The bartender says that she's not dealing with this in the morning, punches Oz, and leaves 
 - Hymn slams open the door to their shared room with tears running down their face, then slams it shut without saying anything
 - Session ends as they go back into their room to cry more, but Oz does not return 
