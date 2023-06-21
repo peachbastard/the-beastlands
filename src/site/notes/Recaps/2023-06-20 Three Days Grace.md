@@ -95,7 +95,7 @@ Party attends the morning sermon
 
 People approach Lysanderoth as he's sitting imposingly on a bench
 - Three people with huge spikey grey slugs coming out of their brains attack him all at once
-- Situation looks dire as he calls for help and no one answers, then a tall figure in a triangle hood approaches 
+- Situation looks dire as he calls for help and no one answers, then a tall [[NPC/Triangle-Hood Figure\|figure]] in a triangle hood approaches 
 - The [[NPC/Priest\|priest]] appears and startles the attackers with his booming voice 
 
 Meanwhile:
