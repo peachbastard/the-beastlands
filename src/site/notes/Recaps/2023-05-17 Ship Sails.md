@@ -48,7 +48,7 @@
 - Mabel is also able to get through to the room by transforming into a snake and successfully grapples the captain 
 - Oz is trapped on the other side with no way to get in
 	- Hymn is eventually able to steal the key to let Oz in, who immediately gets hit by a burst of black magical energy from the captain, and sustains severe damage
-- The captain hunches over emaciated looking afterward, but is able to get over to the red requiem and is absorbed into it
+- The captain hunches over emaciated looking afterward, but is able to get over to the red reliquary and is absorbed into it
 - Party finds themselves alone in the room 
 - Hymn points out how injured they are 
 	- Oz asks if they trust her, and they hesitate but eventually say yes
