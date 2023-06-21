@@ -26,9 +26,7 @@
 	- Once her questions are answered, she leaves out the window, making sure to rip off some cloth to cover her eye
 - [[Party/Mabel\|Mabel]] enters her room and tries to cast Scrying on the other blue tiefling, but fails
 	- She just barely manages to escape the effect rebounding on her 
-- Oz watches the tavern all night and does not sleep 
-	- She notes that the only lights on at the time are from the tavern (or commissary?) and the church
-	- Nothing else happens 
+- Oz does not return to the tavern all night and does not sleep 
 	- She returns in the morning, and asks Hymn if they can steal some diamonds for her so that she can cast her spells 
 		- She pulls out her jewelers' kit to show them a ring they've been working on to have the diamonds on hand 
 - The party goes to the church in the morning to pick up [[NPC/Pill\|Pill]] and attend the service 
