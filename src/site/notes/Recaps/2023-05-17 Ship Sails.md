@@ -15,7 +15,7 @@
  - Mabel leans in and kisses the doorguard and casts Cure Wounds
 	- Mabel is shocked when the doorguard stabs her in the stomach and is still possessed 
 	- He starts yelling about the bells tolling, and how he'll bring the elixir
-	- Oz says she has something for this, but they just have to make sure not to die and casts [[Remove Curse\|Remove Curse]] 
+	- Oz says she has something for this, but they just have to make sure not to die and casts Remove Curse
 - The curse is removed from the doorguard, but he still appears to be on death's door
 - Oz loots the corpses of the pirates and finds a message in a bottle and 70 GP
 	- Tosses the bottle to Hymn and a health potion to Mabel
