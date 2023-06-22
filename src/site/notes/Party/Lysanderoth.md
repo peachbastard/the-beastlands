@@ -3,8 +3,9 @@
 ---
 
 
+
 > [!infobox]
-> ![Lysanderoth IMG.png](/img/user/z_Assets/Lysanderoth%20IMG.png)
+> ![Lysanderoth IMG Updated.png](/img/user/z_Assets/Lysanderoth%20IMG%20Updated.png)
 > ###### Basic Information
 > **Race:** Human
 > **Class:**  Fighter
