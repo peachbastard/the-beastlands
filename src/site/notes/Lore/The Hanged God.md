@@ -3,5 +3,6 @@
 ---
 
 
+
 - Worshipped by [[Party/Hymn\|Hymn]] 
 - Informed Hymn of a way of removing their cursed ring by stealing a lich's wand in [[Places/Poluk Maw\|Poluk Maw]]
