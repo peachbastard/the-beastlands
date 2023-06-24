@@ -22,6 +22,6 @@
 - Oz and Hymn stay behind to drink and hit on [[NPC/Shook\|the bartender]] 
 
 
-|  ⏪   | ⏭   |
+|  ⏪   | ⏩  |
 | --- | --- |
 | [[Recaps/2023-05-17 Ship Sails\|2023-05-17 Ship Sails]]    | [[Recaps/2023-06-13 Gnome Liches\|2023-06-13 Gnome Liches]]    |
