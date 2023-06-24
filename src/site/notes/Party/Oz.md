@@ -12,3 +12,5 @@
 
 - Captain of the [[Lore/D.E.D.\|D.E.D.]] squad 
 - Worships a god named [[Lore/Goathead\|Goathead]] 
+- Some sort of criminal background
+- Possess a mismatched set of eyes: a blue eye, and a golden eye with a cat-like pupil
