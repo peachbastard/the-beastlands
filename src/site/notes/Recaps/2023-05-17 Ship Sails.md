@@ -63,3 +63,7 @@
 - The party doesn't want to take the deal, then he uses his magic and takes control of Hymn; using them to shoot Oz with their crossbow
 - Oz steps towards Hymn, pulls out her golden eye, hands it to Hymn, then apologizes for stabbing them
 - Session ends as Oz faces the strange man, says that she volunteers, then dies
+
+|     | ⏭   |
+| --- | --- |
+|     | [[Recaps/2023-06-07 Lich Please\|2023-06-07 Lich Please]]    |
