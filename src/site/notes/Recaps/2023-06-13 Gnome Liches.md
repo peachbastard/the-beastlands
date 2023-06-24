@@ -100,3 +100,8 @@
 	- The bartender says that she's not dealing with this in the morning, punches Oz, and leaves 
 - Hymn slams open the door to their shared room with tears running down their face, then slams it shut without saying anything
 - Session ends as they go back into their room to cry more, but Oz does not return 
+
+
+|  ⏪   | ⏭   |
+| --- | --- |
+| [[Recaps/2023-06-07 Lich Please\|2023-06-07 Lich Please]]    | [[Recaps/2023-06-20 Three Days Grace\|2023-06-20 Three Days Grace]]    |
