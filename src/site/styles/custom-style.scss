@@ -17,4 +17,10 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+.callout[data-callout="infobox"] {
+    --callout-color: 197, 179, 88;
+    --callout-icon: lucide-info;
+}  
+
 }
