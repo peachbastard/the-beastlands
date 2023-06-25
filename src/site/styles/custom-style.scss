@@ -4,40 +4,9 @@ body {
 text-decoration: initial !important
 }
 
-/* Center tables on the page */
-.markdown-preview-view table {
-    margin-left: auto;
-    margin-right: auto;
-}    
-
-h1 { color: goldenrod; }  
-h2 { color: gold; }
-h3 { color: gold; }
-
-Centered H1
-/* EDIT MODE */
-
-.HyperMD-header.HyperMD-header-1 {
-    text-align: center;
-}
-
-/* PREVIEW MODE */
-
-.markdown-preview-view h1 {
-    text-align: center;
-}
-
-Centered H1
-/* EDIT MODE */
-
-.HyperMD-header.HyperMD-header-2 {
-    text-align: center;
-}
-
-/* PREVIEW MODE */
-
-.markdown-preview-view h2 {
-    text-align: center;
+.center {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 }
