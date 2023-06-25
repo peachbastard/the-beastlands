@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox]
+> [!place]
 > ![Salt Palaces IMG.png](/img/user/z_Assets/Salt%20Palaces%20IMG.png)
 > ###### Basic Information
 > **Where:** Whitelands
