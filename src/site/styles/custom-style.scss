@@ -1,12 +1,16 @@
 body {
-/* Remove underlines on links */
-.cm-hmd-internal-link .cm-underline, .internal-link {
-text-decoration: initial !important
-},
+  /* Remove underlines on links */
+  text-decoration: none;
+}
 
-table.center {
-margin-left:auto; 
-margin-right:auto;
-  }
+/* Center tables on the page */
+.markdown-preview-view table {
+  margin-left: auto;
+  margin-right: auto;
+}
 
+/* Additional styles for specific types of links */
+.cm-hmd-internal-link,
+.internal-link {
+  /* Add your specific styles for these links */
 }
