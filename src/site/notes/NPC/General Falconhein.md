@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox]
+> [!npc]
 > ![General Falconhein IMG.png](/img/user/z_Assets/General%20Falconhein%20IMG.png)
 > ###### Basic Information
 > **Race:** [[Lore/Junken\|Junken]] 
