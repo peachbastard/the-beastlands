@@ -32,5 +32,10 @@ h1, h2, h3, h4, h5, h6 {
     --callout-color: 197, 179, 88;
     --callout-icon: lucide-venetian-mask;
 }
+
+.callout[data-callout="place"] {
+    --callout-color: 197, 179, 88;
+    --callout-icon: lucide-globe;
+}  
   
 }
