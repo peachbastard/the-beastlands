@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox]
+> [!npc]
 > ![Pill IMG.png](/img/user/z_Assets/Pill%20IMG.png)
 > ###### Basic Information
 > **Race:** Human
