@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox]
+> [!player]
 > ![Oz IMG.png](/img/user/z_Assets/Oz%20IMG.png)
 > ###### Basic Information
 > **Race:** Human
