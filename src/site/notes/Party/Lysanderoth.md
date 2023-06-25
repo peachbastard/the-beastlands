@@ -4,7 +4,7 @@
 
 
 
-> [!infobox]
+> [!player]
 > ![Lysanderoth IMG Updated.png](/img/user/z_Assets/Lysanderoth%20IMG%20Updated.png)
 > ###### Basic Information
 > **Race:** Human
