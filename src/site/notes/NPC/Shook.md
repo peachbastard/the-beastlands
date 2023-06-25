@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox]
+> [!npc]
 > ![Shook IMG 2.png](/img/user/z_Assets/Shook%20IMG%202.png)
 > ###### Basic Information
 > **Race:** Half-Orc
