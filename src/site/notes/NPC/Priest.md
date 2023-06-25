@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox]
+> [!npc]
 > ![Priest IMG.png](/img/user/z_Assets/Priest%20IMG.png)
 > ###### Basic Information
 > **Race:** "Human"
