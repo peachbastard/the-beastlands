@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox]
+> [!player]
 > ![Hymn IMG.png](/img/user/z_Assets/Hymn%20IMG.png)
 > ###### Basic Information
 > **Race:** Tiefling
