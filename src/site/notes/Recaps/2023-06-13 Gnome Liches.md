@@ -102,6 +102,6 @@
 - Session ends as they go back into their room to cry more, but Oz does not return 
 
 
-|  ⏪   | ⏩   |
+|  **Previous Session**   |   **Next Session**   |
 | --- | --- |
 | [[Recaps/2023-06-07 Lich Please\|2023-06-07 Lich Please]]    | [[Recaps/2023-06-20 Three Days Grace\|2023-06-20 Three Days Grace]]    |
