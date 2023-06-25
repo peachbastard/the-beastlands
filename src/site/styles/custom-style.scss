@@ -1,13 +1,13 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+/* Remove underlines on links */
+.cm-hmd-internal-link .cm-underline, .internal-link {
+text-decoration: initial !important
+}
+
+/* Center tables on the page */
+.markdown-preview-view table {
+    margin-left: auto;
+    margin-right: auto;
+}
+    
 }
