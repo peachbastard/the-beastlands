@@ -9,6 +9,12 @@ body {
   margin-right: auto;
 }
 
+/* Remove underlines from specific types of links */
+.cm-hmd-internal-link a,
+.internal-link a {
+  text-decoration: none;
+}
+
 /* Additional styles for specific types of links */
 .cm-hmd-internal-link,
 .internal-link {
