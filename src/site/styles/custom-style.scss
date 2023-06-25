@@ -1,18 +1,18 @@
 body {
-/* Remove underlines from links */
-.cm-hmd-internal-link .cm-underline,
-.internal-link {
-  text-decoration: initial !important;
-}
+  /* Remove underlines from links */
+  .cm-hmd-internal-link .cm-underline,
+  .internal-link {
+    text-decoration: initial !important;
+  }
 
-/* Center tables on the page */
-table {
-  margin-left: auto;
-  margin-right: auto;
-}
+  /* Center tables on the page */
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
 
-h2 {
-  color: gold;
-}
-  
+  /* Turn H2 headers gold */
+  h2 {
+    color: gold;
+  }
 }
