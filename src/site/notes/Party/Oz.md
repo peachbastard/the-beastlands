@@ -6,9 +6,10 @@
 > [!party]
 > ![Oz IMG.png](/img/user/z_Assets/Oz%20IMG.png)
 > ###### Basic Information
-> **Race:** Human
-> **Class:**  Cleric
-> **Subclass:** Grave Domain
+>| **Race** | **Class** | **Subclass** |
+| --------- | ---------- | ---- |
+| Human          |  Cleric    |    Grave Domain |
+
 
 - Captain of the [[Lore/D.E.D.\|D.E.D.]] squad 
 - Worships a god named [[Lore/Goathead\|Goathead]] 
