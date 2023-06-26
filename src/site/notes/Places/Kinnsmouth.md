@@ -7,6 +7,7 @@
 > ![Kinnmouth IMG.png](/img/user/z_Assets/Kinnmouth%20IMG.png)
 
 ###### Basic Information 
+
 | **Where**  | **Territory**      |
 | ---------- | ------------------ |
 | Riverlands | Freaky fish people |
