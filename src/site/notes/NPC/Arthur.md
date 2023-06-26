@@ -6,9 +6,9 @@
 
 > [!npc]
 > ![Arthur IMG.png](/img/user/z_Assets/Arthur%20IMG.png)
-> ###### Basic Information
+> 
 
-
+###### Basic Information
 |   **Race**    | **Friendly?** |
 |:--------------:|:-------------:|
 |     Human      |   Hopefully   |
