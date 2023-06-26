@@ -5,10 +5,11 @@
 
 > [!party]
 > ![Oz IMG.png](/img/user/z_Assets/Oz%20IMG.png)
-> ###### Basic Information
->| **Race** | **Class** | **Subclass** |
-| --------- | ---------- | ---- |
-| Human          |  Cleric    |    Grave Domain |
+
+###### Basic Information 
+| **Race** | **Class** | **Subclass** |
+| -------- | --------- | ------------ |
+| Human    | Cleric    | Grave Domain |
 
 
 - Captain of the [[Lore/D.E.D.\|D.E.D.]] squad 
