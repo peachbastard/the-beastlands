@@ -18,5 +18,3 @@
 - Has shown remarkable capacities for learning languages and magic 
 - Thinks in Abyssal
 
-**Race**: Human 
-**Friendly?:** Hopefully
