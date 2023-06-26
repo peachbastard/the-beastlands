@@ -19,12 +19,20 @@ table {
 }
 
   /* Center table headers */
-th {
+table th {
   text-align: center;
-}  
+}
 
-th, td {
-  text-align: center;
+  /* Round table edges */
+table {
+  border-collapse: collapse;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+table td,
+table th {
+  padding: 8px;
 }  
   
   /* Center H6 */
