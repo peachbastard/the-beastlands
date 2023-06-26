@@ -52,14 +52,25 @@ body {
     -webkit-text-fill-color: transparent;
   }
 
-  .callout[data-callout="infobox"],
-  .callout[data-callout="party"],
-  .callout[data-callout="npc"],
-  .callout[data-callout="place"] {
+/* Gold Callouts */
+
+  .callout[data-callout="npc"] {
     --callout-color: 197, 179, 88;
-    --callout-icon: lucide-info;
+    --callout-icon: lucide-venetian-mask;
     border-radius: 10px;
   }
+
+  .callout[data-callout="place"] {
+    --callout-color: 197, 179, 88;
+    --callout-icon: lucide-globe;
+    border-radius: 10px;
+}
+
+.callout[data-callout="party"] {
+    --callout-color: 197, 179, 88;
+    --callout-icon: lucide-party-popper;
+    border-radius: 10px;
+}  
 
   /* Picture border */
   .markdown-preview-view img {
