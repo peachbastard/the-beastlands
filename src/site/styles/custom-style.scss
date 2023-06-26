@@ -25,22 +25,18 @@ th {
 
 /* Round table edges */
 table {
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
   border-radius: 10px;
   overflow: hidden;
 }
 
+/* Adjust table cell padding */
 table td,
 table th {
   padding: 8px;
 }
 
-/* Center header text */
-th {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}  
   
   /* Center H6 */
   h6 {
