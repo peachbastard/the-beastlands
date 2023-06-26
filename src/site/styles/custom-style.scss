@@ -71,12 +71,18 @@ body {
     --callout-icon: lucide-party-popper;
     border-radius: 10px;
 }  
+  .callout[data-callout="infobox"] {
+    --callout-color: 197, 179, 88;
+    --callout-icon: lucide-shield-question;
+    border-radius: 10px;
+  }
 
   /* Picture border */
   .markdown-preview-view img {
     border: 7px solid #000000;
     padding: 0px;
   }
+  
 /* Include the Roboto font from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
