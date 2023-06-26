@@ -5,9 +5,11 @@
 
 > [!npc]
 > ![Pill IMG.png](/img/user/z_Assets/Pill%20IMG.png)
-> ###### Basic Information
-> **Race:** Human
-> **Friendly:** Yes
+
+###### Basic Information 
+ | **Race** | **Friendly?** |
+| --------- | ---------- |
+| Human          |   Yes       |
 
 
 - Young man that the party rescued and took on as a charge
