@@ -5,8 +5,11 @@
 
 > [!npc]
 > ![Doorguard IMG.png](/img/user/z_Assets/Doorguard%20IMG.png)
-> ###### Basic Information
-> | **Race** | **Friendly** |
+> 
+
+###### Basic Information
+
+| **Race** | **Friendly** |
 | --------- | ---------- |
 | Human          |   Hopefully     |
 
