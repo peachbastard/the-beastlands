@@ -6,7 +6,8 @@
 > [!place]
 > ![Poluk Maw IMG.png](/img/user/z_Assets/Poluk%20Maw%20IMG.png)
 
-###### Basic Information 
+###### Basic Information
+
 | **Where** | **Territory** |
 | --------- | ---------- |
 | Riverlands          |   Lich       |
