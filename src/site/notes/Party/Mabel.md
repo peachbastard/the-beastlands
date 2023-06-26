@@ -5,10 +5,12 @@
 
 > [!party]
 > ![Mabel IMG.png](/img/user/z_Assets/Mabel%20IMG.png)
-> ###### Basic Information
-> **Race:** Firbolg
-> **Class:**  Druid/Monk
-> **Subclass:** Spores/Kensei
+
+###### Basic Information 
+| **Race** | **Class**  | **Subclass**                       |
+| -------- | ---------- | ---------------------------------- |
+| Firbolg  | Druid/Monk | Circle of Spores/Way of the Kensei |
+
 
 - Was forced into servitude by the [[Lore/Junken\|Junken]] and forced to receive a tattoo that made her appear like one of them
 - Has a tattoo on her back of a map that leads back to home 
