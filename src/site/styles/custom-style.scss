@@ -12,29 +12,68 @@ body {
     margin-right: auto;
   }
 
-  /* Center Tables */
-  table {
-    margin-left: auto;
-    margin-right: auto;
-  }
+/* Tables */
 
-  /* Center table headers */
-  table th {
-    text-align: center;
-  }
+/* === Round the edges === */
 
-  /* Round table edges */
-  table {
-    border-collapse: collapse;
-    border-radius: 10px;
-    overflow: hidden;
-  }
+/* Code by FireIsGood - 
+ https://forum.obsidian.md/t/adding-rounded-corners-to-markdown-tables-with-snippets-a-clean-solution/60551 
+ */
+.markdown-rendered table {
+  border-collapse: separate;
+  border-spacing: 0;
+}
 
-  table td,
-  table th {
-    padding: 8px;
-  }
+/* Add the radius */
+th:first-child {
+  border-top-left-radius: 20px;
+}
+th:last-child {
+  border-top-right-radius: 20px;
+}
+tr:last-child td:first-child {
+  border-bottom-left-radius: 20px;
+}
+tr:last-child td:last-child {
+  border-bottom-right-radius: 20px;
+}
 
+/* Redo the borders */
+td,
+th {
+  border-width: 0;
+  border-bottom-width: 1px;
+  border-right-width: 1px;
+  border-color: #000;
+}
+
+/* === Colors === */
+body {
+  --table-header-background: rgb(247, 231, 206); /* Set the table header background color */
+  --table-header-background-hover: rgb(247, 231, 206); /* Set the hover background color */
+  --table-header-size: 14px; /* Adjust the font size for the table headers */
+  --table-header-align: center; /* Adjust the alignment for the table headers */
+}
+
+th {
+  background-color: var(--table-header-background);
+  color: #000 !important; /* Set the header text color to black */
+  border: none !important;
+  text-align: center !important;
+  padding: 7px 15px !important;
+}
+
+/* Remove alternating row colors */
+tr:nth-child(even) {
+  background-color: initial;
+}
+
+/* Center tables */
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+  
   /* Center H6 */
   h6 {
     text-align: center;
