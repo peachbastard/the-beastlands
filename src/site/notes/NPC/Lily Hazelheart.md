@@ -8,7 +8,7 @@
 > ###### Basic Information 
 
 
-> | **Race** | **Friendly?** |
+| **Race** | **Friendly?** |
 | --------- | ---------- |
 | Harnengon          |   Unknown       | 
 
