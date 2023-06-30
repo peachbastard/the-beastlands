@@ -62,7 +62,7 @@
 - Lysanderoth looks around for hidden entrances, but is not able to find anything 
 	- Hymn casts Detect Magic and finds a magical entrance concealed by some kind of Stone Shape magic
 	- Oz casts Death Ward on herself 
-- Lysanderoth says that Hymn could knock on the door and say that they're looking for their dad, but Hymn vehemently denies that the blue tiefling is their dad 
+- Lysanderoth says that Hymn could knock on the door and say that they're looking for their dad, but Hymn vehemently denies that the [[NPC/Captain Janken\|blue tiefling]] is their dad 
 	- Says that they'd rather choose the hot woman than the deadbeat dad either way
 - Everyone consumes a Potion of Invisibility, then Hymn knocks on the cover 
 	- An opening appears, then a ball of fire bursts through, harming Hymn and Mabel, and causing the latter to drop her invisibility 
