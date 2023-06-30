@@ -19,8 +19,8 @@
 - [[Party/Oz\|Oz]] and [[Party/Hymn\|Hymn]] hear the explosions and poorly hop out the window to run after them 
 	- Area that Lysanderoth is being bombarded in is under cover of magical darkness, but Oz sees them take off in motorcycles
 - 5 men arrive in Sorcerer's Union attire ask what's going on
-- Lysanderoth says one of them had a blue tail (calls Hymn's dad)
-- The Sorcerers' Union apprehend the party 
+- Lysanderoth says one of them had a blue tail (calls him Hymn's dad)
+- The [[Lore/Sorcerers' Union\|Sorcerers' Union]] apprehend the party 
 	- Hymn tries to intimidate them by saying that their uniforms look gay, but they are chained up, put on a stick, and carried to the base with the rest of the party
 	- Oz tries to talk them into letting Hymn down, and is told that they had violated a law and must be punished accordingly 
 		- One of them try to slap Hymn, but Lysanderoth uses his cloud rune to redirect it, and successfully bluffs and says that his magic acts up he's flared up
@@ -30,7 +30,7 @@
 - Lysanderoth says that he met Mabel through [[NPC/Lily Hazelheart\|Lily Hazelheart]]
 	- The officers provide a newspaper with Lily on the front leading a group of fire elemental mechas and holding a junken symbol and says that she's now a traitor 
 - The officers go through the party's possessions and says that while they have many sketchy things, none of it is illegal; although they have to take out certain permits. They also specifically ask for any bags of holding
-	- Oz hands over the bag of holding with the bomb and says that she found it at the scene of the incident 
+	- Oz hands over the bag of holding with [[Inventory/The Bomb\|the bomb]] and says that she found it at the scene of the incident 
 		- The bag is taken as evidence 
 - Hymn is taken away for their physical, and then sends off their sprite familiar to invisibly look for the evidence 
 	- They are taken to a room with a big metal machine and are told to step inside it 
