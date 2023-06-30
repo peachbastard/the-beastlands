@@ -7,23 +7,23 @@
 # Day 4 Morning
 ## Battle Continues
 - Oz uses Sacred Flame on one of the fish-people
-- [[Party/Lysanderoth\|Lysanderoth]] tells the [[NPC/Priest\|Priest]] that they've attacked out hotel before, and the townsfolk are probably in danger
+- [[Party/Lysanderoth\|Lysanderoth]] tells the [[NPC/Priest\|Priest]] that they've attacked our hotel before, and the townsfolk are probably in danger
 - Writhing tentacles and worms become exposed as the fishpeople get more and more damaged 
 - Voice speaks in their heads, "give us the marked one. They belong to us now"
 - Lysanderoth enters the tavern from outside sees 3 [[Lore/Junken\|junken]] men in black leather and black tricorn hats carry off a large figure, who Lysanderoth identifies to be [[NPC/Shook\|the bartender]]
 	- They cast a prismatic wall between themselves and [[Party/Lysanderoth\|Lysanderoth]] 
-- Blinding light comes around the corner and the Priest tells the fish people, "begone, unclean things. Your elder gods are dead and buried."
+- Blinding light comes around the corner and the Priest tells the fish people, "Begone, unclean things! Your elder gods are dead and buried."
 	- They seem to not be able to stand the light dissolve into grey slugs that scurry away
-- Lysanderoth gives chase and is shot at by a bunch of guns
-	- He tries to say they're on the same side, but has a bomb thrown at him
+- Lysanderoth gives chase and is bombarded by gunfire
+	- He tries to say they're on the same side, but has a bomb launched at him
 - [[Party/Oz\|Oz]] and [[Party/Hymn\|Hymn]] hear the explosions and poorly hop out the window to run after them 
 	- Area that Lysanderoth is being bombarded in is under cover of magical darkness, but Oz sees them take off in motorcycles
 - 5 men arrive in Sorcerer's Union attire ask what's going on
-- Lysanderoth says one of them had a blue tail (calls him Hymn's dad)
+- Lysanderoth says one of them had a blue tail (calls him Hymn's dad, which they deny)
 - The [[Lore/Sorcerers' Union\|Sorcerers' Union]] apprehend the party 
 	- Hymn tries to intimidate them by saying that their uniforms look gay, but they are chained up, put on a stick, and carried to the base with the rest of the party
 	- Oz tries to talk them into letting Hymn down, and is told that they had violated a law and must be punished accordingly 
-		- One of them try to slap Hymn, but Lysanderoth uses his cloud rune to redirect it, and successfully bluffs and says that his magic acts up he's flared up
+		- One of them try to slap Hymn, but Lysanderoth uses his cloud rune to redirect it, and successfully bluffs and says that his magic acts up he's stressed up
 - Lysanderoth tries to leverage his war-hero status 
 	- Says that he's on his way to [[Places/Foghaven\|Foghaven]] to put his affairs in order and continue his quest for Meowcifer
 - Their passports are checked, but [[Party/Mabel\|Mabel]]'s documents are now expired
