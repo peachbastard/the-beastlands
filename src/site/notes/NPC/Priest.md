@@ -12,4 +12,4 @@
 | -------- | ------------------------ |
 | "Human"  | Yes, but probably a lich |
 
-- Has been helpful to the party so far, giving them valuable information about the town's religion and offering them assistance should they need it from the [[Lore/Wizards Union\|Wizards Union]] Police
+- Has been helpful to the party so far, giving them valuable information about the town's religion and offering them assistance should they need it from the [[Lore/Sorcerers' Union\|Sorcerers' Union]] Police
