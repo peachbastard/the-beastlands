@@ -37,7 +37,7 @@
 	- They are then strapped to a vertical table and have tests run on them
 - They are told they have to check their passport again whenever they go into another municipal district with another commissar's office, and are given a phonebook-sized book of rules
 	- Lysanderoth tries to look for laws that the police broke, but decides against pursuing it for now
-- Hymn eventually comes out traumatized from the police brutality as they their blood and flesh were taken from them 
+- Hymn eventually comes out traumatized from the police brutality as they had their blood and flesh were taken from them 
 	- They lean against Oz's shoulder and look through their familiar's eyes to try to track down the bag of holding with the bomb, but can't see where it's taken
 	- Oz casts Cure Wounds on Hymn
 - Party returns to the tavern to find [[NPC/Pill\|Pill]] frantically tending bar while tending to the baby 
@@ -68,3 +68,7 @@
 	- An opening appears, then a ball of fire bursts through, harming Hymn and Mabel, and causing the latter to drop her invisibility 
 		- She turns into a rat in her panic
 - Session ends as a figure emerges from the entrance says that they're too late
+
+|  **Previous Session**   | **Next Session**|
+| --- | --- |
+| [[Recaps/2023-06-20 Three Days Grace\|2023-06-20 Three Days Grace]]    |    |
