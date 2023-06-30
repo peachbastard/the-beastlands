@@ -90,7 +90,7 @@ Party attends the morning sermon
 - Oz pulls Lysanderoth aside and tells him about the [[Lore/Junken\|Junken]] people that attacked the tavern the night prior and asks that he take watch 
 	- Lysanderoth asks if that's how she got the black eye, but Oz says it was from the bartender
 - Lysanderoth enlists Hymn, and they decide to take turns taking watch
-- Before they do, they contemplate putting the bomb in a different dimension because their attackers could be tracking them through the bomb
+- Before they do, they contemplate putting [[Inventory/The Bomb\|the bomb]] in a different dimension because their attackers could be tracking them through the bomb
 - Oz is asleep, and they ultimately decide against doing it without telling her first 
 	- Mabel says that she'll be mad if they do it without asking her like how she was mad at the train, but Hymn says that she's only concerned about missing people 
 
