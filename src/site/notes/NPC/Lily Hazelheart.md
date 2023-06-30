@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox]
+> [!npc]
 > ![Lily Hazelheart IMG Updated.png](/img/user/z_Assets/Lily%20Hazelheart%20IMG%20Updated.png)
 > ###### Basic Information 
 
