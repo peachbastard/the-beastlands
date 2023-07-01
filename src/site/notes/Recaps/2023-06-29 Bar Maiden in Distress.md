@@ -67,7 +67,7 @@
 - Everyone consumes a Potion of Invisibility, then Hymn knocks on the cover 
 	- An opening appears, then a ball of fire bursts through, harming Hymn and Mabel, and causing the latter to drop her invisibility 
 		- She turns into a rat in her panic
-- Session ends as a figure emerges from the entrance says that they're too late
+- Session ends as a figure emerges from the entrance saying that they're too late
 
 |  **Previous Session**   | **Next Session**|
 | --- | --- |
