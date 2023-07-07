@@ -71,4 +71,4 @@
 
 |  **Previous Session**   | **Next Session**|
 | --- | --- |
-| [[Recaps/2023-06-20 Three Days Grace\|2023-06-20 Three Days Grace]]    |    |
+| [[Recaps/2023-06-20 Three Days Grace\|2023-06-20 Three Days Grace]]    |  [[Recaps/2023-07-06 Sins of the Father\|2023-07-06 Sins of the Father]]  |
