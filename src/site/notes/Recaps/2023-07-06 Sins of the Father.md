@@ -11,7 +11,7 @@
 - Mabel is a noble, wants to see if she recognizes anything about this guy 
 	- Not anyone she recognizes from her villages a child 
 	- Very possible that he's a spores druid 
-- Fluffs up hair and says "By order of Psilocybin clan, back down!" then smacks him with her staff when he scoffs 
+- Fluffs up hair and says "By order of Psilocybin Clan, back down!" then smacks him with her staff when he scoffs 
 	- His skin grows over with a tough bark  
 	- She asks who his father is 
 		- He says, "Don't play coy with me. As if you don't know."
@@ -70,7 +70,7 @@ Hymn uses Command through their sprite to get the two to come to the entrance, a
 	- Oz and Hymn make the man apologize to Pill
 - Party sees that [[NPC/Arthur\|Arthur]] is now the size of 5-6 year old and is reading multiple scrolls 
 	- He says that he won them off of some travelers while they were gone, and that he really likes winning 
-	- Hymn asks if he can show them what he can do, but he says that he's not ready yet because he wants it to be perfect t
+	- Hymn asks if he can show them what he can do, but he says that he's not ready yet because he wants it to be perfect 
 - Session ends as the party contemplates how to pull of their second consecutive heist and steal the lich's wand
 
 |  **Previous Session**   | **Next Session**|
