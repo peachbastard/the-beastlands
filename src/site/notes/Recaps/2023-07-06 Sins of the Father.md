@@ -47,7 +47,7 @@
 		- Before she casts Revivify, she whispers something in the man's ear
 		- He returns to life looking visibly shaken and defeated 
 - Hymn uses Minor Illusion to show words for him to respond to 
-	- The man conveys that [[NPC/Captain Janken\|Captain Janken]] killed the chief of the firbolg, is the captain of their[[Lore/D.E.D.\|D.E.D.]] squad, saved one baby/his son after destroying the whole civilization
+	- The man conveys that [[NPC/Captain Janken\|Captain Janken]] killed the chief of the firbolg, is the captain of their [[Lore/D.E.D.\|D.E.D.]] squad, saved one baby and made him his son after destroying the whole civilization
 	- Says that firbolgs are ultra nationalists
 - Party debates on whether or not to kill him, but Shook needs someone to bring back for questioning since the sting had failed and Janken got away  
 	- The party offers to bring the man in for her 
