@@ -20,7 +20,7 @@
 	- The man pulls out an amulet that turns into a black sphere 
 	- A portal suddenly opens behind him
 	- There's desperate shout: "NO!"
-	- Another man, smaller in another black leather trench coat and tricorn hat, but with bluish features and a long tail; grabs the firbolg, yanks him back into the portal behind him, disappears 
+	- Another man, smaller in another black leather trench coat and tricorn hat, but with bluish features and a long tail; grabs the firbolg, yanks him back into the portal behind him, hurls another bomb at the party, then disappears 
 
 
 ## Mrs. Officer
@@ -28,11 +28,11 @@
 - [[Party/Oz\|Oz]] heals Hymn and says, "You can't save the girl if you're dead."
 - Oz pulls Mabel aside and says, "You have the most skin in the game, and if things go south... you don't have a chip in you."
 	- Hands her a giant diamond worth 5000 GP and says to keep it in case one of them dies, then walks away  
-Hymn uses Command through their sprite to get the two to come to the entrance, and the party starts fucking them up
-	The two are a human and half-elf who refuse to talk about who sent them
-- One of them uses a strange mechanical weapon that punctures Lysanderoth multiples times in the abdomen 
-- He says, "Down with the [[Lore/Sorcerers' Union\|Sorcerers' Union]] 
-	- Takes something in a pouch in a necklace he's wearing and swallows it
+- Hymn uses Command through their sprite to get the two to come to the entrance, and the party starts fucking them up
+	- The two are a human and half-elf who refuse to talk about who sent them
+	- One of them uses a strange mechanical weapon that punctures Lysanderoth multiples times in the abdomen 
+		- He says, "Down with the [[Lore/Sorcerers' Union\|Sorcerers' Union]] 
+		- Takes something in a pouch in a necklace he's wearing and swallows it
 - Mabel sees that the bombs used are of [[Lore/Junken\|Junken]] make 
 - Hymn sends sprite down invisibility to distract the man, then mage hands his giant bomb away
 	- Brings the ticking bomb in front of the party, but Lysanderoth is able to disarm it in time
