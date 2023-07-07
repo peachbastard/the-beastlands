@@ -70,6 +70,7 @@ Hymn uses Command through their sprite to get the two to come to the entrance, a
 	- Oz and Hymn make the man apologize to Pill
 - Party sees that [[NPC/Arthur\|Arthur]] is now the size of 5-6 year old and is reading multiple scrolls 
 	- He says that he won them off of some travelers while they were gone, and that he really likes winning 
+	- Hymn asks if he can show them what he can do, but he says that he's not ready yet because he wants it to be perfect t
 - Session ends as the party contemplates how to pull of their second consecutive heist and steal the lich's wand
 
 |  **Previous Session**   | **Next Session**|
