@@ -16,5 +16,5 @@
 - [[Recaps/2023-06-13 Gnome Liches\|2023-06-13 Gnome Liches]]
 - [[Recaps/2023-06-20 Three Days Grace\|2023-06-20 Three Days Grace]]
 - [[Recaps/2023-06-29 Bar Maiden in Distress\|2023-06-29 Bar Maiden in Distress]]
-
+- [[sins\|sins]]
 
