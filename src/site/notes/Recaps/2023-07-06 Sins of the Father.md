@@ -19,7 +19,7 @@
 - [[Party/Lysanderoth\|Lysanderoth]] slices off one of his arms off in a whirlwind of sword strikes 
 	- The man pulls out an amulet that turns into a black sphere 
 	- A portal suddenly opens behind him
-	- There's desperate shout: "NO!"
+	- There's a desperate shout: "NO!"
 	- Another man, smaller in another black leather trench coat and tricorn hat, but with bluish features and a long tail; grabs the firbolg, yanks him back into the portal behind him, hurls another bomb at the party, then disappears 
 
 
