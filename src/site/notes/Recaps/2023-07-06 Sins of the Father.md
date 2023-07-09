@@ -5,7 +5,7 @@
 
 # What Happened? 
 ## Firbolg vs. Firbolg
-- Firbolg in leather trench coat and leather hat stands in blown up entrance to the cave and says, "You've come for my father. You're too late."
+- [[NPC/Evil Firbolg\|Firbolg]] in leather trench coat and leather hat stands in blown up entrance to the cave and says, "You've come for my father. You're too late."
 	- Looks at [[Party/Mabel\|Mabel]] with fury in his eyes
 	- Dark clouds form over the firbolg and over the party, and he calls the party filthy SSP agents 
 - Mabel is a noble, wants to see if she recognizes anything about this guy 
