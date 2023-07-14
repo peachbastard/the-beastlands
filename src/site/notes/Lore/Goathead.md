@@ -3,4 +3,4 @@
 ---
 
 
-Worshipped by [[Party/Oz\|Oz]]. 
+Worshipped by [[Party/Oz\|Oz]], who calls him an asshole and a fucker
