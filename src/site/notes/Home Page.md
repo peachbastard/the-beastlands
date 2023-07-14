@@ -17,4 +17,5 @@
 - [[Recaps/2023-06-20 Three Days Grace\|2023-06-20 Three Days Grace]]
 - [[Recaps/2023-06-29 Bar Maiden in Distress\|2023-06-29 Bar Maiden in Distress]]
 - [[Recaps/2023-07-06 Sins of the Father\|2023-07-06 Sins of the Father]]
+- [[Recaps/2023-07-13 Heist Two Electric Boogaloo\|2023-07-13 Heist Two Electric Boogaloo]]
 
