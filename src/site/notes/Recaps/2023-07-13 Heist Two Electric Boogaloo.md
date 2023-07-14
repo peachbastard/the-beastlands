@@ -19,7 +19,7 @@
 	- Sees the man with long blue tail and black duster seems to angrily rush up to the scry bulb, waves his hand, and stops it
 - Mabel knows that it seems similar to the tech that [[NPC/Lily Hazelheart\|Lily Hazelheart]] was involved with
 	- [[Party/Lysanderoth\|Lysanderoth]] call tell its nothing commonly used in the [[Lore/Junken\|Junken]], looks different in terms of material and smaller mechanical things 
-- Oz casts Sending and asks the bartender what's up with the firbolg from earlier and the firbolg village, and she responds:
+- Oz casts Sending and asks [[NPC/Shook\|the bartender]] what's up with the firbolg from earlier and the firbolg village, and she responds:
 	- "Known associates of [[NPC/Captain Janken\|Captain Janken]]'s [[Lore/D.E.D.\|D.E.D.]] group include rogue firbolg, an extremely rare race.  Heard they were wiped out by Janken's years ago during war"
 	- Party remembers that most of the few remaining firbolgs are very radicalized commissary agents
 - Oz brings up genocide, and Mabel asks if they're all gone 
