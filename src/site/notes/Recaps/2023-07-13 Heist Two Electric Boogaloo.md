@@ -44,7 +44,8 @@
 	- The party decides to have Oz use Sending to warn Hymn if needed, but Oz warns them that it's her last Sending for the day
 - As they leave, Oz gently punches Hymn on the spot where she had previously stabbed them, and a feeling of invincibility and safety courses through them for a brief moment
 
-<br>
+
+
 ## Nun to be Found 
 - Hymn turns into a half-elf with a notch on their ear to differentiate themselves 
 	- The cursed ring stays on their finger when they change form
