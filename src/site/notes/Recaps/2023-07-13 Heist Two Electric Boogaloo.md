@@ -37,7 +37,7 @@
 	- Hymn asks for a cigarette, tries to do the same exact power drag on their first ever cigarette, throws up, and says that they feel stronger too
 	- Pill sees this and hesitates as he comes over to ask for one of his own
 - Oz uses her jeweler's kit to break apart and crush one of the diamonds 
-	- She then pulls off he leather jacket, unbuttons her shirt a bit, rubs diamond dust on herself, and casts Greater Restoration
+	- She then pulls off her leather jacket, unbuttons her shirt a bit, rubs diamond dust on herself, and casts Greater Restoration
 - Oz asks Pill if he remembers anything that could help them, and he says that he was brought upstairs for healing with some other people
 - Party decides on all going in, distracting the priest, and having Hymn cast Suggestion on one of the nuns to the unlock the door 
 	- Hymn asks how Oz will distract the Priest, and Oz lifts up her makeshift eyepatch to reveal the golden cat-like [[Inventory/Oz's Eye\|eye]] and says that she thinks she something they want 
