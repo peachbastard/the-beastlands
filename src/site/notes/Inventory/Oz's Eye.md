@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/inventory/oz-s-eye/","created":"","updated":""}
+---
+
+
+
+>[!item]
+>![Oz's Eye IMG.png](/img/user/z_Assets/Oz's%20Eye%20IMG.png)
+
+- [[Party/Oz\|Oz's]] left eye, is a golden color with a cat-like slitted pupil
+- Has magical properties such as True Sight and the ability to cast spells 
