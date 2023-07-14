@@ -91,6 +91,12 @@ td, th {
 
   }
 
+  .callout[data-callout="redacted"] {
+    --callout-color: 197, 179, 88;
+    --callout-icon: lucide-x;
+    border-radius: 10px;
+}
+
   /* Picture border */
   .markdown-preview-view img {
     border: 7px solid #000000;
