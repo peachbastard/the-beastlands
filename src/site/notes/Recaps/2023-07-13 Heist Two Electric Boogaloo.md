@@ -21,7 +21,7 @@
 - Mabel knows that it seems similar to the tech that [[NPC/Lily Hazelheart\|Lily Hazelheart]] was involved with
 	- [[Party/Lysanderoth\|Lysanderoth]] call tell its nothing commonly used in the [[Lore/Junken\|Junken]], looks different in terms of material and smaller mechanical things 
 - Oz casts Sending and asks [[NPC/Shook\|the bartender]] what's up with the firbolg from earlier and the firbolg village, and she responds:
-	- "Known associates of [[NPC/Captain Janken\|Captain Janken]]'s [[Lore/D.E.D.\|D.E.D.]] group include rogue firbolg, an extremely rare race.  Heard they were wiped out by Janken's years ago during war"
+	- "Known associates of [[NPC/Captain Janken\|Captain Janken]]'s [[Lore/D.E.D.\|D.E.D.]] group includes rogue firbolg, an extremely rare race.  Heard they were wiped out by Janken's years ago during war"
 	- Party remembers that most of the few remaining firbolgs are very radicalized commissary agents
 - Oz brings up genocide, and Mabel asks if they're all gone 
 	- Oz says they're not as long as you're here 
@@ -40,7 +40,7 @@
 	- She then pulls off he leather jacket, unbuttons her shirt a bit, rubs diamond dust on herself, and casts Greater Restoration
 - Oz asks Pill if he remembers anything that could help them, and he says that he was brought upstairs for healing with some other people
 - Party decides on all going in, distracting the priest, and having Hymn cast Suggestion on one of the nuns to the unlock the door 
-	- Hymn asks how Oz will distract the Priest, and Oz lifts up her makeshift eyepatch to reveal the golden cat-like eye and says that she thinks she something they want 
+	- Hymn asks how Oz will distract the Priest, and Oz lifts up her makeshift eyepatch to reveal the golden cat-like [[Inventory/Oz's Eye\|eye]] and says that she thinks she something they want 
 	- The party decides to have Oz use Sending to warn Hymn if needed, but Oz warns them that it's her last Sending for the day
 - As they leave, Oz gently punches Hymn on the spot where she had previously stabbed them, and a feeling of invincibility and safety courses through them for a brief moment
 
