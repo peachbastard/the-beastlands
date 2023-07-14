@@ -81,7 +81,7 @@
 - The rest of the party rushes down a dusty hallway full of scrolls into an impossibly large room that is almost church-like. Things pulsate almost like alive they're alive. There are black onyx boxes in a small pavilion, and at end of room a massive hand with an eye in the palm
 - The Priest opens his hand, and an onyx box opens and a skeletal mage comes out 
 - He then shoots another black beam of energy at Oz
-	- Oz takes the full damage and Hymn yells, "Don't hurt Oz!" with Thaumaturgy 
+	- Oz takes the full damage and Hymn shouts, "Don't hurt Oz!" with Thaumaturgy 
 - Oz yells, "I told you fuckers to run!"
 	- Lysanderoth replies, "We did!" 
 		- Hymn adds, "Towards you!"
@@ -94,7 +94,7 @@
 	- He laughs as it doesn't do much damage and says that he thought that the chosen of the eye would do better and asks what she would even do with the four items
 		- Oz responds, "What you want. I will become a god."
 - Hymn hurls the Priest through hell
-- As Oz she looks upon the giant hand, she feels her eye start burning
+- As Oz looks upon the giant hand, she feels her eye start burning
 	- She then cuts off her hand, pushes the stump against the giant hand, and feels her eye burning almost impossibly hot 
 - Session ends as the Priest returns with their flesh burnt and looking incredibly fucked up, shoots Eldritch Blasts at Hymn, then hurls the gravely injured tiefling through hell 
 
