@@ -96,7 +96,7 @@
 - Hymn hurls the Priest through hell
 - As Oz looks upon the giant hand, she feels her eye start burning
 	- She then cuts off her hand, pushes the stump against the giant hand, and feels her eye burning almost impossibly hot 
-- Session ends as the Priest returns with their flesh burnt and looking incredibly fucked up, shoots Eldritch Blasts at Hymn, then hurls the gravely injured tiefling through hell 
+- Session ends as the Priest returns with his flesh burnt and looking incredibly fucked up, shoots Eldritch Blasts at Hymn, then hurls the gravely injured tiefling through hell 
 
 
 |  **Previous Session**   | **Next Session**|
