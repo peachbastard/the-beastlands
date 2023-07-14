@@ -23,9 +23,9 @@
 - Oz casts Sending and asks [[NPC/Shook\|the bartender]] what's up with the firbolg from earlier and the firbolg village, and she responds:
 	- "Known associates of [[NPC/Captain Janken\|Captain Janken]]'s [[Lore/D.E.D.\|D.E.D.]] group includes rogue firbolg, an extremely rare race.  Heard they were wiped out by Janken's years ago during war"
 	- Party remembers that most of the few remaining firbolgs are very radicalized commissary agents
-- Oz brings up genocide, and Mabel asks if they're all gone 
+- Oz brings up genocide and says that when she's queen she should make sure that her people aren't fucking crazy bureaucrats, and Mabel asks if they're all gone 
 	- Oz says they're not as long as you're here 
-		- Those words ("genocide, not as long as you're here") echo in Mabel's head 
+		- These words ("genocide", "when you're queen," not as long as you're here") echo in Mabel's head 
 - Lysanderoth goes out and sees a thick fog rolling in 
 	- Hymn peeks their head out and casts Detect Magic. Fog isn't really magical, but does seem to be created with something that is magical
 	- Their thoughts start racing as they try to pinpoint the kind of magic, and finds that it feels like a primordial part of the weave where all magic stems from 
