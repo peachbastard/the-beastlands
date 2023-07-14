@@ -6,6 +6,7 @@
 
 # What Happened? 
 ## Heist 2 Preparations 
+- Party has one chance tonight to get the wand before tomorrow afternoon when they have to go to the church's potluck, then catch their train in the early evening
 - [[Party/Oz\|Oz]] goes to a local blacksmith and buys 1GP worth of scrap metal for making jewelry 
 - [[Party/Hymn\|Hymn]] asks who wants to steal a wand, and everyone raises their hand 
 	- Mabel raises the firbolg's disembodied arm 
@@ -15,7 +16,7 @@
 	- People hover around him to do spellwork to regrow the arm, but with mechanical aspects 
 	- Looks painful and he's grimacing 
 	- Surroundings look like dirt floor of a different cave 
-		-  Everyone knows that the cave system is very prolific in the Beastlands, and he could be anywhere
+		-  Everyone knows that the cave systems are very prolific in the Beastlands, and he could be anywhere
 	- Sees the man with long blue tail and black duster seems to angrily rush up to the scry bulb, waves his hand, and stops it
 - Mabel knows that it seems similar to the tech that [[NPC/Lily Hazelheart\|Lily Hazelheart]] was involved with
 	- [[Party/Lysanderoth\|Lysanderoth]] call tell its nothing commonly used in the [[Lore/Junken\|Junken]], looks different in terms of material and smaller mechanical things 
@@ -95,3 +96,8 @@
 - As Oz she looks upon the giant hand, she feels her eye start burning
 	- She then cuts off her hand, pushes the stump against the giant hand, and feels her eye burning almost impossibly hot 
 - Session ends as the Priest returns with their flesh burnt and looking incredibly fucked up, hurls Eldritch Blasts at Hymn, then hurls the gravely injured tiefling through hell 
+
+
+|  **Previous Session**   | **Next Session**|
+| --- | --- |
+| [[Recaps/2023-07-06 Sins of the Father\|2023-07-06 Sins of the Father]] |  |
