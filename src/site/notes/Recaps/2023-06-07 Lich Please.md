@@ -3,12 +3,13 @@
 ---
 
 # What Happened? 
+
  - [[Party/Oz\|Oz]] opens the door and several fish townsfolk start rushing in
  - Party gets into a fish with the villagers and a [[NPC/Triangle-Hood Figure\|figure]] in a pointed-hood
 	 - Fight seems to be going well, but then the creatures start regenerating 
 - Party jumps out the window and flees 
 - Oz casts Earthquake on the town as they leave 
-- [[Party/Hymn\|Hymn's]] nose starts to bleed and they start crying about the river calling to them and that the presence from the ring is embedded in their brain, then passes out 
+- [[Party/Hymn\|Hymn's]] nose starts to bleed and they start crying about the river calling to them and that the presence from the [[Inventory/Cursed Ring\|ring]] is embedded in their brain, then passes out 
 - Party takes a short rest as they wait for the caravan 
 	- Hymn goes off to pray to the Hanged God to see if there's something that they can steal to end the cursed ring's attunement
 - Party gets to the meet up spot with the caravan
