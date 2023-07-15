@@ -13,7 +13,7 @@
 - Translucent black stone
 
 
-## Individual Items 
+##### Individual Items 
 | File                                                      | Owner       |
 | --------------------------------------------------------- | ----------- |
 | [[Inventory/The Bomb\|The Bomb]]                       | Hymn        |
