@@ -6,9 +6,9 @@
 
 ![Beastlands Map IMG.png](/img/user/z_Assets/Beastlands%20Map%20IMG.png)
 
-# [Owlbear Rodeo](https://owlbear-rodeo-legacy-3nug.onrender.com)
+## [Owlbear Rodeo](https://owlbear-rodeo-legacy-3nug.onrender.com)
 ## [[Inventory/Party Inventory\|Party Inventory]] 
-##### [GitHub](https://github.com/peachbastard/the-beastlands)
+#### [GitHub](https://github.com/peachbastard/the-beastlands)
 
 # Recaps
 - [[Recaps/2023-05-17 Ship Sails\|2023-05-17 Ship Sails]]
