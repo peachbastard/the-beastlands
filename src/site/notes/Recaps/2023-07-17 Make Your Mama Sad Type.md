@@ -13,17 +13,17 @@
 	- Mabel drives her staff down on his toe, then he resists her stun 
 - Oz's eye glows and she tries to Disintegrate him, but he uses another legendary resistance 
 - [[Party/Lysanderoth\|Lysanderoth]] dashes across the room, needs a Wisdom save as his sword pulsates the closer he gets to the lich. It feels like his ownership is being challenged by a more evil creature
-	- He sees that the priest does not have blood and muscle underneath, but bone and rot, metal, thin chains of gold between the ribs and bones
-	- The Priest laughs as he's restrained and looks with his jeweled eyes and asks if he thinks if it matters if he's restrained when he's unrestrained by life, and Lysanderoth is strained by blood
+	- He sees that the priest does not have blood and muscle underneath, but bone and rot, and metal, thin chains of gold between the ribs and bones
+	- The Priest laughs as he's restrained and looks with his jeweled eyes and asks if he thinks if it matters if he's restrained when he's unrestrained by life, and Lysanderoth is restrained by blood
 - Summons another skeleton 
-- Priest says to Lysanderoth, "Do you presume yourself  some kind of hero with a sword like that? You'll have to prove yourself worth it if you don't want to lose it."
+- Priest says to Lysanderoth, "Do you presume yourself some kind of hero with a sword like that? You'll have to prove yourself worth it if you don't want to lose it."
 	-  Priest says to [[Party/Mabel\|Mabel]] after she tries to use her spores on him, "Do you see how life grows from even the lack of life? Your people were once trained in the way of real death. Would you fight against me, firbolg?" 
 - Inhales Mabel's spores, then spits out a black cloud of flies at Mabel and Lysanderoth 
 - Hymn reappears and yells, "Please stop cutting off your hands!" and a specter of the Hanged God appears and grants them temporary hitpoints 
 - The Priest offers to make Hymn prince of the realms 
 	- Hymn says they're prince of every realm 
 	- Priest says that people will be begging for hell after death. Says that it's a fate worse than oblivion, worse than hell
-- Mabel summons a mushroom-y skeletal chill touch 
+- Mabel summons a mushroom-y skeletal chill touch and attacks the Priest with it
 - The Priest denies their accusations, says that none of the flock were forced to join, and came beginning on their knees
 	- He casts summons a Crown of Madness on Lysanderoth
 - Oz repeats, "Fucking do something!" and hits him with a Sunbeam
@@ -34,26 +34,24 @@
 - He points at Lysanderoth and uses Finger of Death, but then Hymn casts Counterspell and narrowly stops the spell 
 - The Priest disappears and reappears next to Hymn 
 	- Says he was going to make the death quick and merciful, calls them demon spawn 
-	- He shoots another beam of necrotic damage that should knock Hymn unconscious, but that same feeling of invincibility and safety from when Oz touched them earlier washes over them again, and they come back to consciousness with [[Death Ward\|Death Ward]] 
-- He talks about the hungry serpent eating death that we are feeding/protecting and that it will betray us 
+	- He shoots another beam of necrotic damage that should knock Hymn unconscious, but that same feeling of invincibility and safety from when Oz touched them [[Recaps/2023-07-13 Heist Two Electric Boogaloo\|earlier]] washes over them again, and they come back to consciousness with Death Ward
+- He talks about the hungry serpent eating death that we are feeding and protecting, and that it will betray us 
 - Mabel's trauma from losing her family is triggered from seeing Hymn go down, and she dashes over to them as a dire wolf with a Potion of Supreme Healing 
 - Priest asks if we have a thought in our heads because we just blunder through life and death, and have unleashed a dam of something we cannot comprehend 
 - Oz asks the hand, "What do you want from me?"
-	- Inside the eye she sees its a long sharp skinny piece of iron stuck in the hand about a foot long
-- Oz pulls it out and feels the wrist with the hand that she cut off start to grow warm --
+	- Inside the eye she sees its a long sharp skinny piece of iron stuck in the hand about a foot long—looks like a nail
+- Oz pulls it out and feels the wrist with the hand that she cut off start to grow warm
 - Priest asks, "Why bother wildshaping when you act like feckless animals no matter what shape you take?"
 	- Lysanderoth asks what's in it for us if we listen to him, and Priest says it will save our soul from being forced through a needle and drank by a eldritch snake 
-- The Priest is severely weakened after a second blast of [[Sunbeam\|Sunbeam]] from Oz 
+- The Priest is severely weakened after a second blast of Sunbeam from Oz 
 	- She Disintegrates the Priest, leaving nothing behind
 - Hymn sits crossed-legged on the ground, reveals the eye tattoos on each palm, holds them out, offers the nail to [[Lore/The Hanged God\|The Hanged God]], and asks if it's right and if the curse can be removed now 
 		- Hymn tentatively pricks their finger on it 
 	- The ring falls off the finger and writhes like a dying worm while shrieking; knocking everyone but Oz unconscious
-- Oz says, "The black sun doesn't set on you. Not yet," and heals them all 
- - She finds a book made of some sort of skin and bound in skin underneath the hand
-		- Some Abyssal writing
-			- What has been translated (hastily) by someone in Abyssal, tells of an ancient primordial race that became cannibal serpent gods of death that ate each other whole
-			- This is where the first necromancy comes from
-			- Some fragments talk of becoming a god and the blood sacrifices needed
+- Oz says, "The black sun doesn't set on you. Not yet," and heals them all, but they don't get up
+
+>[!redacted]
+
 - Everything becomes unstable and the church starts collapsing 
 	- Oz drags Hymn out 
 	- The structure becomes increasingly unstable as she goes back in for Mabel and Lysanderoth, and she hears the sound of laughter as she struggles for a moment over who to save while the ground becomes increasingly unstable
