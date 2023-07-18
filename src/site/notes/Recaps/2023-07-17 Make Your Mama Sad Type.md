@@ -37,12 +37,12 @@
 - The Priest disappears and reappears next to Hymn 
 	- Says he was going to make the death quick and merciful, calls them demon spawn 
 	- He uses a Finger of Death at Hymn, but their Fiendish Resistance helps them resist it
-	- He shoots another beam of necrotic damage that should knock Hymn unconscious, but that same feeling of invincibility and safety from when Oz touched them [[Recaps/2023-07-13 Heist Two Electric Boogaloo\|earlier]] washes over them again, and they come back to consciousness with Death Ward
+	- He shoots another beam of necrotic damage that should knock Hymn unconscious, but that same feeling of invincibility and safety from when Oz touched them [[Recaps/2023-07-13 Heist Two Electric Boogaloo#Heist 2 Preparations\|earlier]] washes over them again, and they come back to consciousness with Death Ward
 - He talks about the hungry serpent eating death that we are feeding and protecting, and that it will betray us 
 - Mabel's trauma from losing her family is triggered from seeing Hymn go down, and she dashes over to them as a dire wolf with a Potion of Supreme Healing 
 - Priest asks if we have a thought in our heads because we just blunder through life and death, and have unleashed a dam of something we cannot comprehend 
 - Oz asks the hand, "What do you want from me?"
-	- Inside the eye she sees its a long sharp skinny piece of iron stuck in the hand about a foot long—looks like a nail
+	- Inside the eye she sees its a long sharp skinny piece of iron stuck in the hand about a foot long—looks like a [[Inventory/Lich Wand\|nail]]
 - Oz pulls it out and feels the wrist with the hand that she cut off start to grow warm
 - Priest asks, "Why bother wildshaping when you act like feckless animals no matter what shape you take?"
 	- Lysanderoth asks what's in it for us if we listen to him, and Priest says it will save our soul from being forced through a needle and drank by a eldritch snake 
@@ -113,7 +113,7 @@
 	- Oz also says that she thinks of him as a god of desire, "I want, I take", but does clarify that it's not his true domain 
 	- Mabel says that she thought that the swamp would help restore her people, and Oz responds that god helps those that help themselves
 - Oz tries to talk to Hymn, but they don't answer her questions
-	- They physically turn away and draw the hood of their cloak 
+	- They physically turn away and draw the hood of their cloak up
 	- Oz walks away to smoke a cigarette in an empty car 
 - Session ends as the party takes a long rest 
 
