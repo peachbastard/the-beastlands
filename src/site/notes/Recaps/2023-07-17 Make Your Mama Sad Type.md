@@ -71,7 +71,7 @@
 		- Oz tells Mabel that she will have to make difficult decisions when she's queen, and Mabel decides to help her, with Hymn assisting with their Levitate spell
 - The party sits around sharing a drink from Oz's pilfered flask of infinite liquor and take in the day as the town collapses before them 
 - Pill asks if they did the right thing since all of the townspeople died 
-	- Hymn says that they were all already dead to begin with 
+	- Hymn says that they were all already dead to begin with, and that the priest had attacked Oz first 
 	- Pill comes to the conclusion that power and might are everything, despite the party's best efforts to dissuade him 
 	- Hymn tells them about how badly they were fucked in up the battle, but how they weren't scared because they had belief in their friendships
 	- Oz says that if he doesn't feel like they're doing the right thing he could leave and take his severance pay, and Pill panics at the word "severance"
@@ -87,9 +87,10 @@
 	- Oz returns with the berries for dessert, which Mabel identifies as safe, common strawberries and puts as a garnish for her soup 
 
 
-## The Train
-- Party boards the train 
+## Buy the ticket
+- Party boards the train
 	- The man taking their tickets asks what happened, and surmises that it must be an aftershock from a different earthquake 
+	- They have a stop in-between, but then will go straight to [[Places/Foghaven\|Foghaven]] 
 - Party sits around their cart and talks about their next steps 
 - Mabel finds a newspaper and sees a recent article about [[NPC/Lily Hazelheart\|Lily Hazelheart]] taking part in further Junken supporter behavior 
 - Oz is excited because all she has to do next is drop off "the package" and she can go home to her family 
@@ -99,16 +100,24 @@
 	- They discuss the bomb more, and Oz says that she knows why the Priest targeted her, and says that she'll tell them more, then hesitates and says that she'll tell them when they get to Foghaven 
 - They return and Hymn asks why they're so beholden to the Junken when the Junken have done terrible things and have planted a bomb in Lysanderoth 
 	- They also point out that while they don't want Lysanderoth to blow up, thousands of people will die, and bring up the trolley dilemma
-	- Oz says that she wants to pull the level that keeps Lysanderoth alive 
+	- Oz says that she wants to pull the lever that keeps Lysanderoth alive 
 		- Lysanderoth chimes in to thank Oz for saving him, which Hymn agrees with, and Oz says that's how they can they can trust her
 - Hymn reveals that they think they're still cursed because they're still hearing the same voice from their dreams
 	- They also reveal that in the split second before Death Ward took effect, they saw some kind of giant snake-like entity
-- Hymn goes off to an empty cart to ask [[Lore/The Hanged God\|The Hanged God]] if they're doing the right thing and comes back in a sullen mood. They wipe away tears before returning to the party  
+	- They ask if the party want to become gods, but everyone denies it
+- Oz reveals that she also has a bomb in her, of sorts
+- Hymn goes off to an empty cart to ask [[Lore/The Hanged God\|The Hanged God]] if they're doing the right thing. They wipe away tears before returning to the party, and return in a sullen mood 
 - Oz asks Mabel about the pantheon of the new society she's building, and asks if she has time to talk about [[Lore/Goathead\|Goathead]] 
 	- Says that he could be a great help to their people, and to keep an open mind 
 	- Mabel says she will consider keeping a place for him in her people's pantheon 
-	- She also says that she thinks of him as a god of desire, "I want, I take", but does clarify that it's not his true domain 
+	- Oz also says that she thinks of him as a god of desire, "I want, I take", but does clarify that it's not his true domain 
+	- Mabel says that she thought that the swamp would help restore her people, and Oz responds that god helps those that help themselves
 - Oz tries to talk to Hymn, but they don't answer her questions
 	- They physically turn away and draw the hood of their cloak 
 	- Oz walks away to smoke a cigarette in an empty car 
 - Session ends as the party takes a long rest 
+
+
+|  **Previous Session**   |   **Next Session**   |
+| --- | --- |
+| [[Recaps/2023-07-13 Heist Two Electric Boogaloo\|2023-07-13 Heist Two Electric Boogaloo]]  |  |
