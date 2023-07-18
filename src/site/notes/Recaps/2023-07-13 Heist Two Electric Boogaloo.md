@@ -8,7 +8,7 @@
 ## Heist 2 Preparations 
 - Party has one chance tonight to get the wand before tomorrow afternoon when they have to go to the church's potluck, then catch their train in the early evening
 - [[Party/Oz\|Oz]] goes to a local blacksmith and buys 1GP worth of scrap metal for making jewelry 
-- [[Party/Hymn\|Hymn]] asks who wants to steal a wand, and everyone raises their hand 
+- [[Party/Hymn\|Hymn]] asks who wants to steal a [[Inventory/Lich Wand\|wand]], and everyone raises their hand 
 	- Mabel raises the firbolg's disembodied arm 
 	- [[NPC/Pill\|Pill]] says that he wants to help, but Oz says that tending to the bar is the most important job of them all
 - [[Party/Mabel\|Mabel]] uses the arm to cast Scrying in the cauldron so everyone can see
@@ -43,7 +43,6 @@
 	- Hymn asks how Oz will distract the Priest, and Oz lifts up her makeshift eyepatch to reveal the golden cat-like [[Inventory/Oz's Eye\|eye]] and says that she thinks she has something they want 
 	- The party decides to have Oz use Sending to warn Hymn if needed, but Oz warns them that it's her last Sending for the day
 - As they leave, Oz gently punches Hymn on the spot where she had previously stabbed them, and a feeling of invincibility and safety courses through them for a brief moment
-
 
 
 ## Nun to be Found 
