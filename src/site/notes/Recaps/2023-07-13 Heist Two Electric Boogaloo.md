@@ -40,7 +40,7 @@
 	- She then pulls off her leather jacket, unbuttons her shirt a bit, rubs diamond dust on herself, and casts Greater Restoration
 - Oz asks Pill if he remembers anything that could help them, and he says that he was brought upstairs for healing with some other people
 - Party decides on all going in, distracting the priest, and having Hymn cast Suggestion on one of the nuns to unlock the door 
-	- Hymn asks how Oz will distract the Priest, and Oz lifts up her makeshift eyepatch to reveal the golden cat-like [[Inventory/Oz's Eye\|eye]] and says that she thinks she something they want 
+	- Hymn asks how Oz will distract the Priest, and Oz lifts up her makeshift eyepatch to reveal the golden cat-like [[Inventory/Oz's Eye\|eye]] and says that she thinks she has something they want 
 	- The party decides to have Oz use Sending to warn Hymn if needed, but Oz warns them that it's her last Sending for the day
 - As they leave, Oz gently punches Hymn on the spot where she had previously stabbed them, and a feeling of invincibility and safety courses through them for a brief moment
 
@@ -101,4 +101,4 @@
 
 |  **Previous Session**   | **Next Session**|
 | --- | --- |
-| [[Recaps/2023-07-06 Sins of the Father\|2023-07-06 Sins of the Father]] |  |
+| [[Recaps/2023-07-06 Sins of the Father\|2023-07-06 Sins of the Father]] | [[Recaps/2023-07-17 Make Your Mama Sad Type\|2023-07-17 Make Your Mama Sad Type]] |
