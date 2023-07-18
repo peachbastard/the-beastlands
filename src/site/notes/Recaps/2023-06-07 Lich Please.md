@@ -16,7 +16,7 @@
 	- They see the boy they had leant their donkey and an older man with a wagon full of corpses
 - The man is kind and answers their questions about the  corpses; says that they were corrupted from the blight that was brought on by the Godsplague 
 	- They take these corpses to their church to be cleansed and buried into the ground as sacrifices for the gods, and to maybe even create a new one
-- Hymn tells the party that they were told that they need to steal a wand from a lich in order to have the ring removed
+- Hymn tells the party that they were told that they need to steal a [[Inventory/Lich Wand\|wand]] from a lich in order to have the ring removed
 	- Oz is familiar with liches to an extent and recognizes that the wand belonged to the most powerful one out there that was said to use it in conjunction with an eye and a hand 
 - Pill was damaged badly in the fight and may lose an eye 
 	- [[Party/Lysanderoth\|Lysanderoth]]  and [[Party/Mabel\|Mabel]] go with him to the temple to find someone to heal him
