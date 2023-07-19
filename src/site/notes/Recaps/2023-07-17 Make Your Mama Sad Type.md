@@ -48,7 +48,7 @@
 	- Lysanderoth asks what's in it for us if we listen to him, and Priest says it will save our soul from being forced through a needle and drank by a eldritch snake 
 - The Priest is severely weakened after a second blast of Sunbeam from Oz 
 	- She Disintegrates the Priest, leaving nothing behind
-- Hymn sits crossed-legged on the ground, reveals the eye tattoos on each palm, holds them out, offers the nail to [[Lore/The Hanged God\|The Hanged God]], and asks if it's right and if the curse can be removed now 
+- Hymn sits crossed-legged on the ground, pulls off the gloves they always wear and reveals their eye tattoos on each palm, holds them out, offers the nail to [[Lore/The Hanged God\|The Hanged God]], and asks if it's right and if the curse can be removed now 
 		- Hymn tentatively pricks their finger on it 
 	- The ring falls off the finger and writhes like a dying worm while shrieking; knocking everyone but Oz unconscious
 
