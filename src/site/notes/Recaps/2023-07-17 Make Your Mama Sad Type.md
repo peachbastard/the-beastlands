@@ -21,16 +21,16 @@
 - Inhales Mabel's spores, then spits out a black cloud of flies at Mabel and Lysanderoth 
 - Hymn reappears screaming and bleeding and yells, "Please stop cutting off your hands!" and a specter of [[Lore/The Hanged God\|the Hanged God]] appears and grants them temporary hitpoints 
 - The Priest offers to make Hymn prince of the realms 
-	- Hymn says they're already prince of every realm 
-	- Priest says that people will be begging for hell after death. Says that it's a fate worse than oblivion, worse than hell
+	- Hymn spits blood at him and says they're already prince of every realm 
+	- Priest tells them that people will be begging for hell after death. Says that it's a fate worse than oblivion, worse than hell
 - Mabel summons a mushroom-y skeletal Chill Touch and attacks the Priest with it
-- The Priest denies the party's accusations, says that none of the flock were forced to join, and they came beginning on their knees
+- The Priest denies the party's accusations, says that none of the flock were forced to join, and they came begging on their knees
 	- He casts Crown of Madness on Lysanderoth
 - Oz repeats, "Fucking do something!" and hits the Priest with a Sunbeam from her remaining hand
 
  >[!redacted]
 
-- Lysanderoth's eyes, blade, and the iron crown on his head grow black and he attacks Mabel with a feral look on his face
+- Lysanderoth's eyes, blade, and the iron crown on his head glow black and he attacks Mabel with a feral look on his face
 - The Priest says, "Forsake this mission of violence. Do none of you care of the balance of the universe?"
 	- Hymn and Oz say no 
 - He points at Lysanderoth and uses Power Word: Kill, but then Hymn casts Counterspell and narrowly stops the spell 
@@ -79,7 +79,7 @@
 	- Pill says that they must have done the right thing if the "mistress" did it
 	- Hymn asks if he understands nuance, and he says no
 - Lysanderoth and Mabel take turns teaching Arthur rune magic and druidic magic 
-- Hymn finds a flower by the river and does the "she loves me, she likes me not" with it
+- Hymn finds a flower by the river and does the "she loves me, she loves me not" with it
 - Mabel makes a mushroom stew for the group 
 	- Oz whinges about having more "vegan shit" and goes out to try and hunt something up 
 		- She's only successful in finding some berries
@@ -104,10 +104,10 @@
 		- Lysanderoth chimes in to thank Oz for saving him, which Hymn agrees with, and Oz says that's how they can they can trust her
 - Hymn reveals that they think they're still cursed because they're still hearing the same voice from their dreams
 	- They also reveal that in the split second before Death Ward took effect, they saw some kind of giant snake-like entity
-	- They ask if the party want to become gods, but everyone denies it
+	- They ask if the party wants to become gods, but everyone denies it
 - Oz reveals that she also has a bomb in her, of sorts
 - Hymn goes off to an empty cart to ask [[Lore/The Hanged God\|The Hanged God]] if they're doing the right thing. They wipe away tears before returning to the party, and return in a sullen mood 
-- Oz asks Mabel about the pantheon of the new society she's building, and asks if she has time to talk about [[Lore/Goathead\|Goathead]] 
+- Oz asks Mabel about the pantheon of the new society she's building, and asks if she has a moment to talk about [[Lore/Goathead\|Goathead]] 
 	- Says that he could be a great help to their people, and to keep an open mind 
 	- Mabel says she will consider keeping a place for him in her people's pantheon 
 	- Oz also says that she thinks of him as a god of desire, "I want, I take", but does clarify that it's not his true domain 
