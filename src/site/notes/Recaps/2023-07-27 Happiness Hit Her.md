@@ -14,11 +14,11 @@
 >[!redacted]
 
 - Hymn tries to lighten up the mood and pulls out the black Bag of Holding they found from the last town's commissary office and says that they could see what's in it
-	- Mabel proposes that they all put their hand in and pick something out at random
+	- [[Party/Mabel\|Mabel]] proposes that they all put their hand in and pick something out at random
 - Hymn's hand goes numb after reaching inside, then pulls it out and finds it completely obliterated and mostly cauterized 
-	- They go to the back of the car and start crying 
-		- Oz follows and asks if it's their first time, and gestures with her missing hand; both are now missing their left hands 
-			- Hymn says that they're twins now, and Oz says, "Not for long," and casts [[Regenerate\|Regenerate]] on them
+	- They go to the back of the car and start crying, completely demoralized 
+		- [[Party/Oz\|Oz]] follows and asks if it's their first time, and gestures with her missing hand; both are now missing their left hands 
+			- Hymn says that they're twins now, and Oz says, "Not for long," and casts Regenerate on them
 		- Hymn asks why she didn't do that for her hand, and Oz responds that she was going to, but then this all happened
 - Train squeaks to a stop and there's a commotion 
 - A man enters with a young boy who aims a blunderbuss at the party  
@@ -30,12 +30,12 @@
 	- Man says that they're on an official mission to search it for an artifact, and will take everyone's valuables as taxes
 - Hymn manages to shove the leader's arm into the black Bag of Holding and cuts it off 
 	- He tries to retaliate, but [[Party/Lysanderoth\|Lysanderoth]] smirks and uses his cloud rune to redirect the attack to one of the other bandits, and he decapitates him 
-	- Hymn casts [[Blight\|Blight]] on the leader, man looks really hurt
+	- Hymn casts Blight on the leader, man looks really hurt
 	- Mabel punches who she believes to be a robber, but is actually an innocent old man
 		- The man is knocked out immediately, and a young boy cries and says that she killed her grandpa 
 		- Mabel apologizes and punches the leader while the boy sobs
-	- Oz casts [[Zone of Truth\|Zone of Truth]] on him, and he confesses that the Sorcerer's Union put them up to it, and they are looking for a crystal vessel with some sort of organ in it 
-		- Oz says she'll keep an eye out for it for him, then stabs him in the eye with her [[Backbiter\|dagger]]
+	- Oz casts Zone of Truth on him, and he confesses that the [[Lore/Sorcerers' Union\|Sorcerers' Union]] put them up to it, and they are looking for a crystal vessel with some sort of organ in it 
+		- Oz says she'll keep an eye out for it for him, then stabs him in the eye with her dagger
 	- Mabel creates some vines that reach through the window and bind the incapacitated man
 
 ## Brain Drain
@@ -44,24 +44,24 @@
 	- Hymn goes to search the leader's belongings
 	- Mabel asks Oz if she can bum a cigarette and she goes off to have a smoke and think
 	- When they're both gone, Oz has a small panic while she tries to figure out how to operate a train
-- Oz casts [[Speak with Dead\|Speak with Dead]] to ask the conductor how to run the train, and is able to get it going, but not well-controlled 
+- Oz casts Speak with Dead to ask the conductor how to run the train, and is able to get it going, but not well-controlled 
 - Hymn returns and says that they have a gift for Oz, but not to take it the wrong way, then hands her a diamond to resurrect the conductor with
 	- Oz looks really confused and asks why she would take this the wrong way, and Hymn responds that they're not getting married 
-- Oz casts [[Raise Dead\|Raise Dead]] on the conductor, who comes back severely weakened, but can still operate the train
+- Oz casts Raise Dead on the conductor, who comes back severely weakened, but can still operate the train
 	- Mabel returns and is enthralled by all the different mechanics and levers and tries to take it all in, watches him intently for four hours
 - The train requires coal to run, which Lysanderoth and Hymn must shovel by default due to Oz's missing hand 
 - Oz investigates the caboose and finds a safe blown open with two dead bandits lying next to it 
 	- Inside is something large covered in an ancient-looking cloth
-	- She uses the [[Oz/Inventory/Eye of Vecna\|Eye of Vecna]] to peer through the cloth and sees the crystal vessel with the organ inside—looks almost like a brain 
-	- Oz tries to return to the front of the train, gets hurt by the blood fog, then decides to turn back to the caboose and uses [[Sending\|Sending]] to tell Hymn to meet her in the back
+	- She uses her x-ray vision to peer through the cloth and sees the crystal vessel with the organ inside—looks almost like a [[Inventory/Crystal Brain\|brain]] 
+	- Oz tries to return to the front of the train, gets hurt by the blood fog, then decides to turn back to the caboose and uses Sending to tell Hymn to meet her in the back
 - Hymn heads towards the back, but first summons a Fire Elemental inside the furnace, causing the train to move faster 
 	- As they go towards the back they enter the blood fog area and get hurt
 - Oz shows Hymn the cloth-covered vessel, and they say that they can use Detect Magic on it, but it would make the Fire Elemental disappear, so they decide to wait out the hour 
-- Oz sees how hurt Hymn is, touches them, and casts [[Cure Wounds\|Cure Wounds]]. They thank her and say that they're not as sturdy as the rest of the party 
-	- Hand still on Hymn, Oz casts [[Death Ward\|Death Ward]] on them, then pulls away
+- Oz sees how hurt Hymn is, touches them, and casts Cure Wounds. They thank her and say that they're not as sturdy as the rest of the party 
+	- Hand still on Hymn, Oz casts Death Ward on them, then pulls away
 	- Oz talks about the bomb, says that she told them that she wouldn't make them steal anything they didn't want to, and that includes lives 
 - Mabel and Lysanderoth join the two in the caboose and also investigate the vessel 
-	- Hymn casts [[Detect Magic\|Detect Magic]] and finds that it is a very ancient magic
+	- Hymn casts Detect Magic and finds that it is a very ancient magic
 - The train makes it to the station, but due to the conductor's weakness it goes out of control and careens into other trains
 	- The crash causes the brain to fall out of the vessel and onto the ground 
 	- Officers start rushing into the train and ordering people to evacuate 
@@ -71,13 +71,13 @@
 
 ## Three Hour Layover
 - Party arrives at their layover with the next direct train to Foghaven approaching in the next 3 hours 
-- Lysanderoth takes in all of the portraits and statues in the station and is able to recognize people such as Meowcifer, then sees a large picture of himself, [[NPC/Lily Hazelheart\|Lily Hazelheart]], and [[Jima\|Jima]]; and also sees that Jima has her own statue 
+- Lysanderoth takes in all of the portraits and statues in the station and is able to recognize people such as Meowcifer, then sees a large picture of himself, [[NPC/Lily Hazelheart\|Lily Hazelheart]], and Jima; and also sees that Jima has her own statue 
 - A page boy speaks of Lily's war against the [[Lore/Junken\|Junken]], also says blight quarantines continue 
 	- Lily leading an army of copper autonomations spitting fire from joints, heading towards the Grainlands—which is forcing the Junken to improve their peace terms with the Sorcerer's Union 
 - As they continue out, another page boy speaks of vampirism and how to protect oneself from partners infecting you 
 	- Hymn tells the party that the blood fog is created when a vampire burns in the sun
-- Mabel puts up a poster of the Doorguard and is confronted by a woman that asks how she knows him
-	- The woman introduces herself as Susan Dandry and says that he is her brother 
+- Mabel puts up a poster of the [[NPC/Doorguard\|Doorguard]] and is confronted by a woman that asks how she knows him
+	- The woman introduces herself as [[NPC/Susan Dandry\|Susan Dandry]] and says that he is her brother 
 	- Mabel says that she is his lover, and that she's been searching for him and last saw him by a tree 
 	- Susan says that he was married and had children, and that he would never do that to his family 
 	- Hymn says that she saw the two of them sloppy kiss
@@ -104,7 +104,7 @@
 	- Hymn suggests that they have their imp fly over the station with the bag onto the top of the train 
 - Party has two hours left before the train is to arrive and decide to actually sightsee 
 	- Oz sits at a café table in the shade and works with her jeweler's kit 
-	- Hymn buys Pill a fancy lollipop, who excitedly asks for all of the flavors, but Arthur only wants some milk
+	- Hymn buys [[NPC/Pill\|Pill]] a fancy lollipop, who excitedly asks for all of the flavors, but [[NPC/Arthur\|Arthur]] only wants some milk
 		- Hymn keeps an eye out for some sort of jeweler or blacksmith
 - Hymn, Mabel, Lysanderoth, Arthur, and Pill all enter the shop of a scribe mage 
 	- Lysanderoth gets the prices of scrolls and tells Arthur that he can pick out two things that he wants within their budget 
