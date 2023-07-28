@@ -120,4 +120,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Recaps/2023-07-13 Heist Two Electric Boogaloo\|2023-07-13 Heist Two Electric Boogaloo]]  |  |
+| [[Recaps/2023-07-13 Heist Two Electric Boogaloo\|2023-07-13 Heist Two Electric Boogaloo]]  | [[Recaps/2023-07-27 Happiness Hit Her\|2023-07-27 Happiness Hit Her]] |
