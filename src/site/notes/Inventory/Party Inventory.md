@@ -5,7 +5,7 @@
 | Coinage | Amount |
 | ------- | ------ |
 | PP      | 0      |
-| GP      | 70     |
+| GP      | 170     |
 | SP      | 0      |
 | CP      | 0      |
 
@@ -16,8 +16,8 @@
 ##### Individual Items 
 | File                                                      | Owner       |
 | --------------------------------------------------------- | ----------- |
-| [[Inventory/The Bomb\|The Bomb]]                       | Hymn        |
 | [[Inventory/Cursed Ring\|Cursed Ring]]                 | Hymn        |
+| [[Inventory/The Bomb\|The Bomb]]                       | Hymn        |
 | [[Inventory/Demon Slaying Sword\|Demon Slaying Sword]] | Lysanderoth |
 | [[Inventory/Paintbrush Staff\|Paintbrush Staff]]       | Mabel       |
 | [[Inventory/Oz's Eye\|Oz's Eye]]                       | Oz          |
