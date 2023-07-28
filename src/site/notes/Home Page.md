@@ -19,3 +19,4 @@
 - [[Recaps/2023-07-06 Sins of the Father\|2023-07-06 Sins of the Father]]
 - [[Recaps/2023-07-13 Heist Two Electric Boogaloo\|2023-07-13 Heist Two Electric Boogaloo]]
 - [[Recaps/2023-07-17 Make Your Mama Sad Type\|2023-07-17 Make Your Mama Sad Type]]
+- [[Recaps/2023-07-27 Happiness Hit Her\|2023-07-27 Happiness Hit Her]]
