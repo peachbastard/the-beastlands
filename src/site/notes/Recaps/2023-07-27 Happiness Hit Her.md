@@ -95,7 +95,7 @@
 	- She sees that there are short-range Truesight goggles on the commissars and runes that detects magic being used 
 	- Oz says that she still wanted to sightsee and wasn't ready to board yet, but the commissar says that they might as well pass the scanners now because they're going to have to do it either way
 - Oz throws up on the ground 
-	- The commissar asks if she's ill, but she says that she was on the train that crashed, and that the driver must have been a drunk, and that it was a bumpy ride
+	- The commissar asks if she's ill, but she says that she was on the train that crashed, and that the driver must have been a drunk because it was a bumpy ride
 	- Hymn says that they need to get her to a medic right away and pulls Oz away
 	- Mabel and Lysanderoth follow after
 		- Before they do, Mabel shows the commissar the poster of the Doorguard and asks if he has seen this man 
