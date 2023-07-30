@@ -71,7 +71,7 @@
 
 ## Three Hour Layover
 - Party arrives at their layover with the next direct train to Foghaven approaching in the next 3 hours 
-- Lysanderoth takes in all of the portraits and statues in the station and is able to recognize people such as Meowcifer, then sees a large picture of himself, [[NPC/Lily Hazelheart\|Lily Hazelheart]], and Jima; and also sees that Jima has her own statue 
+- Lysanderoth takes in all of the portraits and statues in the station and is able to recognize people such as Meowcifer, then sees a large picture of himself, [[NPC/Lily Hazelheart\|Lily Hazelheart]], and [[NPC/Jima\|Jima]]; and also sees that Jima has her own statue 
 - A page boy speaks of Lily's war against the [[Lore/Junken\|Junken]], also says blight quarantines continue 
 	- Lily leading an army of copper autonomations spitting fire from joints, heading towards the Grainlands—which is forcing the Junken to improve their peace terms with the Sorcerer's Union 
 - As they continue out, another page boy speaks of vampirism and how to protect oneself from partners infecting you 
