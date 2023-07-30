@@ -47,7 +47,7 @@
 - Oz casts Speak with Dead to ask the conductor how to run the train, and is able to get it going, but not well-controlled 
 - Hymn returns and says that they have a gift for Oz, but not to take it the wrong way, then hands her a diamond to resurrect the conductor with
 	- Oz looks really confused and asks why she would take this the wrong way, and Hymn responds that they're not getting married 
-- Oz casts Raise Dead on the conductor, who comes back severely weakened, but can still operate the train
+- Oz whispers something into the corpse's ear, then casts Raise Dead on the conductor, who comes back severely weakened, but can still operate the train
 	- Mabel returns and is enthralled by all the different mechanics and levers and tries to take it all in, watches him intently for four hours
 - The train requires coal to run, which Lysanderoth and Hymn must shovel by default due to Oz's missing hand 
 - Oz investigates the caboose and finds a safe blown open with two dead bandits lying next to it 
@@ -65,7 +65,7 @@
 - The train makes it to the station, but due to the conductor's weakness it goes out of control and careens into other trains
 	- The crash causes the brain to fall out of the vessel and onto the ground 
 	- Officers start rushing into the train and ordering people to evacuate 
-	- Hymn touches the brain while trying to wrap it back up and hide it, and takes a massive amount of damage and has a vision of snake people doing atrocious things
+	- Hymn touches the brain while trying to wrap it back up and hide it, and takes a massive amount of damage and has a vision of snake people torturing and mummifying each other
 	- Oz touches the brain and takes some damage, is able to save against the visions 
 	- Party hides the brain inside of Mabel's mushroom Bag of Holding
 
