@@ -15,6 +15,11 @@
 -  The elf introduces herself as Juniper and says that she was looking for people to ride with because she's anxious
 - News boy walks by: talks about food shortages and [[NPC/Lily Hazelheart\|Lily Hazelheart's]] efforts in the Grainlands 
 - Party gets through security 
+- Mabel tries to put up another missing poster of the [[NPC/Doorguard\|Doorguard]], but a commissar officer stops her and asks if she will come with him to answer some questions about the missing man 
+	- Mabel takes the poster back down and crumples it up, and the commissar tells that he'll overlook her destroying evidence this time
+- Hymn tells Mabel that there's other men out there for her, and theorizes that [[NPC/Susan Dandry\|Susan Dandry]] was actually the man's wife and not his sister 
+	- Oz offers to use Sending to try to contact him again after she rests next, and Hymn calls her an enabler
+	- Mabel says she'll still keep looking for her man, but will keep an open mind while they're in Foghaven 
 - Party tries to board, but they hear yelling near the front of the train 
 - Protestors for non-magic users rights have gathered in front of the train and started building barricades 
 - Commissars try to settle the crowd down
@@ -53,7 +58,6 @@
 		- Hymn gets flustered, says that it's true, then also walks away
 
 >[!redacted]
-
 
 
 - Oz returns, tells Arthur to follow her in Abyssal,  and he follows 
