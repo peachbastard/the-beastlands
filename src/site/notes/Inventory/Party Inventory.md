@@ -16,7 +16,7 @@
 ##### Individual Items 
 | File                                                      | Owner       |
 | --------------------------------------------------------- | ----------- |
-| [[Inventory/Cursed Ring\|Cursed Ring]]                 | Hymn        |
+| [[Inventory/Crystal Brain\|Crystal Brain]]             | Hymn        |
 | [[Inventory/The Bomb\|The Bomb]]                       | Hymn        |
 | [[Inventory/Demon Slaying Sword\|Demon Slaying Sword]] | Lysanderoth |
 | [[Inventory/Paintbrush Staff\|Paintbrush Staff]]       | Mabel       |
