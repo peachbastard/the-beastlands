@@ -118,4 +118,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-|  [[Recaps/2023-07-17 Make Your Mama Sad Type\|2023-07-17 Make Your Mama Sad Type]] |  |
+|  [[Recaps/2023-07-17 Make Your Mama Sad Type\|2023-07-17 Make Your Mama Sad Type]] | [[Recaps/2023-08-03 Rag Doll Rat of a Child\|2023-08-03 Rag Doll Rat of a Child]] |
