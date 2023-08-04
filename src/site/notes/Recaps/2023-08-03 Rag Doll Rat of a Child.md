@@ -15,7 +15,6 @@
 -  The elf introduces herself as Juniper and says that she was looking for people to ride with because she's anxious
 - News boy walks by: talks about food shortages and [[NPC/Lily Hazelheart\|Lily Hazelheart's]] efforts in the Grainlands 
 - Party gets through security 
-- Since the last session, Oz has been feeling sweaty and has a strange thirst
 - Party tries to board, but they hear yelling near the front of the train 
 - Protestors for non-magic users rights have gathered in front of the train and started building barricades 
 - Commissars try to settle the crowd down
@@ -52,10 +51,11 @@
 	- Hymn notes that Oz is extra pale and sweating hard and asks if she put on a cursed ring too 
 	- Oz dodges the questions, says it's because Hymn's too hot, then walks away
 		- Hymn gets flustered, says that it's true, then also walks away
-- Oz searches through the train and finds a room with a bunch of giant lockboxes 
-	- Opens on and finds that it is full of gold gems, and a small ring with a red ring that glows brightly 
-		- Pockets these 
-	- Opens another chest and finds that it's full of child-sized bones with inscriptions on them that are similar to the writings in the page Arthur picked out
+
+>[!redacted]
+
+
+
 - Oz returns, tells Arthur to follow her in Abyssal,  and he follows 
 - Juniper sends out a rat to follow, but Hymn decides against invisibly sending their imp since they know Oz can see it anyways 
 - The rest of the party follows Oz into the room 
