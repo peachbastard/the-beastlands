@@ -69,3 +69,8 @@
 - Oz goes to cast Earthquake between the trains, but Hymn Counterspells it and says that it could just be another passenger train, or a Sorcerer's Union train and they just kill everyone on it, or it could be the commissars and they try to talk their way out of it 
 	- Oz says, "Whatever, Hymn. You do the talking," and walks away
 - Session ends as the train gains on the party and they try to decide what to do next
+
+
+|  **Previous Session**   |   **Next Session**   |
+| --- | --- |
+| [[Recaps/2023-07-27 Happiness Hit Her\|2023-07-27 Happiness Hit Her]]  |  |
