@@ -70,7 +70,7 @@
 - Hymn says that they can put the boxes in their Demiplane, but they need to take an hour nap first 
 	- They emphasize that they are not to be woken up for any reason 
 - As they say this, the party notices another train that is about a mile away from them, but catching up quickly 
-- Oz goes to cast Earthquake between the trains, but Hymn Counterspells it and says that it could just be another passenger train, or a Sorcerer's Union train and they just kill everyone on it, or it could be the commissars and they try to talk their way out of it 
+- Oz goes to cast Earthquake between the trains, but Hymn Counterspells it and says that it could just be another passenger train, or a Sorcerer's Union train and they just kill everyone on it, or it could be the commissars and they can try to talk their way out of it 
 	- Oz says, "Whatever, Hymn. You do the talking," and walks away
 - Session ends as the train gains on the party and they try to decide what to do next
 
