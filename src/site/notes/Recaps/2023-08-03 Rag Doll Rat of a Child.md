@@ -32,7 +32,7 @@
 - Mabel transforms into a bear and tries to intimidate the protestors into running away, but there are hundreds of them 
 - A bomb goes off that kills many of the protestors and harms the party 
 - Juniper hides in the smoke on top of the train and effortless takes out a weakened commissar officer
-- Oz drops the Banishment and tries to cast Dominate Monster on the leader of the protestors, but he resists against it 
+- Oz drops the Banishment and tries to cast a spell on the leader of the protestors, but he resists against it 
 - Hymn tries to cast Major Image to create the visage of a growing infernal from the explosion, but a figure whose face is wrapped in brown rags (leaving only their glowing blue eyes exposed) Counterspells them
 	- Hymn tries to remember if it's similar to the rags worn by the Sorcerer's Union assassin, but cannot
 - [[Party/Oz\|Oz]] sneaks into the train and is able to ascertain how to release the brakes, but needs to get the furnace going 
