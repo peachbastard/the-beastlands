@@ -72,6 +72,7 @@
 - As they say this, the party notices another train that is about a mile away from them, but catching up quickly 
 - Oz goes to cast Earthquake between the trains, but Hymn Counterspells it and says that it could just be another passenger train, or a Sorcerer's Union train and they just kill everyone on it, or it could be the commissars and they can try to talk their way out of it 
 	- Oz says, "Whatever, Hymn. You do the talking," and walks away
+- Mabel casts Hallucinatory Terrain and creates an image of the train tracks getting fucked up, but the train continues on undeterred  
 - Session ends as the train gains on the party and they try to decide what to do next
 
 
