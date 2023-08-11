@@ -10,7 +10,7 @@
 	- The train slows with the Hallucinatory Terrain Mabel previously summoned, but continues forward
 	- Train has no markings and has small slits where passenger windows normally would be 
 - Party minus Oz plots to potentially fake their death
-	- They come up with a plan to have Mabel drink one of her Potions of Dragon's Majesty, destroy the train they're in,  make it look like they all died, then fly to [[Places/Foghaven\|Foghaven]] 
+	- They come up with a plan to have Mabel drink one of her Potions of Dragon's Majesty, destroy the train they're in, make it look like they all died, then fly to [[Places/Foghaven\|Foghaven]] 
 - [[Party/Hymn\|Hymn]] says they can turn the train into a an adult brass dragon 
 - [[Party/Lysanderoth\|Lysanderoth]] says they could pick up the train, bring the people to him, and kill them all  
 - Train starts to gain speed and they hurriedly go with the plan to fake their deaths and fly off
@@ -26,7 +26,7 @@
 	- He yells up to Mabel about the dead firbolg 
 	- She can hear it with her keen dragon senses and is sad, but pragmatic about it 
 - Oz attempts to follow with her own crowbar, but trips on one of Mabel's teeth and tumbles out of her mouth 
-	- As she falls in mid-air, she casts Death Ward on herself 
+	- As she falls in she casts Death Ward on herself in mid-air
 	- Oz smacks against the front of the train and sees three figures at the front of it, but no visible doors 
 - Hymn decides to stay inside Mabel's mouth 
 - Mabel uses a wing attack ability against the train in an attempt at knocking it over
