@@ -130,7 +130,7 @@
 	- She tells them that the "PUP" are trying to stop the commissary, and that Archmagis Meowcifer is up to something 
 		- Lysanderoth asks Oz if she was the one to slit his throat, but she's unsure of the events of that day
 	- Juniper then transforms into a swarm of rats and disappears 
-- Hymn has their imp turn invisible and fly off into town with the two Bags of Holding 
+- Hymn has their imp turn invisible and fly off into town with the Mabel's Bag of Holding and the Bag of Holding with the [[Inventory/Crystal Brain\|brain]] in it
 	- They give it a treat and a scritch before it leaves
 - The party approaches the gates and are told that they need to have their passports stamped in the next 24 hours or be arrested 
 - Hymn asks the guard if he knows of any good taverns in town with good vibes and hot women 
