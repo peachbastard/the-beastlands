@@ -3,7 +3,7 @@
 ---
 
 
-> [!party]
+> [!npc]
 > ![Juniper Updated IMG.png](/img/user/z_Assets/Juniper%20Updated%20IMG.png)
 
 ###### Basic Information
