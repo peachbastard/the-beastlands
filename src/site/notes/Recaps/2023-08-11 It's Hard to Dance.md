@@ -90,6 +90,7 @@
 	- Lysanderoth says that she probably won't be able to do so because of its corrosive influence
 	- Oz insists that she will be able to remove it, but Hymn doesn't relent 
 	- Arthur asks if he can have the sword, and Oz is in for the idea of someone holding the curse so that she could remove it from them 
+	- Lysanderoth asks Oz if she can speak to [[Lore/Goathead\|Goathead]], but she says that he would probably tell her to take it 
 - Hymn drops Levitate on Oz and casts it on the sword instead
 - The sword suddenly grows pair of huge burly arms that reach out towards the party 
 - As the head emerges, Mabel uses her [[Inventory/Paintbrush Staff\|Paintbrush Staff]] to hit it like a golf ball away from the party, but the exposed parts alone are too heavy to do so
@@ -100,7 +101,7 @@
 - Hymn asks Mabel if she can help their persuasion skills
 	- Mabel uses Enhance Ability to give Hymn advantage on Charisma checks 
 - Hymn says that they will accept the pact and holds their hand out 
-	- When the demon goes to give it to them, they successfully finesse it into the Bag of Devouring as the demon yells something in Abyssal that only Oz can understand
+	- When the demon goes to give it to them, they successfully finesse it into the Bag of Devouring as the demon yells something in Abyssal 
 >[!redacted]
 
 - With the sword problem gone, Oz asks if they can go to town now
@@ -108,7 +109,7 @@
 ## High Steaks  
 - As they continue on, they happen upon a small, crying, dirty-looking little girl 
 	- They approach to ask what's wrong, and she says that her cow escaped
-- Oz asks if she can just give her 20 gold pieces for a new one 
+- Oz asks if she can just give her 20 GP for a new one 
 	- The little girls says that she was supposed to sell it at the market, and Oz offers her 25 gold pieces; to which Hymn and Lysanderoth each offer some additional gold 
 	- The little girls says that the cow's name is Dandelion and it's her best friend
 - Mabel uses her firbolg ability to speak with animals to yell across the field to ask Dandelion what she wants, then relays to everyone that the cow wants to be free 
@@ -122,12 +123,14 @@
 
 ## Entering Foghaven
 - They approach, still unsure if they're able to just go through 
-- [[NPC/Juniper\|Juniper]] approaches and wraps her arms around the party's shoulders as they walks
+- [[NPC/Juniper\|Juniper]] approaches and wraps her arms around the party's shoulders as they walk 
 	- She says that she was able to escape with the help of her rats and ravens, then met up with her people to get a better handle on the situation
 	- She then informs the party while they're not in any danger of being immediately arrested at the gates, they have unfortunately found themselves in a larger conspiracy amongst the commissars 
-	- She tells them that the PUP are trying to stop the commissary, and that Archmagis Meowcifer is up to something 
-		- Lysanderoth asks Oz if she was the one to slit his throat
+	- She tells them that the "PUP" are trying to stop the commissary, and that Archmagis Meowcifer is up to something 
+		- Lysanderoth asks Oz if she was the one to slit his throat, but she's unsure of the events of that day
 	- Juniper then transforms into a swarm of rats and disappears 
+- Hymn has their imp turn invisible and fly off into town with the two Bags of Holding 
+	- They give it a treat and a scritch before it leaves
 - The party approaches the gates and are told that they need to have their passports stamped in the next 24 hours or be arrested 
 - Hymn asks the guard if he knows of any good taverns in town with good vibes and hot women 
 	- The guard becomes irate and and says that he's not a tour guide 
@@ -149,6 +152,7 @@
 	- The man doesn't know the meaning of the word cute, and points them to the Rusted Stool 
 - Lysanderoth finds a public potable water facility and uses it to wash the blood off 
 	- Oz positions herself under a spout and starts chugging water
+	- Hymn touches their amulet and talks to [[Lore/The Hanged God\|The Hanged God]] and agrees to their next mark
 - The party enters the Rusted Stool to find a glassy-eyed bartender and two children about nine-years old drinking beers at a table 
 	- Mabel and Lysanderoth go to the bar, while Hymn and Oz approach the children 
 - Hymn pulls a dagger out and starts stabbing it between their fingers and using Minor Illusion to make it look like they're going incredibly fast 
@@ -172,3 +176,8 @@
 - The party continues on to look for a more enjoyable tavern 
 - They find themselves in the Wizard's District, which is only open to full citizens 
 - Session ends as the party enters a new tavern that is much upscale with its live music, the sexy glass construct bartender, and its overall ambience 
+
+
+|  **Previous Session**   |   **Next Session**   |
+| --- | --- |
+|  [[Recaps/2023-08-03 Rag Doll Rat of a Child\|2023-08-03 Rag Doll Rat of a Child]] |  |
