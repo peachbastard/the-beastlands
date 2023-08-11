@@ -29,7 +29,7 @@
 - Juniper starts screaming at the top of her lungs and trying to rile up the crowd and shake them to make them do something
 - Hymn casts Levitate on Pill to get him away from the two commissars apprehending him
 	- Oz casts Banishment on the two
-- Mabel transforms into a bear and tries to intimidate the protestors into running away, but there are hundreds of them 
+- [[Party/Mabel\|Mabel]] transforms into a bear and tries to intimidate the protestors into running away, but there are hundreds of them 
 - A bomb goes off that kills many of the protestors and harms the party 
 - Juniper hides in the smoke on top of the train and effortless takes out a weakened commissar officer
 - Oz drops the Banishment and tries to cast a spell on the leader of the protestors, but he resists against it 
