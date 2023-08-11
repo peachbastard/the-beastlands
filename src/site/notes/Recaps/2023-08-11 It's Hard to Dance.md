@@ -62,7 +62,7 @@
 
 ## Bloodthirst
 - Mabel lands to where they're just out of sight of town on the southern end 
-- Lysanderoth tells Arthur that they can look for a library and get him more books 
+- Lysanderoth tells [[NPC/Arthur\|Arthur]] that they can look for a library and get him more books 
 	- Mabel is instantly onboard with this idea
 - Lysanderoth looks around for some water to wash the blood off  
 - Oz receives a message from [[NPC/General Falconhein\|General Falconhein]]
@@ -109,6 +109,7 @@
 ## High Steaks  
 - As they continue on, they happen upon a small, crying, dirty-looking little girl 
 	- They approach to ask what's wrong, and she says that her cow escaped
+	- [[NPC/Pill\|Pill]] is very blasé about his disregard for non-citizens like this 
 - Oz asks if she can just give her 20 GP for a new one 
 	- The little girls says that she was supposed to sell it at the market, and Oz offers her 25 gold pieces; to which Hymn and Lysanderoth each offer some additional gold 
 	- The little girls says that the cow's name is Dandelion and it's her best friend
