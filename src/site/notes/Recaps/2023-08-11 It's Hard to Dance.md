@@ -20,7 +20,7 @@
 	- They apologize for Counterspelling her Earthquake spell, says they promise to make it up to her, and thank her for all the nice things she's done for them 
 	- They says they appreciate her, but on that note they're going to turn into a dragon and fly away
 	- Oz readily agrees to the plan and follows after them
-- Mabel drinks the potion and turns into a dragon and everyone climbs into her mouth
+- [[Party/Mabel\|Mabel]] drinks the potion and turns into a dragon and everyone climbs into her mouth
 	- Mabel starts to get hit by roped ballista 
 - Lysanderoth grabs his crowbar, uses it to ride the rope down, then kills a firbolg inside that is wrapped in cloth with an interesting pair of googles on their head, the same used by the commissars 
 	- He yells up to Mabel about the dead firbolg 
