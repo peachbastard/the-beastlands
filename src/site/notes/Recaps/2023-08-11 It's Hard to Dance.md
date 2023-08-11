@@ -94,7 +94,7 @@
 - Hymn drops Levitate on Oz and casts it on the sword instead
 - The sword suddenly grows pair of huge burly arms that reach out towards the party 
 - As the head emerges, Mabel uses her [[Inventory/Paintbrush Staff\|Paintbrush Staff]] to hit it like a golf ball away from the party, but the exposed parts alone are too heavy to do so
-- A demon emerges from the sword and demands that someone form a new pact with it, or that they give him Arthur's blood
+- A demon emerges from the sword and demands that someone form a new pact with it, or that they give him Arthur's blood to drink
 - Oz asks what he wants out of this pact
 	- The demon says that it wants carnage and to sit upon its throne of blood, and calls her by name 
 	- Oz asks how it knows her name, and the demon asks if she thought that she could just call out to the nothingness like she has been and expect that no one is listening 
