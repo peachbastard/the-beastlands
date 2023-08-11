@@ -19,7 +19,7 @@
 - [[Party/Oz\|Oz]] is on top of the train smoking a cigarette when Hymn finds her
 	- They apologize for Counterspelling her Earthquake spell, says they promise to make it up to her, and thank her for all the nice things she's done for them 
 	- They says they appreciate her, but on that note they're going to turn into a dragon and fly away
-	- Oz readily agrees and follows after them
+	- Oz readily agrees to the plan and follows after them
 - Mabel drinks the potion and turns into a dragon and everyone climbs into her mouth
 	- Mabel starts to get hit by roped ballista 
 - Lysanderoth grabs his crowbar, uses it to ride the rope down, then kills a firbolg inside that is wrapped in cloth with an interesting pair of googles on their head, the same used by the commissars 
@@ -109,7 +109,7 @@
 ## High Steaks  
 - As they continue on, they happen upon a small, crying, dirty-looking little girl 
 	- They approach to ask what's wrong, and she says that her cow escaped
-	- [[NPC/Pill\|Pill]] is very blasé about his disregard for non-citizens like this 
+	- [[NPC/Pill\|Pill]] is very blasé about his disregard for non-citizens like this her
 - Oz asks if she can just give her 20 GP for a new one 
 	- The little girls says that she was supposed to sell it at the market, and Oz offers her 25 gold pieces; to which Hymn and Lysanderoth each offer some additional gold 
 	- The little girls says that the cow's name is Dandelion and it's her best friend
