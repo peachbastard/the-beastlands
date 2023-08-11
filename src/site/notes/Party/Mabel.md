@@ -4,9 +4,10 @@
 
 
 > [!party]
-> ![Mabel IMG.png](/img/user/z_Assets/Mabel%20IMG.png)
+> ![Mabel Updated IMG.png](/img/user/z_Assets/Mabel%20Updated%20IMG.png)
 
 ###### Basic Information 
+
 | **Race** | **Class**  | **Subclass**                       |
 | -------- | ---------- | ---------------------------------- |
 | Firbolg  | Druid/Monk | Circle of Spores/Way of the Kensei |
