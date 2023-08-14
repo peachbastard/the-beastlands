@@ -60,7 +60,7 @@
 - They eventually decide on having Mabel use  Enhance Ability on the imp, having it sneak in invisibly, then dumping the contents of the bag of holding into Hymn's Demiplane 
 	- Hymn creates a Demiplane that has soft padding on the ground and walls
 - After a lot of deliberating, party is able to carry out the above plan 
-	- They leave the actual bag behind, dump the contents of that bag and a mysterious black linen bag into the marshmallow room, then have the imp return back to the party 
+	- They leave the actual bag behind, dump the contents of that bag and a [[Inventory/Bag of Devouring\|mysterious black linen bag]] into the marshmallow room, then have the imp return back to the party 
 
 
 ## Night 4
