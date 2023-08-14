@@ -101,7 +101,7 @@
 - Hymn asks Mabel if she can help their persuasion skills
 	- Mabel uses Enhance Ability to give Hymn advantage on Charisma checks 
 - Hymn says that they will accept the pact and holds their hand out 
-	- When the demon goes to give it to them, they successfully finesse it into the Bag of Devouring as the demon yells something in Abyssal 
+	- When the demon goes to give it to them, they successfully finesse it into the [[Inventory/Bag of Devouring\|Bag of Devouring]] as the demon yells something in Abyssal 
 >[!redacted]
 
 - With the sword problem gone, Oz asks if they can go to town now
