@@ -13,7 +13,7 @@
 
 >[!redacted]
 
-- Hymn tries to lighten up the mood and pulls out the black Bag of Holding they found from the last town's commissary office and says that they could see what's in it
+- Hymn tries to lighten up the mood and pulls out the [[Inventory/Bag of Devouring\|black Bag of Holding]] they found from the last town's commissary office and says that they could see what's in it
 	- [[Party/Mabel\|Mabel]] proposes that they all put their hand in and pick something out at random
 - Hymn's hand goes numb after reaching inside, then pulls it out and finds it completely obliterated and mostly cauterized 
 	- They go to the back of the car and start crying, completely demoralized 
