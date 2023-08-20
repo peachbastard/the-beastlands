@@ -181,4 +181,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-|  [[Recaps/2023-08-03 Rag Doll Rat of a Child\|2023-08-03 Rag Doll Rat of a Child]] |  |
+|  [[Recaps/2023-08-03 Rag Doll Rat of a Child\|2023-08-03 Rag Doll Rat of a Child]] | [[Recaps/2023-08-19 Crystal Night\|2023-08-19 Crystal Night]] |
