@@ -11,6 +11,13 @@
 | --------- | ------------- |
 | South     | Unknown       |
 
-- Party's current destination
 - Accessible only through river runners and trains
+- River-based economy 
+-  Capitol of Foghaven used to be bustling, can kind of be seen in the decaying once grand architecture due to the position of the All Faith's Temple  
+	- A centralization of unions of religions across the continent
+- Many canals and large rivers, dockyards 
+- Canals are full of river runners who use diverse magical means to propel boats from enchanted eels and sea beasts to self propelled crafts and sacred koi fish 
+- Constant level of fog throughout the city 
+- Different forecasts of fog throughout different parts of the city
+- Mayor is a vampire 
 
