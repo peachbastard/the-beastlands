@@ -41,7 +41,7 @@
 	- The local calls the drow "filthy white hairs" and says that they're getting "taken care of " by the courts 
 - Party watches as the drow are taken down to the dungeons 
 	- Hymn says they don't feel super great about what's happening with the drow
-	- Pill is more flippant about their fates and asks Hymn if they've ever even met a drow before 
+	- [[NPC/Pill\|Pill]] is more flippant about their fates and asks Hymn if they've ever even met a drow before 
 		- Hymn says that they've kissed more drow than he's ever met
 - Crowd eventually disperses
 - Party returns to the Reflecting Teacup without Mabel
@@ -55,7 +55,7 @@
 	- They complain to Oz, who tears a strip off her leather armor to make them a new loop 
 	- They thank Oz and kiss her on the cheek
 - Hymn chugs another drink and immediately passes out
-- The party minus Mabel settle in for a long rest with Arthur and Pill in one room, Lysanderoth by himself, and Oz an Hymn in the deluxe room
+- The party minus Mabel settle in for a long rest with [[NPC/Arthur\|Arthur]] and Pill in one room, Lysanderoth by himself, and Oz an Hymn in the deluxe room
 - Mabel returns with a small bag of gold and a painting
 	- She casts Scrying on the [[NPC/Evil Firbolg\|evil firbolg]] that hangs out with [[NPC/Captain Janken\|Captain Janken]] 
 	- Finds him in layers of clothing in the fog walking beside a river 
@@ -104,6 +104,7 @@
 - Lysanderoth grumbles about the elf as he leaves, and Hymn is surprised to see that he has that kind of vitriol in him
 - Lysanderoth asks Pill about his night, but he doesn't remember it 
 	- Oz tries to jog his memory by yelling threats in Abyssal, but it doesn't help 
+	- Arthur mentions that his destination was always Foghaven
 - Oz starts to get a message from her Sending Stone and walks out of the tavern with her drink to smoke a cigarette and take the call 
 	- Hymn has their sprite hang onto her back and follow/listen in 
 
