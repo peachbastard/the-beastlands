@@ -5,7 +5,7 @@
 
 # What Happened?
 ## Better Bar
-Party starts the session in a nicer tavern in the Wizard's Quarters called The Reflecting Teacup 
+- Party starts the session in a nicer tavern in the Wizard's Quarters called The Reflecting Teacup 
 - Bartender is a sexy glass construct
 - Ambient music playing by a bard telepathically controlling several instruments
 - Medium-size, but warm 
@@ -64,7 +64,7 @@ Party starts the session in a nicer tavern in the Wizard's Quarters called The R
 	- In their drunken stupor they try and fail at casting a Minor Illusion flame to light the cigarette and express concern that Mabel has been eaten by an eel
 - A  woman in white gloves smoothly reaches over and lights Hymn's cigarette with a purple flame
 - Hymn says they're the cutest tiefling she will find anywhere around 
-	- They ask Oz if they should be suspicious, and the masked person says to always be suspicious, then disappears with a plume of birds
+	- They ask Oz if they should be suspicious, and the masked person says to always be suspicious, then disappears in a plume of birds
 - Hymn tries to use Levitate to bring food from the buffet over to the party, but Lysanderoth intercepts and takes the leather loop they need to cast the spell
 	- They complain to Oz, who tears a strip off her leather armor to make them a new loop 
 	- They thank Oz and kiss her on the cheek
