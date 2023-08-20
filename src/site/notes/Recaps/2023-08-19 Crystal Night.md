@@ -4,25 +4,11 @@
 
 
 # What Happened?
-## Better Bar
-- Party starts the session in a nicer tavern in the Wizard's Quarters called The Reflecting Teacup 
+## The Menu
+- Party starts the session in a nicer tavern in the Wizard's Quarters of [[Places/Foghaven\|Foghaven]] called [[The Reflecting Teacup \|The Reflecting Teacup ]]
 - Bartender is a sexy glass construct
 - Ambient music playing by a bard telepathically controlling several instruments
-- Medium-size, but warm 
-
-## Foghaven Info 
-- [[Places/Foghaven\|Foghaven]] is on several tributaries feeding out along archipelagos that feed into the huge ocean that covers the other hemisphere
-- Most rivers begin in the Cyclopean Peaks, then flow through the Phase Hand to where no one can track down through the Riverlands
-- Capitol of Foghaven used to be bustling, can kind of be seen in the decaying once grand architecture due to the position of the All Faith's Temple  
-	- A centralization of unions of religions across the continent
-- Many canals and large rivers, dockyards 
-- Canals are full of river runners who use diverse magical means to propel boats from enchanted eels and sea beasts to self propelled crafts and sacred koi fish 
-- Constant level of fog throughout the city 
-- Party has seen a few groups of Wizard Union badge wearing patrollers clearing out fog as they go, but it always comes back
-- Different forecasts of fog throughout different parts of the city
-- Mayor is a vampire 
-
-## The Menu
+- Medium-size, but warm
 - Party settles at a table and the construct approaches 
 - [[Party/Hymn\|Hymn]] and Mabel are delighted by the fact that this place has a menu and take one to peruse over eating at the buffet 
 - Hymn orders a round of drinks and sees that Oz looks impatient 
@@ -110,7 +96,7 @@
 	- She doesn't rebuke Oz's attention, but doesn't reciprocate it
 		- Oz winks at her and walks back to the party
 - Hymn decides to approach her and finds that she has very interesting eyes and is reading a book of poetry 
-	- Through their flirting, they are able to learn that her name is Azara
+	- Through their flirting, they are able to learn that her name is [[NPC/Azara\|Azara]]
 	- They ask what her favorite poem is, and she says that she may perhaps slip a copy of it beneath their door 
 - Lysanderoth approaches and pulls out the ancient artifacts he got from the Yuan-Ti temple and asks her if she recognizes them; which she declines 
 	- He asks about her tattoos and insists that she must know more about these artifacts 
