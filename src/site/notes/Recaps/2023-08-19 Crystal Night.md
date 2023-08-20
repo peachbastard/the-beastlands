@@ -55,6 +55,8 @@ Party starts the session in a nicer tavern in the Wizard's Quarters called The R
 	- The local calls the drow "filthy white hairs" and says that they're getting "taken care of " by the courts 
 - Party watches as the drow are taken down to the dungeons 
 	- Hymn says they don't feel super great about what's happening with the drow
+	- Pill is more flippant about their fates and asks Hymn if they've ever even met a drow before 
+		- Hymn says that they've kissed more drow than he's ever met
 - Crowd eventually disperses
 - Party returns to the Reflecting Teacup without Mabel
 - [[Party/Oz\|Oz]] is notably more content-looking than she's looked the last few days 
@@ -121,7 +123,7 @@ Party starts the session in a nicer tavern in the Wizard's Quarters called The R
 
 >[!redacted]
 
-- Oz scritches the sprite, gives it some loose fruits and berries; then says, "Aight, boss," and ends the call
+- Oz scritches the sprite, gives it some loose nuts and berries; then says, "Aight, boss," and ends the call
 	- She walks back into the tavern after contemplating smashing her fancy glass and tells the party that she has some business she needs to attend to 
 - Hymn gets excited and asks if they can come, but is reminded that they need to seek out books at the All Faiths Temple 
 	- Oz invites Hymn to come with her and says that they can go to the temple at some point
