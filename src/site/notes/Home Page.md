@@ -23,3 +23,4 @@
 - [[Recaps/2023-08-03 Rag Doll Rat of a Child\|2023-08-03 Rag Doll Rat of a Child]]
 - [[Recaps/2023-08-10 It's Hard to Dance\|2023-08-10 It's Hard to Dance]]
 - [[Recaps/2023-08-19 Crystal Night\|2023-08-19 Crystal Night]]
+- [[Recaps/2023-08-23 Ragged Little Pill\|2023-08-23 Ragged Little Pill]]
