@@ -118,4 +118,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Recaps/2023-08-10 It's Hard to Dance\|2023-08-10 It's Hard to Dance]]  |  |
+| [[Recaps/2023-08-10 It's Hard to Dance\|2023-08-10 It's Hard to Dance]]  | [[Recaps/2023-08-23 Ragged Little Pill\|2023-08-23 Ragged Little Pill]] |
