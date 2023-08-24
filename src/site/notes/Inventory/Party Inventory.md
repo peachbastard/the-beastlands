@@ -14,12 +14,14 @@
 
 
 ##### Individual Items 
-| File                                                      | Owner       |
-| --------------------------------------------------------- | ----------- |
-| [[Inventory/Crystal Brain\|Crystal Brain]]             | Hymn        |
-| [[Inventory/The Bomb\|The Bomb]]                       | Hymn        |
-| [[Inventory/Demon Slaying Sword\|Demon Slaying Sword]] | Lysanderoth |
-| [[Inventory/Paintbrush Staff\|Paintbrush Staff]]       | Mabel       |
-| [[Inventory/Oz's Eye\|Oz's Eye]]                       | Oz          |
+| File                                                      | Owner |
+| --------------------------------------------------------- | ----- |
+| [[Inventory/Backbiter\|Backbiter]]                     | Hymn  |
+| [[Inventory/Bag of Devouring\|Bag of Devouring]]       | Hymn  |
+| [[Inventory/Demon Slaying Sword\|Demon Slaying Sword]] | Hymn  |
+| [[Inventory/Crystal Brain\|Crystal Brain]]             | Hymn  |
+| [[Inventory/The Bomb\|The Bomb]]                       | Hymn  |
+| [[Inventory/Paintbrush Staff\|Paintbrush Staff]]       | Mabel |
+| [[Inventory/Oz's Eye\|Oz's Eye]]                       | Oz    |
 
 { .block-language-dataview}
