@@ -101,7 +101,7 @@
 	- They trade treasures that they looted from a hag 
 	- Oz trades one of her diamonds for four platinum rings
 - Session ends as the party reconvenes at the Sinners Last Repose
-	- As they walk, Oz tells Hymn that this is the meeting spot for their bomb contact
+	- As they walk, Oz tells Hymn that this is the meeting spot for their [[NPC/Yorick\|contact]]
 
 
 |  **Previous Session**   |   **Next Session**   |
