@@ -92,7 +92,7 @@
 - Mabel and Lysanderoth are teleported to a strange castle 
 - The man offers a mirror, ballerina shoes that will let her fly through the air,  and a fey ring, in exchange for her eye color 
 	- He kisses the ring and a small petal-like gem blooms on it, gives her his number if she wishes to call 
-- Mabel accepts the offer
+- Mabel accepts the offer and they return to Foghaven
 	- Her eyes are now totally black and she can no longer see or perceive any color 
 - Oz looks for a jewelry store, but any nice ones would be where there is heightened police presence, and there are checkpoints along the way 
 	- The two of them settle for a pawn shop 
