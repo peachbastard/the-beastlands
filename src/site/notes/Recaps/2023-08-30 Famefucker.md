@@ -5,7 +5,9 @@
 
 
 ## What Happened? 
- ## Thin Walls 
+
+## Thin Walls 
+ 
 >[!redacted]
 
 - [[Party/Hymn\|Hymn]] goes off on their own
