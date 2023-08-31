@@ -46,7 +46,7 @@
 - Nikos Binraylis second son of the Acordia, third in line to the grand consort 
 	- States that they have claimed these as their war splendor, and children and adults are taken in towards the fissure to be sold as slaves
 - They tell Oz that they will take the rest of the party to be sold as well, unless she wants to buy them through gold or through deed
-	- Oz asks what she would do with some blue demon and old man, and Hymn rolls their eyes
+	- Oz asks what she would do with some blue demon and an old man, and Hymn rolls their eyes
 		- The drow says they usually slay demons.  Oz says she'll do the same, and Hymn wags their tail
 - Oz asks about the latter, and a devil appears holding a contract to kill archmagi Vy by the two and a half full moons, or at the passing of the moon these three will be theirs 
 	- Oz signs the contract with her blood 
@@ -81,7 +81,7 @@
 	- She says that the city is going to be destroyed no matter what, and all that changes is who gets to claim the prize 
 - Hymn tries coming up with other solutions like locking up all the bombs in their pocket dimension and killing themselves, but Oz says that they would just send more bombs 
 - Oz gives Hymn [[Inventory/Backbiter\|Backbiter]], and says that it's in case she forgets that they had this conversation, and says that it was a gift 
-	- Hymn thanks Oz, expresses their appreciation, and gives her the dagger that she stole from the child in the Rusted Stool in case she needs to stab them
+	- Hymn thanks Oz, expresses their appreciation, and gives her the dagger that she stole from the child in the Rusted Stool in case she needs to stab them again
 - Hymn asks why she trusts them so much when they haven't known each other that long 
 	- Oz shrugs and says it's a trial by fire 
 
@@ -106,4 +106,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-|[[Recaps/2023-08-19 Crystal Night\|2023-08-19 Crystal Night]]   |  |
+|[[Recaps/2023-08-19 Crystal Night\|2023-08-19 Crystal Night]]   | [[Recaps/2023-08-30 Famefucker\|2023-08-30 Famefucker]] |
