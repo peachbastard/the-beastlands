@@ -15,5 +15,5 @@
 
 - The only other blue tiefling that the party has heard of besides [[Party/Hymn\|Hymn]] 
 - Captain of a [[Lore/D.E.D.\|D.E.D.]] squad
-- Massacred an entire firbolg civilization, then made off with one of its [[NPC/Evil Firbolg\|babies]]
+- Massacred an entire firbolg civilization with lysan, then made off with one of its [[NPC/Evil Firbolg\|babies]]
 - Has been disrupting the party's attempts at scrying on him and on the [[NPC/Evil Firbolg\|Evil Firbolg]]
