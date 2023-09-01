@@ -18,3 +18,4 @@
 - Trained by giants 
 - Has a soft spot for children
 - Was badly burnt in a fight with a dragon
+- Worked with the [[NPC/Captain Janken\|blue tiefling]] to wipe out [[Party/Mabel\|Mabel's]] people
