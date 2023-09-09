@@ -25,3 +25,4 @@
 - [[Recaps/2023-08-19 Crystal Night\|2023-08-19 Crystal Night]]
 - [[Recaps/2023-08-23 Ragged Little Pill\|2023-08-23 Ragged Little Pill]]
 - [[Recaps/2023-08-30 Famefucker\|2023-08-30 Famefucker]]
+- [[Recaps/2023-09-08 Buckle Up, Creampuff\|2023-09-08 Buckle Up, Creampuff]]
