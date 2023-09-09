@@ -91,7 +91,7 @@
 - Party reconvenes in the dining area 
 - Oz tosses something to Lysanderoth, then to Mabel 
 	- She then walks up to Hymn and says, "Don't get the wrong idea," and hands them something 
-	- She had taken the platinum rings from the [[Recaps/2023-08-23 Ragged Little Pill\|yesterday]] and personalized each one; with runes for Lysanderoth, filigree and mushrooms for Mabel, and a door for Hymn  
+	- She had taken the platinum rings from the [[Recaps/2023-08-23 Ragged Little Pill#Strange Shopping\|yesterday]] and personalized each one; with runes for Lysanderoth, filigree and mushrooms for Mabel, and a door for Hymn  
 	- Hymn says that she can't marry three people at once, and Lysanderoth says that he doesn't want to marry her, but points out that polygamy is legal amongst citizens
 - Hymn doesn't put their ring on until they see that Mabel and Lysanderoth have, then casts Detect Magic on it and finds nothing 
 	- Oz laughs and asks if they don't trust her 
@@ -175,5 +175,5 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-|  [[Recaps/2023-08-23 Ragged Little Pill\|2023-08-23 Ragged Little Pill]] |  |
+|  [[Recaps/2023-08-23 Ragged Little Pill\|2023-08-23 Ragged Little Pill]] |[[Recaps/2023-09-08 Buckle Up, Creampuff\|2023-09-08 Buckle Up, Creampuff]]  |
 
