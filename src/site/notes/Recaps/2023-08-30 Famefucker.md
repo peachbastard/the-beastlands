@@ -49,7 +49,7 @@
 	- [[NPC/Lily Hazelheart\|Lily Hazelheart]] has begun a campaign in the grainlands that threatens to starve the [[Lore/Junken\|Junken]]; positive article about giving the yunken a taste of the famine 
 	- Article about river pollution potentially caused by a string of stonequakes 
 	- Mention of suspected Junken saboteurs; the dreaded Junken mercenaries are at it again, and to be on the lookout for mass murderer and antiparty agent known by several pseudonyms—a blue tiefling with straight horns and his firbolg associate 
-- Hymn offers the handsome half-orc a bite to eat, but he doesn't even bother looking up from his paper
+- Hymn offers the handsome [[NPC/Mystery Half-Orc\|Half-Orc]] a bite to eat, but he doesn't even bother looking up from his paper
 	- They say, "The world may be at war, but I'm in Hymn's world!"
 	- Mabel casts Enhance Ability on them to enhance their charisma, and they saunter over to him and flirt and asks again about getting a bite
 		- He says maybe later when he's done with the paper; reads it for a long time, then leaves
