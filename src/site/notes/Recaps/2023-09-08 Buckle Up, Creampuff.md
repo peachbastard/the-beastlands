@@ -114,7 +114,7 @@
 	- Oz says they'll be the better vampire once they've actually killed someone 
 - The party follows the creature to a central chamber with strange metal humanoid constructs with gems embedded in them and conducts some kind of ceremony
 - The upper half of the creature's body suddenly explodes 
-- The half-orc from the bar comes into view and says, "Where do you get off copying Janken's [[Lore/D.E.D.\|D.E.D.]] group like that?" saying that his is the only one with a blue tiefling and a firbolg
+- The [[NPC/Mystery Half-Orc\|Half-Orc]] from the bar comes into view and says, "Where do you get off copying Janken's [[Lore/D.E.D.\|D.E.D.]] group like that?" saying that his is the only one with a blue tiefling and a firbolg
 	- Hymn says Janken may be their dad, but he says he doesn't see a resemblance beyond being blue tieflings
 - Session ends as the party takes in the new arrival
 
