@@ -63,7 +63,7 @@
 - Oz tells him to let them leave, pulls out her dagger, cuts the eye out from her head, and hands it to the Priest 
 	- Hymn tries to intervene, but the Priest is too fast and his spectral skeletal hand pulls it away 
 - Oz falls to her knees and calls Hymn to her 
-	- She kisses them, says, "Now you can say you've kissed a vampire," closes her eyes, and dies 
+	- She kisses them, says, "Now you can say you've kissed a vampire," closes her eye, and dies 
 - Mabel swoops down as a dragon, picks everyone and the Priest up, and flies towards the All Faith's Temple entrance 
 - Cracks appear in the Priest's skull and light pours out of them as he takes more damage from the party 
 	- He summons a vortex of energy that starts suck Oz's soul out and says that her soul will rot in his stomach
