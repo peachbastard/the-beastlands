@@ -9,7 +9,7 @@
 ## What Happened? 
 
 ## Paperboy Part II
-- The half-orc laughs softly to himself and says, "You make a good distraction. This is why the rebels have to be destroyed,"
+- The [[NPC/Mystery Half-Orc\|Mystery Half-Orc]] laughs softly to himself and says, "You make a good distraction. This is why the rebels have to be destroyed,"
 - Two invisible figures appear heavily armored in junken-engineered suits 
 - The half-orc begins flying over and says, "With all this power I think I can kill [[NPC/Captain Janken\|Janken]] sooner than I thought"
 - [[Party/Mabel\|Mabel]] uses her ballerina slippers of flight to step up into the air like a staircase and starts attacking the half-orc 
