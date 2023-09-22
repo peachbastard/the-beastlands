@@ -101,4 +101,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-|  [[Recaps/2023-09-08 Buckle Up, Creampuff\|2023-09-08 Buckle Up, Creampuff]] |  |
+|  [[Recaps/2023-09-08 Buckle Up, Creampuff\|2023-09-08 Buckle Up, Creampuff]] | [[Recaps/2023-09-21 The King\|2023-09-21 The King]] |
