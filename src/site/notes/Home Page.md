@@ -28,4 +28,4 @@
 - [[Recaps/2023-09-08 Buckle Up, Creampuff\|2023-09-08 Buckle Up, Creampuff]]
 - [[Recaps/2023-09-13 Beneath the Milky Twilight\|2023-09-13 Beneath the Milky Twilight]]
 - [[Recaps/2023-09-21 The King\|2023-09-21 The King]]
-- [[cat\|cat]]
+- [[Recaps/2023-09-27 Cat's in the Cradle\|2023-09-27 Cat's in the Cradle]]
