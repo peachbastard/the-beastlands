@@ -78,6 +78,8 @@
 - Sniff says that he hates the Sorcerer's Union and would be willing to help them kill the Archmagistrate 
 - Hymn says they have to bring Oz to the sword during the full moon, so they have to kill the Archmagistrate before that 
 	- Party knows that there's an area where the 3-5 most powerful mages in the city live in the Wizard's District
+- Hymn asks if anyone has any means of getting places quickly, and Roy says he can cast Teleport 
+	- Hymn says they forgive him for killing their friend, even though they had spent months getting to know each other 
 - Hymn opens the door to Shook's room and tells her to mind the holes in the floor 
 	- Shook smiles and says she'll owe them two drinks 
 	- Hymn says that she owes them a spot on her bed, but she's already asleep
