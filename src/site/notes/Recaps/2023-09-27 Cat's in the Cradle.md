@@ -13,7 +13,7 @@
 - Captain Ferrick attacks Lysanderoth and Mabel with his flaming mace, and Mabel is trapped by black sludge
 - [[Party/Roy Valentine\|Roy Valentine]] uses his burrow movement to crash down the floor and emerges into a room with torture implements 
 	- He breaks into another room full of commissar officers that immediately unleash a buckshot at him 
-- [[Party/Lysanderoth\|Lysanderoth]] ask how he got his position, and the captain says that they like people that get results 
+- [[NPC/Lysanderoth\|Lysanderoth]] ask how he got his position, and the captain says that they like people that get results 
 - Lysanderoth attacks and tries to use a fire rune, but Captain Ferrick uses a cloud rune to redirect one of his attacks on Mabel
 - [[Party/Hymn\|Hymn]] is on their back crying, crawls to a place to hide
 - Lysanderoth finds himself eye-to-eye for a goliath for the first time since his family 
@@ -109,4 +109,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Recaps/2023-09-21 The King\|2023-09-21 The King]]  |  |
+| [[Recaps/2023-09-21 The King\|2023-09-21 The King]]  |[[Recaps/2023-10-05 Sniff Test\|2023-10-05 Sniff Test]]  |
