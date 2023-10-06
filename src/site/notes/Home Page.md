@@ -29,3 +29,4 @@
 - [[Recaps/2023-09-13 Beneath the Milky Twilight\|2023-09-13 Beneath the Milky Twilight]]
 - [[Recaps/2023-09-21 The King\|2023-09-21 The King]]
 - [[Recaps/2023-09-27 Cat's in the Cradle\|2023-09-27 Cat's in the Cradle]]
+- [[Recaps/2023-10-05 Sniff Test\|2023-10-05 Sniff Test]]
