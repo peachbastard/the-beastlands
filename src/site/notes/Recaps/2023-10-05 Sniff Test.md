@@ -7,7 +7,7 @@
 
 - [[Party/Mabel\|Mabel]] scoops up the sleeping [[NPC/Pill\|Pill]]  from the bar and tucks him into a bed
 - There's a booming knock on the door of the tavern 
-- [[Party/Roy Valentine\|Roy]] tries to cast Resurrection on [[Party/Lysanderoth\|Lysanderoth]], which causes the entire room to vibrate 
+- [[Party/Roy Valentine\|Roy]] tries to cast Resurrection on [[NPC/Lysanderoth\|Lysanderoth]], which causes the entire room to vibrate 
 	- Mabel and Hymn panic as this all goes on and rush into the room with Roy
 - A dwarf appears, sitting by the fireplace; drinking furiously and eating food 
 	- Big beard, long hair with a lot of braids and beads and knives braided in, furs, weather-beaten
@@ -106,3 +106,7 @@
 	- Hymn sees that he has the same compass that they found off the commissars and sneakily calls Mabel aside to point it out
 - The half-elf says that he ran into a bit of trouble, but is at the appointed place and time as promised; so there won't be any need for the countermeasures Falconhein put into place 
 - Session ends as the newcomer says that he has come to give the final coordinates and details for the mission 
+
+|  **Previous Session**   |   **Next Session**   |
+| --- | --- |
+| [[Recaps/2023-09-27 Cat's in the Cradle\|2023-09-27 Cat's in the Cradle]]  |  |
