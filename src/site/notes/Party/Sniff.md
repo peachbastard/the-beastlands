@@ -4,7 +4,7 @@
 
 
 > [!party]
-> ![Sniff IMG.png](/img/user/z_Assets/Sniff%20IMG.png)
+> ![Sniff Updated IMG.png](/img/user/z_Assets/Sniff%20Updated%20IMG.png)
 
 ###### Basic Information 
 
@@ -13,4 +13,4 @@
 | Dwarf    | Ranger    | Horizon Walker |
 
 - Member of the Monster Slayers Guild 
-- Has a compass that can detect monsters
+- Has a compass that can detect monsters 
