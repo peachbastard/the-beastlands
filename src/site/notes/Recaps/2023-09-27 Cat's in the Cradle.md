@@ -7,7 +7,7 @@
 
 ## Prison Break
 - Masked man with similar to Lysanderoth, stands much larger 
-	- Speaking to Hymn, referring to them as Janken's "You and the other D.E.Ds always thought you were so much better than me, kicking us the worst jobs during the Revolution. No more dirty work for us. It's Captain Ferrick now."
+	- Speaking to Hymn, referring to them as Janken's "You and the other [[Lore/D.E.D.\|D.E.D.]] always thought you were so much better than me, kicking us the worst jobs during the Revolution. No more dirty work for us. It's Captain Ferrick now."
 		- Lysanderoth knows that he's from the very bottom of the barrel 
 		- Says something in broken Giant, that Mabel and Lysanderoth insult 
 - Captain Ferrick attacks Lysanderoth and Mabel with his flaming mace, and Mabel is trapped by black sludge
