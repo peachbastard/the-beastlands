@@ -10,7 +10,7 @@
 
 | **Race** | **Class** | **Subclass**   |
 | -------- | --------- | -------------- |
-| Dwarf    | Ranger    | Horizon Walker |
+| Dwarf    | Ranger    | Horizon Walker Conclave|
 
 - Member of the Monster Slayers Guild 
 - Has a compass that can detect monsters 
