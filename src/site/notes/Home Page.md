@@ -30,3 +30,4 @@
 - [[Recaps/2023-09-21 The King\|2023-09-21 The King]]
 - [[Recaps/2023-09-27 Cat's in the Cradle\|2023-09-27 Cat's in the Cradle]]
 - [[Recaps/2023-10-05 Sniff Test\|2023-10-05 Sniff Test]]
+- [[Recaps/2023-10-11 Shooken Up\|2023-10-11 Shooken Up]]
