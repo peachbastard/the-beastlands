@@ -10,3 +10,9 @@
 ## [[Inventory/Party Inventory\|Party Inventory]] 
 
 # [[Recaps/Recaps\|Recaps]] 
+
+| **Quick Links**                                                 |
+| --------------------------------------------------------------- |
+| [Owlbear Rodeo](https://owlbear-rodeo-legacy-3nug.onrender.com) |
+| [[Inventory/Party Inventory\|Party Inventory]]                                             |
+| [[Recaps/Recaps\|Recaps]]                                                                |
