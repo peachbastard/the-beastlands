@@ -37,7 +37,7 @@
 - Mabel gets close to falling into a fissure, but Hymn has their sprite cast Levitate on her and save her from falling 
 - Chaos erupts as buildings start to fall and emergency evacuations start taking place 
 - Mabel tries to turn into a bird to escape the bindings, but finds that the bindings change shape with her 
-- [[Party/Lysanderoth\|Lysanderoth]] tries to use his Giant's Might to grow larger and break free, but the pressure from the magical Thaumaturgy to yell for all available forces to converge at the city center, adding to the general chaos, but the officers guarding the rest of the party do not budge 
+- [[NPC/Lysanderoth\|Lysanderoth]] tries to use his Giant's Might to grow larger and break free, but the pressure from the magical Thaumaturgy to yell for all available forces to converge at the city center, adding to the general chaos, but the officers guarding the rest of the party do not budge 
 
 ## Side Quest: Kill
 - The commissars guarding the party emit black foam from their mouths as arrows sink into their bodies 
@@ -100,7 +100,7 @@
 - Hymn asks if they have anything interesting at all, and the man shows them a trinket that helps them lie better 
 	- They trade treasures that they looted from a hag 
 	- Oz trades one of her diamonds for four platinum rings
-- Session ends as the party reconvenes at the Sinners Last Repose
+- Session ends as the party reconvenes at the Sinner's Last Repose
 	- As they walk, Oz tells Hymn that this is the meeting spot for their [[NPC/Yorick\|contact]]
 
 
