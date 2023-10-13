@@ -8,7 +8,7 @@
 
 ## Young Love
  - Party watches as the [[NPC/Doorguard\|Doorguard]] [[Party/Mabel\|Mabel]] had tried to seduce is further sucked into the tentacle shark-man monster, and the monster's wounds start to heal 
- - Party keeps bombarding it, but [[Party/Lysanderoth\|Lysanderoth]] fails a Wisdom save and becomes paralyzed 
+ - Party keeps bombarding it, but [[NPC/Lysanderoth\|Lysanderoth]] fails a Wisdom save and becomes paralyzed 
  - [[Party/Hymn\|Hymn]] uses their powers to send the monster to hell for a moment, then it returns for the party's beatings and eventually succumbs to them 
  - Party kills the rest of the pirates that had shown up
  - The doorguard falls out of the man and [[Party/Oz\|Oz]] uses Spare the Dying to keep Hymn stable 
