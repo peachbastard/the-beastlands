@@ -13,3 +13,4 @@
 - A tavern in a citizens-only part of town called the Wizard's Quarters
 - Warm ambiance and live music 
 - Bartender is a sexy glass construct
+- Was destroyed by an earthquake summoned by [[Party/Oz\|Oz]] to create a distraction from the commissars 
