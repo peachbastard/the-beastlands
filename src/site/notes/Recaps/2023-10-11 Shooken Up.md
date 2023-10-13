@@ -99,7 +99,8 @@
 - Mabel tries to heal Shook, but is grappled in the water by an eel
 	- Sniff shoots the eel with lightning arrows and frees Mabel 
 - The party tries to heal Shook  
-	- Mabel finds that only a spell like Regenerate can heal her grievous injuries, and Oz is the only person they know that can cast it, and she knows that she could die within the next few hours without the help 
+	- Mabel finds that only a spell like Regenerate can heal her grievous injuries, and Oz is the only person they know that can cast it
+		- She also knows that she could die within the next few hours without the help 
 	- Roy offers to resurrect Shook if she dies, and Hymn tells him to backoff and try to resurrect his marriage 
 	- Session ends as the party decides what to do next with Shook, the Archmagi, and the sword
 
