@@ -16,7 +16,7 @@
 - [[Party/Hymn\|Hymn]] uses Circle of Death to create a 60' sphere against the soldiers
 - [[Party/Oz\|Oz]] casts Guiding Bolt on the half-orc
 - Heavy soldiers unleash rockets at the party's feet and fire splashes against the walls, releasing more demons 
-- [[Party/Lysanderoth\|Lysanderoth]] uses an Action Surge to get closer and activates a Hill Rune 
+- [[NPC/Lysanderoth\|Lysanderoth]] uses an Action Surge to get closer and activates a Hill Rune 
 - Mabel continues to attack the half-orc in midair and manages to stun him, then he turns invisible
 - Hymn tries to levitate out of the napalm, but the demon's antimagic field prevents them, but they're able to Misty Step on top of the red gem in the altar
 - Oz stabs at one of the demons with her new dagger, then seeing through the invisibility uses another Guiding Bolt to hit the half-orc, who reappears with a wet thud next to Hymn
@@ -64,7 +64,7 @@
 	- Hymn tries to intervene, but the Priest is too fast and his spectral skeletal hand pulls it away 
 - Oz falls to her knees and calls Hymn to her 
 	- She kisses them, says, "Now you can say you've kissed a vampire," closes her eye, and dies 
-- Mabel swoops down as a dragon, picks everyone and the Priest up, and flies towards the All Faith's Temple entrance 
+- Mabel swoops down as a dragon, picks everyone and the Priest up, and flies towards the [[Places/All Faith's Temple\|All Faith's Temple]] entrance 
 - Cracks appear in the Priest's skull and light pours out of them as he takes more damage from the party 
 	- He summons a vortex of energy that starts suck Oz's soul out and says that her soul will rot in his stomach
 - The dracolich gives chase and roars, leaving the entire party Frightened of it
