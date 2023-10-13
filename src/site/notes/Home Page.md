@@ -8,6 +8,5 @@
 
 ## [Owlbear Rodeo](https://owlbear-rodeo-legacy-3nug.onrender.com)
 ## [[Inventory/Party Inventory\|Party Inventory]] 
-#### [GitHub](https://github.com/peachbastard/the-beastlands)
 
 # [[Recaps/Recaps\|Recaps]] 
