@@ -32,7 +32,3 @@
 - [[Recaps/2023-10-05 Sniff Test\|2023-10-05 Sniff Test]]
 - [[Recaps/2023-10-11 Shooken Up\|2023-10-11 Shooken Up]]
 
-
-|     | Recaps [[Recaps/Recaps\|see all]]|
-| --- | --- |
-|     |     |
