@@ -36,7 +36,7 @@
 	- Oz relays this to Hymn and says that the bartender will definitely be into them when they save her 
 	- The walls are thin enough that the rest of the party can hear from their respective rooms across the tavern, and Lysanderoth chimes in 
 - Hymn leaves Oz's room and enters Lysanderoth's room and demands a staring contest
-	- [[Party/Lysanderoth\|Lysanderoth]] asks if they want to win or lose, and they say to take it seriously and that they want to lose 
+	- [[NPC/Lysanderoth\|Lysanderoth]] asks if they want to win or lose, and they say to take it seriously and that they want to lose 
 	- Lysanderoth wins the staring contest
 - Everyone can hear as Mabel yells  "we're closed!"
 	-  Old man ignores her and sits in the corner and starts reading the newspaper
@@ -111,7 +111,7 @@
 	- Oz is not wanted at this time and Hymn can cast Alter Self at will
 	- Lysanderoth shaves his beard off with a giant knife, then cuts his long hair off, and puts on the ring with cosmetic magic. Hymn also puts draperies from the tavern around his armor 
 	- Mabel thinks about making a burqa, but ultimately turns into a bird 
-- As the approach the All Faith's Temple, they see people whipping themselves, some crucify themselves willingly, some sell crosses and nails to penitent wallowers 
+- As the approach the [[Places/All Faith's Temple\|All Faith's Temple]], they see people whipping themselves, some crucify themselves willingly, some sell crosses and nails to penitent wallowers 
 	- There are and picketers with various signs about vampirism being a sin and against the wizard's union and the end of the world
 - Hymn bets Oz 50 GP that they can get bitten by a vampire first
 	- Oz asks Hymn about their fascination with vampires, and they accuse her of being one 
