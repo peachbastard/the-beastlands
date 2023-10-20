@@ -31,7 +31,7 @@
 - Mabel uses her [[Inventory/Paintbrush Staff\|Paintbrush Staff]] to try to create a mask to muffle his spells with, then casts Healing Word on him 
 - Hymn talks to [[Lore/The Hanged God\|The Hanged God]] and asks why they're stealing a lot of power items lately, says that they prefer to steal rings and wives, and asks that he stops screaming in their head 
 - Hymn asks if Janken has a child, and the half-orc laughs 
-	- He says that he was hired by the archmagi to drop a bomb 
+	- He says that he was hired by the [[NPC/Archmagistrate Vy\|archmagi]] to drop a bomb 
 		- Despite the party's best efforts, he is able to Dimension Door away
 - Oz walks over to the red gem to cast Blight on it, but Hymn casts Counterspell on her 
 	- They say that they need it for the Hanged God, and Oz says to have it 
@@ -75,7 +75,7 @@
 	- They tell the party that he will give Oz her soul back in exchange for the eye and the sword
 - As the party talks about what to do next, bells start loudly ringing and the bell automatons begin to approach 
 - Hymn casts Levitate and is about to head towards where the sword is, but the Hanged God says they can't steal it until two days from now when the moon is right 
-- Mabel drinks another Potion of Dragon's Majesty, uses her firbolg abilities to turn invisible, then flies the party back to the Sinner's Last Repose 
+- Mabel drinks another Potion of Dragon's Majesty, uses her firbolg abilities to turn invisible, then flies the party back to the [[Places/Sinner's Last Repose\|Sinner's Last Repose]] 
 
 ## Weekend At Oz's 
 - The party lays Oz's body on the bar and start inspecting it
