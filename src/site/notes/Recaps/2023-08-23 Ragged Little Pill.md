@@ -48,7 +48,7 @@
 - They tell Oz that they will take the rest of the party to be sold as well, unless she wants to buy them through gold or through deed
 	- Oz asks what she would do with some blue demon and an old man, and Hymn rolls their eyes
 		- The drow says they usually slay demons.  Oz says she'll do the same, and Hymn wags their tail
-- Oz asks about the latter, and a devil appears holding a contract to kill archmagi Vy by the two and a half full moons, or at the passing of the moon these three will be theirs 
+- Oz asks about the latter, and a devil appears holding a contract to kill [[NPC/Archmagistrate Vy\|Archmagistrate Vy]] by the two and a half full moons, or at the passing of the moon these three will be theirs 
 	- Oz signs the contract with her blood 
 - The drow says, "I remember coming here for the festival of shar on a moonless night, it was perfectly black. it's a shame" and disappears 
 
@@ -100,7 +100,7 @@
 - Hymn asks if they have anything interesting at all, and the man shows them a trinket that helps them lie better 
 	- They trade treasures that they looted from a hag 
 	- Oz trades one of her diamonds for four platinum rings
-- Session ends as the party reconvenes at the Sinner's Last Repose
+- Session ends as the party reconvenes at the [[Places/Sinner's Last Repose\|Sinner's Last Repose]]
 	- As they walk, Oz tells Hymn that this is the meeting spot for their [[NPC/Yorick\|contact]]
 
 
