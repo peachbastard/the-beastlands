@@ -14,4 +14,5 @@
 | Half-Orc          |   No       | 
 
 - Has been following the party around [[Places/Foghaven\|Foghaven]] 
-- Fought the party in the All Faith's Temple and 
+- Fought the party in the All Faith's Temple and revealed that he was hired by [[NPC/Archmagistrate Vy\|Archmagistrate Vy]] to drop a bomb on the city 
+- Is out to kill [[NPC/Captain Janken\|Captain Janken]] 
