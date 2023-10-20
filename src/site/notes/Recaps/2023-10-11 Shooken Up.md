@@ -84,7 +84,7 @@
 - Hymn sends their imp invisibly up towards Shook and the man and hears him telling her not to try anything
 - Roy takes the Bag of Devouring from Mabel, casts Dimension Door to bring himself up to next to the man and Shook, then trips as he tries to bring it over his hand with the detonator, and nearly falls off the scaffolding, and ends up hanging on the edge of the statue's robes 
 - Mabel flies up to the man, then Polymorphs him into a spider
-- Roy falls from the statue into the water, then tries to convince the angry mob that Archmagi Vy is approaching, and it makes them briefly hesistate 
+- Roy falls from the statue into the water, then tries to convince the angry mob that [[NPC/Archmagistrate Vy\|Archmagistrate Vy]] is approaching, and it makes them briefly hesistate 
 - Hymn uses Levitate to float up to Shook and tries disarm the detonator, but fails 
 - Mabel casts Tidal Wave to knock back the peasants, then uses her familiarity with junken technology to point out a place where Hymn could disarm the bomb
 - Roy casts Vicious Mockery on the crowd and many of their heads explode, then he wades into the crowd to protect Pill with his body 
