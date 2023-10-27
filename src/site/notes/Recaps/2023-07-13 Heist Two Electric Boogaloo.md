@@ -19,7 +19,7 @@
 		-  Everyone knows that the cave systems are very prolific in the Beastlands, and he could be anywhere
 	- Sees the man with long blue tail and black duster seems to angrily rush up to the scry bulb, waves his hand, and stops it
 - Mabel knows that it seems similar to the tech that [[NPC/Lily Hazelheart\|Lily Hazelheart]] was involved with
-	- [[Party/Lysanderoth\|Lysanderoth]] can tell it's nothing commonly used in the [[Lore/Junken\|Junken]], looks different in terms of material and uses smaller mechanical components 
+	- [[NPC/Lysanderoth\|Lysanderoth]] can tell it's nothing commonly used in the [[Lore/Junken\|Junken]], looks different in terms of material and uses smaller mechanical components 
 - Oz casts Sending and asks [[NPC/Shook\|the bartender]] what's up with the firbolg from earlier and the firbolg village, and she responds:
 	- "Known associates of [[NPC/Captain Janken\|Captain Janken]]'s [[Lore/D.E.D.\|D.E.D.]] group includes rogue firbolg, an extremely rare race.  Heard they were wiped out by Janken's years ago during war"
 	- Party remembers that most of the few remaining firbolgs are very radicalized commissary agents
