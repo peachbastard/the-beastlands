@@ -36,8 +36,7 @@
         }
         .image-grid img {
             width: 100%;
-            max-width: 400px; /* Set the maximum width to 400px */
-            height: auto; /* Automatically adjust the height to maintain the aspect ratio */
+            height: 400px; /* Fixed height for all images */
             object-fit: cover;
         }
         h1 {
@@ -63,4 +62,5 @@
     </div>
 </body>
 </html>
+
 
