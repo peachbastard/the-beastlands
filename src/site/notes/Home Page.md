@@ -11,11 +11,10 @@
 
 # [[Recaps/Recaps\|Recaps]] 
 
-
 <!DOCTYPE html>
 <html>
 <head>
-    <title>The Party</title>
+    <title>Image Grid</title>
     <style>
         .image-grid {
             display: grid;
@@ -53,3 +52,5 @@
     </div>
 </body>
 </html>
+
+
