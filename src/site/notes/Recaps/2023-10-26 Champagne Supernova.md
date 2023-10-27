@@ -40,7 +40,7 @@
 
 ## But Nothing Breaks Like A Heart
 - Mabel goes through her hoard of potions and finds that several of them have been spoiled from the effects of the noxious cloud 
-- Mabel drinks a Potion of Dragon's Majesty and burrows through the underground, grabs Roy and Sniff, and tries to grab Hymn, but they are intent on getting to the library and slip away
+- Mabel drinks a Potion of Dragon's Majesty and burrows through the underground, grabs Roy and Sniff, and tries to grab Hymn, but they are intent on getting to the library and slip away 
 - Mabel insists that she'll give Hymn the nail, but Hymn points out how it didn't work to bring Oz back to life
 - Hymn inspects the nail to see if it will have the needed effect
 	- They're sure that the nail won't work, and recall that they've robbed this place before  
@@ -61,12 +61,12 @@
 	- Shook becomes incensed and asks why they left him behind 
 	- Hymn and Sniff try to argue that they offered to bring him with them to save her
 	- Shook says that he was powerful enough to cast ninth level spells, but he never knew when to quit; which is why she left him after their son died 
-- Sniff also reveals that the party has a bomb that could destroy the city; despite Hymn's attempts at stopping him by kicking him in the dick
+- Sniff also reveals that the party has a [[Inventory/The Bomb\|bomb]] that could destroy the city; despite Hymn's attempts at stopping him by kicking him in the dick
 	- Shook demands to know more about the bomb and says that she'll be Hymn's forever if they help her destroy the city 
 	- Hymn refuses to kill the innocents, and Shook responds that there's another [[NPC/Captain Janken\|blue tiefling]] in the city with a bomb that will be willing to help her
 - Shook says that she, Shook Johnson, was taught the way of thunder and vengeance from her grandmother, and that she has forsaken the ways of her ancestors for too long
 	- Mabel and tells her about how she has disavowed the junken and the Wizard's Union and is starting her own people, but Shook jumps off Hymn's silver dragon and disappears 
-- Sniff says they should rest in the mansion, but Hymn refuses to stay where they just got dump
+- Sniff says they should rest in the mansion, but Hymn refuses to stay where they just got dumped 
 - While Hymn cries, Roy asks if it's their first time being left by a woman, and says that he's been there before when they confirm that it was 
 	- Roy asks if a song would make them feel better, pulls out his lute, and says, "Well anyway, here's Wonderwall"
 	- Hymn cries on his shoulder as he plays  
