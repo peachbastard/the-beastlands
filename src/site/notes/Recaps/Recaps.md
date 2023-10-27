@@ -23,4 +23,4 @@
 - [[Recaps/2023-10-05 Sniff Test\|2023-10-05 Sniff Test]]
 - [[Recaps/2023-10-11 Shooken Up\|2023-10-11 Shooken Up]]
 - [[Recaps/2023-10-19 The Muse\|2023-10-19 The Muse]]
-- [[champa\|champa]]
+- [[Recaps/2023-10-26 Champagne Supernova\|2023-10-26 Champagne Supernova]]
