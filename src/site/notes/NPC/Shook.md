@@ -14,4 +14,5 @@
 
 - Half-orc bartender woman in [[Places/Poluk Maw\|Poluk Maw]] that has provided the party with valuable insight 
 - Has smitten [[Party/Hymn\|Hymn]] with her strength and good looks 
-- Revealed to be a secret [[Lore/Sorcerers' Union\|Sorcerers' Union]] agent in [[Recaps/2023-07-06 Sins of the Father\|2023-07-06 Sins of the Father]]
+- Revealed to be a secret [[Lore/Sorcerers' Union\|Sorcerers' Union]] agent
+- The party broke her out of the commissar prison in [[Places/Foghaven\|Foghaven]], but she swore vengeance on the city after the death of her ex-partner and sided with [[NPC/Captain Janken\|Captain Janken]] to bomb it
