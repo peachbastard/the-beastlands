@@ -7,7 +7,7 @@
 ## The Devil Inside
 
 - The statue catches the party in an Antimagic Field
-- [[Party/Lysanderoth\|Lysanderoth]] hacks it it with his lance 
+- [[NPC/Lysanderoth\|Lysanderoth]] hacks it it with his lance 
 - [[Party/Oz\|Oz]] casts Guiding Bolt on it and crits 
 - [[Party/Mabel\|Mabel]] misses three times even with the advantage because she's still upset over learning about Lysanderoth's actions 
 - Empty sockets in inky black skin stare Oz down and she takes a lot of psychic damage and is stunned 
