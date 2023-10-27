@@ -5,7 +5,7 @@
 # What Happened? 
 ## Things Fall Apart
 
-- A black orb dripping a dark liquid of some kind at a slow pace lies in place where the [[Archmagistrate\|Archmagistrate]] once was
+- A black orb dripping a dark liquid of some kind at a slow pace lies in place where [[NPC/Archmagistrate Vy\|Archmagistrate Vy]] once was
 - [[Party/Roy Valentine\|Roy]] tries to cast Vicious Mockery on the mushroom bear 
 - [[Party/Hymn\|Hymn]] looks at the bear and sees that it was potentially looking through the eyes of another creature, then critically hits it with an Eldritch Blast 
 - [[Party/Mabel\|Mabel]] is in a panic and tries to get the snake out of her, but fails. She can feel it wiggling between her veins and muscles 
