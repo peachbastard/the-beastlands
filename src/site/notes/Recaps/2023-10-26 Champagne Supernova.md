@@ -63,7 +63,7 @@
 	- Shook says that he was powerful enough to cast ninth level spells, but he never knew when to quit; which is why she left him after their son died 
 - Sniff also reveals that the party has a bomb that could destroy the city; despite Hymn's attempts at stopping him by kicking him in the dick
 	- Shook demands to know more about the bomb and says that she'll be Hymn's forever if they help her destroy the city 
-	- Hymn refuses to kill the innocents, and Shook responds that there's another blue tiefling in the city with a bomb that will be willing to help her
+	- Hymn refuses to kill the innocents, and Shook responds that there's another [[NPC/Captain Janken\|blue tiefling]] in the city with a bomb that will be willing to help her
 - Shook says that she, Shook Johnson, was taught the way of thunder and vengeance from her grandmother, and that she has forsaken the ways of her ancestors for too long
 	- Mabel and tells her about how she has disavowed the junken and the Wizard's Union and is starting her own people, but Shook jumps off Hymn's silver dragon and disappears 
 - While Hymn cries, Roy asks if it's their first time being left by a woman, and says that he's been there before when they confirm that it was 
