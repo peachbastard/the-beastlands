@@ -38,7 +38,6 @@
             width: 100%;
             height: 100%;
             object-fit: cover;
-            border: 5px solid black;
         }
         h1 {
             margin: 20px 0;
@@ -49,10 +48,10 @@
     <h1>The Party</h1>
     <div class="image-grid">
         <a href="https://the-beastlands.vercel.app/party/oz/">
-            <img src="https://imgur.com/hEmKfkO" alt="Oz">
+            <img src="https://i.imgur.com/hEmKfkO.jpg" alt="Oz">
         </a>
         <a href="https://the-beastlands.vercel.app/party/hymn/">
-            <img src="https://imgur.com/i0WMBm3" alt="Hymn">
+            <img src="https://i.imgur.com/i0WMBm3.jpg" alt="Hymn">
         </a>
         <a href="https://the-beastlands.vercel.app/party/mabel/">
             <img src="https://i.imgur.com/VmmKDvo.jpg" alt="Mabel">
