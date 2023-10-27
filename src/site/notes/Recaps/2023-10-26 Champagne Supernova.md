@@ -68,7 +68,7 @@
 	- Mabel and tells her about how she has disavowed the junken and the Wizard's Union and is starting her own people, but Shook jumps off Hymn's silver dragon and disappears 
 - Sniff says they should rest in the mansion, but Hymn refuses to stay where they just got dumped 
 - While Hymn cries, Roy asks if it's their first time being left by a woman, and says that he's been there before when they confirm that it was 
-	- Roy asks if a song would make them feel better, pulls out his lute, and says, "Well anyway, here's Wonderwall"
+	- Roy asks if a song would make them feel better; then pulls out his lute and says, "Well anyway, here's Wonderwall"
 	- Hymn cries on his shoulder as he plays  
 
 ## The One That Got Away
