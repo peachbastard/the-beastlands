@@ -66,6 +66,7 @@
 	- Hymn refuses to kill the innocents, and Shook responds that there's another [[NPC/Captain Janken\|blue tiefling]] in the city with a bomb that will be willing to help her
 - Shook says that she, Shook Johnson, was taught the way of thunder and vengeance from her grandmother, and that she has forsaken the ways of her ancestors for too long
 	- Mabel and tells her about how she has disavowed the junken and the Wizard's Union and is starting her own people, but Shook jumps off Hymn's silver dragon and disappears 
+- Sniff says they should rest in the mansion, but Hymn refuses to stay where they just got dump
 - While Hymn cries, Roy asks if it's their first time being left by a woman, and says that he's been there before when they confirm that it was 
 	- Roy asks if a song would make them feel better, pulls out his lute, and says, "Well anyway, here's Wonderwall"
 	- Hymn cries on his shoulder as he plays  
