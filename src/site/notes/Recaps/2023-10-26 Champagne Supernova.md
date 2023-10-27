@@ -23,7 +23,7 @@
 - Hymn tries to go around the bear, but it growls. They hold a Vicious Mockery if it attacks 
 - Mabel thinks back to when she would explore the family chambers and tries to get the snake out from inside of her; which the bear refers to as "the mark"
 - The bear says, "Let no more sacred blood be spilled on these filthy steps"
-- Mabel throws the staff at the bear from the junken and says, "The Psylocibin Clan will live on. It starts with me. And Roy I forgot his last name, Hymn, Snuffle, and Oz. And Lysanderoth or Archibald"
+- Mabel throws the staff at the bear from the [[Lore/Junken\|junken]] and says, "The Psylocibin Clan will live on. It starts with me. And Roy I forgot his last name, Hymn, Snuffle, and Oz. And Lysanderoth or Archibald"
 - The bear tells her to kill the interlopers with him, and that she will be a great and terrible queen 
 - Sniff shoots at the bear, which prompts it to spew a cloud of fungal poison over the party
 - The bear roars and shoots a funnel of mushrooms that overgrow and overtake Sniff; growing from his skin with a strange sentience that beckons him to join their conversation. He his reminded of his loneliness, but his strong sense of independence keeps him from giving in
