@@ -39,7 +39,7 @@
 	- They tell him what happened to Oz
 - Sniff dashes through the darkness up the stairs, then hides behind Roy 
 - Mabel takes some damage, but she's able to find the hole in the ceiling and tries to get closer, but the man threatens to blow everyone up if she gets closer
-	- Mabel reveals that Oz died and Lysanderoth imploded, then she drops her disguise to reveal her bald self 
+	- Mabel reveals that Oz died and [[NPC/Lysanderoth\|Lysanderoth]] imploded, then she drops her disguise to reveal her bald self 
 	- The man is surprised because he hadn't heard anything about a firbolg on the mission 
 	- She tells the man to calm down because they have a long day ahead and have to bring back Oz 
 - The man gives Mabel a field promotion to captain, and that if she fails the junken will find her. Gives her the access priming sequence to the bomb with a location, then leaves with Shook and her partner 
