@@ -7,7 +7,7 @@
 
 ## Day 1
 
- - [[Party/Lysanderoth\|Lysanderoth]] and [[Party/Mabel\|Mabel]] talk to a [[NPC/Priest\|priest]] and have [[NPC/Pill\|Pill]] dropped off with healers 
+ - [[NPC/Lysanderoth\|Lysanderoth]] and [[Party/Mabel\|Mabel]] talk to a [[NPC/Priest\|priest]] and have [[NPC/Pill\|Pill]] dropped off with healers 
  - Priest tells them that if they're heading to the railroad they'll have to wait in town because the train just left and it won't be back for 5 days 
 - Mabel asks if the priest has come across any other firbolg, and he says he has met a druid mother during is research
 - Priest tells them to be wary of the Wizard's Union peace corps 
