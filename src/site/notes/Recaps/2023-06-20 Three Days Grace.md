@@ -12,7 +12,7 @@
 	- Mabel says she did what she needed to in that moment 
 - Pill reveals that he killed his whole family on accident, and he wasn't proud of it
 	- He says that the SSP is a weird organization that all defers to one group, but it matters more which sect you report back to; with all ultimately reporting to Archmagis Meowcifer
-- [[Party/Lysanderoth\|Lysanderoth]] asks Pill if the Archmagis has been seen in public recently, but he seldom is seen. His votes still come through as reported in the papers. 
+- [[NPC/Lysanderoth\|Lysanderoth]] asks Pill if the Archmagis has been seen in public recently, but he seldom is seen. His votes still come through as reported in the papers. 
 	- Lysanderoth tells Pill that he saw Meowcifer killed, must keep it secret
 - Pill is optimistic that they have nothing to fear as magic-having citizens, not "no-magi's"
 	- Hymn takes offense to that and says that people shouldn't be judged because of their magic, and should be judged on other things instead like their appearance 
