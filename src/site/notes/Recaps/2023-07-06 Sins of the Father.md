@@ -16,7 +16,7 @@
 	- She asks who his father is 
 		- He says, "Don't play coy with me. As if you don't know."
 - [[Party/Hymn\|Hymn]] tries to charms him with their cuteness and a Charm Person spell, but he calls them an imposter 
-- [[Party/Lysanderoth\|Lysanderoth]] slices off one of his arms off in a whirlwind of sword strikes 
+- [[NPC/Lysanderoth\|Lysanderoth]] slices off one of his arms off in a whirlwind of sword strikes 
 	- The man pulls out an amulet that turns into a black sphere 
 	- A portal suddenly opens behind him
 	- There's a desperate shout: "NO!"
