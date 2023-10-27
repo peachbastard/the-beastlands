@@ -19,7 +19,7 @@
 - Hymn tells the party that they were told that they need to steal a [[Inventory/Lich Wand\|wand]] from a lich in order to have the ring removed
 	- Oz is familiar with liches to an extent and recognizes that the wand belonged to the most powerful one out there that was said to use it in conjunction with an eye and a hand 
 - Pill was damaged badly in the fight and may lose an eye 
-	- [[Party/Lysanderoth\|Lysanderoth]]  and [[Party/Mabel\|Mabel]] go with him to the temple to find someone to heal him
+	- [[NPC/Lysanderoth\|Lysanderoth]]  and [[Party/Mabel\|Mabel]] go with him to the temple to find someone to heal him
 - Oz and Hymn stay behind to drink and hit on [[NPC/Shook\|the bartender]] 
 
 
