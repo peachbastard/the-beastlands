@@ -11,55 +11,55 @@
 
 # [[Recaps/Recaps\|Recaps]] 
 
-
 <!DOCTYPE html>
 <html>
 <head>
     <title>The Party</title>
     <style>
+        body {
+            text-align: center;
+            background-image: linear-gradient(to bottom, #4C3800, #A77D00);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-size: 24px;
+        }
         .image-grid {
             display: grid;
-            grid-template-columns: repeat(2, 1fr);
+            grid-template-columns: 1fr 1fr;
             grid-gap: 0;
+            text-align: center;
+            margin: 0 auto;
+            max-width: 800px;
         }
-
-        .image-container {
-            border: 2px solid black;
-            overflow: hidden;
-            width: 300px; /* Set a fixed width */
-            height: 200px; /* Set a fixed height */
+        .image-grid a {
+            text-decoration: none;
         }
-
-        .image-container img {
+        .image-grid img {
             width: 100%;
             height: 100%;
             object-fit: cover;
+            border: 5px solid black;
+        }
+        h1 {
+            margin: 20px 0;
         }
     </style>
 </head>
 <body>
+    <h1>The Party</h1>
     <div class="image-grid">
-        <div class="image-container">
-            <a href="https://the-beastlands.vercel.app/party/oz/">
-                <img src="https://the-beastlands.vercel.app/img/optimized/EtXHdFe0q3-700.webp" alt="Oz">
-            </a>
-        </div>
-        <div class="image-container">
-            <a href="https://the-beastlands.vercel.app/party/hymn/">
-                <img src="https://the-beastlands.vercel.app/img/optimized/laiW9RKj-T-700.webp" alt="Hymn">
-            </a>
-        </div>
-        <div class="image-container">
-            <a href="https://the-beastlands.vercel.app/party/mabel/">
-                <img src="https://the-beastlands.vercel.app/img/optimized/FjSkmiyrqi-700.webp" alt="Mabel">
-            </a>
-        </div>
-        <div class="image-container">
-            <a href="https://the-beastlands.vercel.app/party/sniff/">
-                <img src="https://the-beastlands.vercel.app/img/optimized/DNWB6rCTK2-700.webp" alt="Sniff">
-            </a>
-        </div>
+        <a href="https://the-beastlands.vercel.app/party/oz/">
+            <img src="https://imgur.com/hEmKfkO" alt="Oz">
+        </a>
+        <a href="https://the-beastlands.vercel.app/party/hymn/">
+            <img src="https://imgur.com/i0WMBm3" alt="Hymn">
+        </a>
+        <a href="https://the-beastlands.vercel.app/party/mabel/">
+            <img src="https://i.imgur.com/VmmKDvo.jpg" alt="Mabel">
+        </a>
+        <a href="https://the-beastlands.vercel.app/party/sniff/">
+            <img src="https://i.imgur.com/ZmPM2R1.jpg" alt="Sniff">
+        </a>
     </div>
 </body>
 </html>
-
