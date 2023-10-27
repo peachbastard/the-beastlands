@@ -37,7 +37,7 @@
 
 >[!redacted]
 
-- [[Party/Lysanderoth\|Lysanderoth]] asks a local more about what's happening 
+- [[NPC/Lysanderoth\|Lysanderoth]] asks a local more about what's happening 
 	- The local calls the drow "filthy white hairs" and says that they're getting "taken care of " by the courts 
 - Party watches as the drow are taken down to the dungeons 
 	- Hymn says they don't feel super great about what's happening with the drow
