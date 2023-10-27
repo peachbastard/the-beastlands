@@ -20,7 +20,9 @@
         .image-grid {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
-            grid-auto-rows: 1fr; /* Adjust this property to maintain aspect ratio */
+            grid-auto-rows: 1fr;
+            grid-gap: 0; /* Removed gaps between images */
+            height: 400px; /* Fixed height to ensure consistent image size */
         }
 
         .image-grid a {
@@ -29,8 +31,8 @@
 
         .image-grid img {
             width: 100%;
-            max-width: 100%;
-            height: 100%; /* Maintain aspect ratio */
+            height: 100%; /* Set the height to 100% */
+            object-fit: cover; /* Maintain aspect ratio and cover the grid cell */
         }
     </style>
 </head>
@@ -51,5 +53,3 @@
     </div>
 </body>
 </html>
-
-
