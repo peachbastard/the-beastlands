@@ -12,7 +12,7 @@
 - Party minus Oz plots to potentially fake their death
 	- They come up with a plan to have Mabel drink one of her Potions of Dragon's Majesty, destroy the train they're in, make it look like they all died, then fly to [[Places/Foghaven\|Foghaven]] 
 - [[Party/Hymn\|Hymn]] says they can turn the train into a an adult brass dragon 
-- [[Party/Lysanderoth\|Lysanderoth]] says they could pick up the train, bring the people to him, and kill them all  
+- [[NPC/Lysanderoth\|Lysanderoth]] says they could pick up the train, bring the people to him, and kill them all  
 - Train starts to gain speed and they hurriedly go with the plan to fake their deaths and fly off
 	- Hymn turns to apologize to Oz, then remembers that she had walked away
 >[!redacted]
