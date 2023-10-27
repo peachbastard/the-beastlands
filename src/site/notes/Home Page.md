@@ -35,7 +35,7 @@
             text-decoration: none;
         }
         .image-grid img {
-            width: 100%; /* Set the width to 100% to make all images the same width */
+            width: 400px; /* Set the width to 400px to make all images the same width */
             height: auto; /* Automatically adjust the height to maintain the aspect ratio */
             object-fit: cover;
         }
