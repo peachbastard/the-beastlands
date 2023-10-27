@@ -15,12 +15,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Image Grid</title>
+    <title>The Party</title>
     <style>
         .image-grid {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
-            grid-gap: 10px;
+            grid-auto-rows: 1fr; /* Adjust this property to maintain aspect ratio */
         }
 
         .image-grid a {
@@ -30,7 +30,7 @@
         .image-grid img {
             width: 100%;
             max-width: 100%;
-            height: auto;
+            height: 100%; /* Maintain aspect ratio */
         }
     </style>
 </head>
@@ -51,3 +51,5 @@
     </div>
 </body>
 </html>
+
+
