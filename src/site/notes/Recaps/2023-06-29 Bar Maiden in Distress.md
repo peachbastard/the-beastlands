@@ -7,11 +7,11 @@
 # Day 4 Morning
 ## Battle Continues
 - Oz uses Sacred Flame on one of the fish-people
-- [[Party/Lysanderoth\|Lysanderoth]] tells the [[NPC/Priest\|Priest]] that they've attacked our hotel before, and the townsfolk are probably in danger
+- [[NPC/Lysanderoth\|Lysanderoth]] tells the [[NPC/Priest\|Priest]] that they've attacked our hotel before, and the townsfolk are probably in danger
 - Writhing tentacles and worms become exposed as the fishpeople get more and more damaged 
 - Voice speaks in their heads, "Give us the marked one. They belong to us now."
 - Lysanderoth enters the tavern from outside sees 3 [[Lore/Junken\|junken]] men in black leather and black tricorn hats carry off a large figure, who Lysanderoth identifies to be [[NPC/Shook\|the bartender]]
-	- They cast a prismatic wall between themselves and [[Party/Lysanderoth\|Lysanderoth]] 
+	- They cast a prismatic wall between themselves and [[NPC/Lysanderoth\|Lysanderoth]] 
 - Blinding light comes around the corner and the Priest tells the fish people, "Begone, unclean things! Your elder gods are dead and buried."
 	- They seem to not be able to stand the light dissolve into grey slugs that scurry away
 - Lysanderoth gives chase and is bombarded by gunfire
