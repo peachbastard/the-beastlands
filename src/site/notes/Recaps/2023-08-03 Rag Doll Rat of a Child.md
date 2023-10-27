@@ -11,7 +11,7 @@
 	- Can't make eye contact with her
 	- Has a deeply haunting voice that sounds pained and uncomfortable all the time
 	- The elf is put off by Oz and tries to inspect her further
-- [[Party/Lysanderoth\|Lysanderoth]] is ornery and asks who's asking
+- [[NPC/Lysanderoth\|Lysanderoth]] is ornery and asks who's asking
 -  The elf introduces herself as Juniper and says that she was looking for people to ride with because she's anxious
 - News boy walks by: talks about food shortages and [[NPC/Lily Hazelheart\|Lily Hazelheart's]] efforts in the Grainlands 
 - Party gets through security 
@@ -25,7 +25,7 @@
 - Commissars try to settle the crowd down
 - [[Party/Hymn\|Hymn]] finds one of the leaders and asks if they would disperse if the commissars were to all die, and they say yes 
 - [[NPC/Pill\|Pill]]  makes a speech and draws upon his abusive past and gets the crowd's attention,  so much so that officers start attacking him
-- [[Party/Lysanderoth\|Lysanderoth]] tries to rile up the crowd
+- [[NPC/Lysanderoth\|Lysanderoth]] tries to rile up the crowd
 - Juniper starts screaming at the top of her lungs and trying to rile up the crowd and shake them to make them do something
 - Hymn casts Levitate on Pill to get him away from the two commissars apprehending him
 	- Oz casts Banishment on the two
@@ -78,4 +78,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Recaps/2023-07-27 Happiness Hit Her\|2023-07-27 Happiness Hit Her]]  |  |
+| [[Recaps/2023-07-27 Happiness Hit Her\|2023-07-27 Happiness Hit Her]]  | [[Recaps/2023-08-10 It's Hard to Dance\|2023-08-10 It's Hard to Dance]] |
