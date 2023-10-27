@@ -12,7 +12,7 @@
 - Mabel tries and fails to stun the priest with her [[Inventory/Paintbrush Staff\|Paintbrush Staff]] aimed towards vital organs
 	- Mabel drives her staff down on his toe, then he resists her stun with a Legendary Resistance
 - [[Inventory/Oz's Eye\|Oz's eye]] glows and she tries to Disintegrate him, but he uses another Legendary Resistance 
-- [[Party/Lysanderoth\|Lysanderoth]] dashes across the room, then needs a Wisdom save as his [[Inventory/Demon Slaying Sword\|sword]] pulsates the closer he gets to the lich. It feels like his ownership is being challenged by a more evil creature
+- [[NPC/Lysanderoth\|Lysanderoth]] dashes across the room, then needs a Wisdom save as his [[Inventory/Demon Slaying Sword\|sword]] pulsates the closer he gets to the lich. It feels like his ownership is being challenged by a more evil creature
 	- He sees that the Priest does not have blood and muscle underneath, but bone and rot, and metal, thin chains of gold between the ribs and bones
 	- The Priest laughs as he's restrained and looks with his jeweled eyes and asks if he thinks if it matters if he's restrained when he's unrestrained by life, and Lysanderoth is restrained by blood
 - Summons another skeleton 
@@ -65,7 +65,7 @@
 ## Iron bars will bend and break
 - Party crosses the collapsing bridge towards the train station
 	- One of the dying people yells, "Can't die, serpent awaits!"
-	- [[Party/Lysanderoth\|Lysanderoth]] tries to investigate the commissary, finds officers trapped inside and saves them, but is unable to find anything worth looting because the building completely collapses
+	- [[NPC/Lysanderoth\|Lysanderoth]] tries to investigate the commissary, finds officers trapped inside and saves them, but is unable to find anything worth looting because the building completely collapses
 	- Hymn and Oz go to loot people and find 100 GP
 	- Mabel looks around to see if there's anyone to save, and they see an old lady trapped under a boulder that has completely crushed her legs 
 		- Oz tells Mabel that she will have to make difficult decisions when she's queen, and Mabel decides to help her, with Hymn assisting with their Levitate spell
