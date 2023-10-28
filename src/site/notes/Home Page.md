@@ -27,7 +27,7 @@
 </head>
 <body>
     <div class="centered-image">
-        <img src="https://the-beastlands.vercel.app/img/optimized/q0_NDMJCxu-700.webp" alt="Centered Image">
+        <img src="https://i.imgur.com/GZ8ql4S.png" alt="Centered Image">
     </div>
 </body>
 </html>
