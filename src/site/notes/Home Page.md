@@ -4,7 +4,7 @@
 
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Beastlands Map</title>
@@ -21,7 +21,7 @@
         .centered-image img {
             max-width: 100%; /* Set the maximum width to 100% to make the image responsive */
             height: auto; /* Automatically adjust the height to maintain the aspect ratio */
-            width: 500px; /* Set the width to your desired size, for example, 400px */
+            width: 600px; /* Set the width to your desired size, for example, 400px */
         }
     </style>
 </head>
