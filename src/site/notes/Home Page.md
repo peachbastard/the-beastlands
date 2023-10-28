@@ -2,37 +2,7 @@
 {"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
-
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Enlarged Image</title>
-    <style>
-        body {
-            text-align: center;
-            background-color: #f0f0f0;
-        }
-
-        .enlarged-image {
-            display: inline-block;
-        }
-
-        .enlarged-image img {
-            max-width: none; /* Override max-width and allow the image to be larger */
-            width: 130%; /* Set the width to 100% to expand the image to the container width */
-            height: auto; /* Automatically adjust the height to maintain the aspect ratio */
-        }
-    </style>
-</head>
-<body>
-    <div class="enlarged-image">
-        <img src="https://i.imgur.com/GZ8ql4S.png" alt="Enlarged Image">
-    </div>
-</body>
-</html>
-
-
+![Beastlands Map IMG.png](/img/user/z_Assets/Beastlands%20Map%20IMG.png)
 
 ## [Owlbear Rodeo](https://owlbear-rodeo-legacy-3nug.onrender.com)
 ## [[Inventory/Party Inventory\|Party Inventory]] 
