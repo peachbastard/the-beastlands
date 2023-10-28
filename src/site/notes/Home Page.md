@@ -4,7 +4,34 @@
 
 
 
-![Beastlands Map IMG.png](/img/user/z_Assets/Beastlands%20Map%20IMG.png)
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Beastlands Map</title>
+    <style>
+        body {
+            text-align: center; /* Center align the content horizontally */
+            background-color: #f0f0f0; /* Set a background color */
+        }
+
+        .centered-image {
+            display: inline-block; /* Make the image an inline block to center it */
+        }
+
+        .centered-image img {
+            max-width: 100%; /* Set the maximum width to 100% to make the image responsive */
+            height: auto; /* Automatically adjust the height to maintain the aspect ratio */
+            width: 500px; /* Set the width to your desired size, for example, 400px */
+        }
+    </style>
+</head>
+<body>
+    <div class="centered-image">
+        <img src="https://the-beastlands.vercel.app/img/optimized/q0_NDMJCxu-700.webp" alt="Centered Image">
+    </div>
+</body>
+</html>
+
 
 ## [Owlbear Rodeo](https://owlbear-rodeo-legacy-3nug.onrender.com)
 ## [[Inventory/Party Inventory\|Party Inventory]] 
