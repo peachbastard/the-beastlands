@@ -20,7 +20,7 @@
 
         .enlarged-image img {
             max-width: none; /* Override max-width and allow the image to be larger */
-            width: 100%; /* Set the width to 100% to expand the image to the container width */
+            width: 130%; /* Set the width to 100% to expand the image to the container width */
             height: auto; /* Automatically adjust the height to maintain the aspect ratio */
         }
     </style>
