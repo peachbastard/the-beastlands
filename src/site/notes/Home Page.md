@@ -4,33 +4,34 @@
 
 
 
-
+<!DOCTYPE html>
 <html>
 <head>
-    <title>Beastlands Map</title>
+    <title>Enlarged Image</title>
     <style>
         body {
-            text-align: center; /* Center align the content horizontally */
-            background-color: #f0f0f0; /* Set a background color */
+            text-align: center;
+            background-color: #f0f0f0;
         }
 
-        .centered-image {
-            display: inline-block; /* Make the image an inline block to center it */
+        .enlarged-image {
+            display: inline-block;
         }
 
-        .centered-image img {
-            max-width: 100%; /* Set the maximum width to 100% to make the image responsive */
+        .enlarged-image img {
+            max-width: none; /* Override max-width and allow the image to be larger */
+            width: 100%; /* Set the width to 100% to expand the image to the container width */
             height: auto; /* Automatically adjust the height to maintain the aspect ratio */
-            width: 600px; /* Set the width to your desired size, for example, 400px */
         }
     </style>
 </head>
 <body>
-    <div class="centered-image">
-        <img src="https://i.imgur.com/GZ8ql4S.png" alt="Centered Image">
+    <div class="enlarged-image">
+        <img src="https://i.imgur.com/GZ8ql4S.png" alt="Enlarged Image">
     </div>
 </body>
 </html>
+
 
 
 ## [Owlbear Rodeo](https://owlbear-rodeo-legacy-3nug.onrender.com)
