@@ -105,4 +105,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Recaps/2023-10-19 The Muse\|2023-10-19 The Muse]]  |  |
+| [[Recaps/2023-10-19 The Muse\|2023-10-19 The Muse]]  |[[Recaps/2023-11-02 Fly Me To The Moons\|2023-11-02 Fly Me To The Moons]]  |
