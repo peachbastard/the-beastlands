@@ -93,3 +93,7 @@
 - Jorgen asks if they saw the people on the streets and says that it was caused by the darkness of the river upstream 
 	- He says, "We scryed as you all broke open the crust of the world that runs from the Seven River Peaks and let loose ancient evils who have already subjugated and poisoned this new society. Janken can't kill an innocent citizen in this city because you killed all of them"
 - Session ends as Jorgen asks Hymn if their god would forgive them for being stupid, and Hymn closes their eyes and reaches out to [[Lore/The Hanged God\|The Hanged God]] 
+
+|  **Previous Session**   |   **Next Session**   |
+| --- | --- |
+| [[Recaps/2023-11-02 Fly Me To The Moons\|2023-11-02 Fly Me To The Moons]]  |  |
