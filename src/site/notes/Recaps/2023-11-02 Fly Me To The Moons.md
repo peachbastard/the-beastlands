@@ -98,4 +98,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Recaps/2023-10-26 Champagne Supernova\|2023-10-26 Champagne Supernova]]  |  |
+| [[Recaps/2023-10-26 Champagne Supernova\|2023-10-26 Champagne Supernova]]  |[[Recaps/2023-11-09 And I Feel Fine\|2023-11-09 And I Feel Fine]]  |
