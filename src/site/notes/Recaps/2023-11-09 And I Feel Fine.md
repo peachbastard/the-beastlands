@@ -96,4 +96,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Recaps/2023-11-02 Fly Me To The Moons\|2023-11-02 Fly Me To The Moons]]  |  |
+| [[Recaps/2023-11-02 Fly Me To The Moons\|2023-11-02 Fly Me To The Moons]]  | [[Recaps/2023-11-15 Let the Sky Fall\|2023-11-15 Let the Sky Fall]] |
