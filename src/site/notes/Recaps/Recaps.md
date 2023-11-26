@@ -27,3 +27,4 @@
 - [[Recaps/2023-11-02 Fly Me To The Moons\|2023-11-02 Fly Me To The Moons]]
 - [[Recaps/2023-11-09 And I Feel Fine\|2023-11-09 And I Feel Fine]]
 - [[Recaps/2023-11-15 Let the Sky Fall\|2023-11-15 Let the Sky Fall]]
+- [[Recaps/2023-11-22 Mercurial\|2023-11-22 Mercurial]]
