@@ -77,3 +77,6 @@
 - Sniff reloads the glass cannon and Misty Steps close to Roy and Pill
 - Session ends as Hymn is able to rend the sword from Janken's hands, then casts Levitate on themselves to float back to the top of the ziggurat and start casting the ritual
 
+|  **Previous Session**   |   **Next Session**   |
+| --- | --- |
+| [[Recaps/2023-11-09 And I Feel Fine\|2023-11-09 And I Feel Fine]]  | [[Recaps/2023-11-22 Mercurial\|2023-11-22 Mercurial]] |
