@@ -114,4 +114,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Recaps/2023-11-15 Let the Sky Fall\|2023-11-15 Let the Sky Fall]]  |  |
+| [[Recaps/2023-11-15 Let the Sky Fall\|2023-11-15 Let the Sky Fall]]  | [[Recaps/2023-11-30 Kill Your Heroes\|2023-11-30 Kill Your Heroes]] |
