@@ -80,7 +80,7 @@
 - Oz says, "I didn't bring you back from the dead for nothing" and brings Roy back up with Cure Wounds 
 - Roy tries to cast Vicious Mockery on the god, but it resists
 
-## Fly, Fly, Baby Don't Cry
+## Fly, Fly, Baby, Don't Cry
 - Wings sprout from Hymn's back and they cast Shatter on the god 
 	- They say, "Do I look like my mother?"
 - Mabel heals herself, then casts Chill Touch on the god
