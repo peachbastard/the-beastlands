@@ -35,7 +35,7 @@
 - The party hears a voice in their head say "Give him to us"
 	- From the portal, everyone hears the sound of deep bells that sound as if they are filtered by water ringing incredibly loud, breaking the eerie silence 
 - The god makes its way to Hymn and Oz, and stomps on Roy along his way and knocks him back unconscious
-- Oz is still totally bathed in Hymn's white light and can't see anyone but them. She smiles, laughs, and looks up at them and says, "Take care of yourself, asshole" then casts Death Ward on them
+- Oz is still totally bathed in Hymn's white light and can't see anyone but them. She smiles, laughs, and looks up at them and says, "Take care of yourself, asshole," touches their hand and casts Death Ward on them
 	- Hymn says, "Thanks for all the Death Wards over the months, but I won't be needing them anymore"
 	- Oz walks out of the light and says to Roy, "Wake up old man, goddamn" and a white light similar to Hymn's passes over him and brings him back up
 
