@@ -76,7 +76,7 @@
 	- Janken says, "You only have a sliver of godhood. The bomb has both exploded and hasn't. We must let the bomb explode to finish fueling our godhood. We can teleport everyone out of here through one of the portals. Foghaven is already doomed."
 - Sniff asks Hymn if they even wanted to be a god, and says, "I thought you wanted to save all these people"
 - Hymn asks if someone can hold Pill's soul, and Sniff offers to pass it over to Arthur since he seems good with souls
-- Hymn says "At first I thought I didn't want to be a god, all my friends are down on earth", then they reshape [[NPC/Pill\|Pill's]] boy, "Now I can do this!"
+- Hymn says "At first I thought I didn't want to be a god, all my friends are down on earth", then they reshape [[NPC/Pill\|Pill's]] body, "Now I can do this!"
 - Pill is excited and says "I think I can access my magic!"
 - Janken says that they could save the Material Plane
 - Hymn asks if they can still save Foghaven and decline godhood, and Sniff agrees
