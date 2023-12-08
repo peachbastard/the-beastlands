@@ -93,4 +93,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Recaps/2023-11-22 Mercurial\|2023-11-22 Mercurial]]  |  |
+| [[Recaps/2023-11-22 Mercurial\|2023-11-22 Mercurial]]  |[[Recaps/2023-12-07 Ready To Run\|2023-12-07 Ready To Run]]  |
