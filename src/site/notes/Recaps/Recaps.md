@@ -29,3 +29,4 @@
 - [[Recaps/2023-11-15 Let the Sky Fall\|2023-11-15 Let the Sky Fall]]
 - [[Recaps/2023-11-22 Mercurial\|2023-11-22 Mercurial]]
 - [[Recaps/2023-11-30 Kill Your Heroes\|2023-11-30 Kill Your Heroes]]
+- [[Recaps/2023-12-07 Ready To Run\|2023-12-07 Ready To Run]]
