@@ -9,7 +9,7 @@
 	- Arthur goes underneath and his chanting stops, and [[Lore/Goathead\|Goathead's]] smile returns
 - [[Party/Oz\|Oz]] casts Cure Wounds on Roy, who then casts Mass Healing Word on the party and pulls Arthur out of the muck
 - [[NPC/Captain Janken\|Janken]] yells for him to keep the boy chanting and get him closer
-- Hymn asks who wants a blessing, turns Sniff and Mabel down, then casts Misty Step to appear next to Oz 
+- [[Party/Hymn\|Hymn]] asks who wants a blessing, turns Sniff and Mabel down, then casts Misty Step to appear next to Oz 
 	- They ask her if she wants a new god and she says, "Can't be worst than the last one"
 	- Hymn tells her to get on her knees, pretends to poke out her eyes, then puts their giant hand on her forehead and starts performing a ritual as they bleed on her 
 - [[Party/Sniff\|Sniff]] dives under the black substance to find Arthur's book 
@@ -114,7 +114,7 @@
 - Pill says that he feels great and that the curse that his family put on him has been lifted
 	- Hymn high-fives him, and a burst of fire comes out of 
 - Pill says that the necromancers sealed a demon into him to bind his power 
-- Hymn asks Pill if he has anyone to thank, and he says, "Yeah, thank you, Oz! For taking me on this adventure"
+- Hymn asks Pill if he has anyone to thank, and he says, "Yeah, thank you, Oz! For taking me on this adventure!"
 	- Hymn slaps him, and he demands that Oz give them a lashing
 	- Oz says, "Don't thank me, Pill," pats him on the head, then walks away
 - Mabel makes herself throw up, but she can't stop once she starts and passes out 
