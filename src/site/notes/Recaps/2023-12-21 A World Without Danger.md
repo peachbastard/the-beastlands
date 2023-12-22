@@ -102,7 +102,7 @@
 	- Oz says, "Pill, you're part of the party now. Go check it out"
 	- He sleeps through it, and Oz half-heartedly tries to wake him up, then passes back out
 - Hymn sneaks to the window and takes a peek and sees a Foghaven citizen forcibly dragged by satyrs 
-	- Hymn asks Oz if she knows anything about satyrs, and she says, "They're not friends with the junken, but they're not not friends. so I wouldn't be surprised if they're under the junken's payroll now"
+	- Hymn asks Oz if she knows anything about satyrs, and she says, "They're not friends with the junken, but they're not not friends. So I wouldn't be surprised if they're under the junken's payroll now"
 
 ## Breakfast of Champions
 - Mabel wakes up early to try to make a vegetarian breakfast for everyone, but only finds fish and meat 
