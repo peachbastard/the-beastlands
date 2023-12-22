@@ -129,7 +129,7 @@
 	- Oz heals Mabel, but she stays unconscious with a faint pulse 
 	- Party sees snakes moving around under Mabel's skin and they scurry around as Mabel is moved 
 - Mabel looks badly bruised and emaciated 
-- Hymn gives Mabel the Heimlich maneuver and she spits out more snakes that land into the Bag of Devouring 
+- Hymn gives Mabel the Heimlich maneuver and she spits out more snakes that land into the [[Inventory/Bag of Devouring\|Bag of Devouring]] 
 
 ## Send Me Off To A Foreign Land
 - Mabel eventually comes back to, but is feeling really sick and says that she had a really good dream about when she was younger 
