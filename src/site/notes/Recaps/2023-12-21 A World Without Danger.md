@@ -119,7 +119,7 @@
 - Roy hasn't said anything all morning 
 - Sniff checks Roy's, Pill's, and Shook's pupils to see if they're weird, but Roy doesn't respond 
 	- Hymn doesn't find a pulse 
-	- Mabel slaps him and casts Healing Word and he gasps for breath and and it sounds labored and thickened 
+	- Mabel slaps him and casts Healing Word and he gasps for breath, but it sounds labored and thickened 
 - Roy manages to choke out, "If I die, tell the Roy IV he was my favorite"
 	- Sniff asks how they know which one is Roy IV, and Roy says that they'll know right away because he's the best one 
 - Shook has a snake at the back of her throat 
