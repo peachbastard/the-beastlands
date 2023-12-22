@@ -23,7 +23,7 @@
 
 
 - [[Party/Hymn\|Hymn]] snatches a paper from a paperboy and looks for mentions of a bomb, then gives them a Minor Illusioned gold piece
-	- Newspaper shows the date  that the party entered the portals
+	- Newspaper shows the date that the party entered the portals
 - [[Party/Mabel\|Mabel]] asks if Lily was trying to invite the Whitelands, and recalls that she is now being listed as collaborating with the junken against the Wizard's Union 
 - Paper lists three invading forces: 
 	- One from Fey's Hand 
