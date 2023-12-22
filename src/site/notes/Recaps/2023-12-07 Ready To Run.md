@@ -126,4 +126,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Recaps/2023-11-30 Kill Your Heroes\|2023-11-30 Kill Your Heroes]]  |  |
+| [[Recaps/2023-11-30 Kill Your Heroes\|2023-11-30 Kill Your Heroes]]  | [[Recaps/2023-12-21 A World Without Danger\|2023-12-21 A World Without Danger]] |
