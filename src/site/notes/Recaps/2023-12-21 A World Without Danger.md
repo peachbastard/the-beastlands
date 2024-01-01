@@ -150,4 +150,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-|  [[Recaps/2023-12-07 Ready To Run\|2023-12-07 Ready To Run]] | [[all ca\|all ca]] |
+|  [[Recaps/2023-12-07 Ready To Run\|2023-12-07 Ready To Run]] | [[Recaps/2023-12-28 All Cats Are Grey\|2023-12-28 All Cats Are Grey]] |
