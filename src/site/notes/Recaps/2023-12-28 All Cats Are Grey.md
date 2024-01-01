@@ -26,7 +26,7 @@
 	- They ask where she got it from, and she says that it must have been from them
 	- They snatch the sword from her hand and throw it, and Oz snaps her fingers and it reappears in her hand
 - Hymn tells Oz to close her eye, hides it, then she snaps her fingers and it comes back 
-	- They ask if she wants her eye back, and Oz answers ambiguously 
+	- They ask if she wants her [[Inventory/Oz's Eye\|eye]] back, and Oz answers ambiguously 
 	- Hymn says they want to keep it for now in case it can help them become a god again, and Oz doesn't protest
 
 ## Dead Man Walking
