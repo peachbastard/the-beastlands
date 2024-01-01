@@ -110,8 +110,7 @@
 
 >[!redacted]
 
-
-- Oz is also hit by one of the tentacles, but is unable to get out of the way in time and is restrained 
+- Oz is also hit by one of the tentacles, but is unable to get out of the way in time and is Restrained 
 - Oz pulls out her sword and manages to hit it once, then again with her dagger
 - Sniff looks for mining equipment overhead and shoots with a fire arrow to drop a crate on one of the creatures; which splatters and the crate begins to glow 
 - Mabel flies by and attacks the creature holding with her claws as a Stunning Strike, but it seems that it can't be stunned
