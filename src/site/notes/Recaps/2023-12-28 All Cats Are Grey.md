@@ -51,7 +51,7 @@
 	- No knights or Paladins of the Weeping Lady or Nuns of Reverence that they saw last time 
 - Mabel suggests that they find the water where the dragon was, and Hymn ponders if they should explore the area they didn't explore last time 
 - Sniff senses a portal to the north 
-	- Mabel pulls out a bag of bones, throws them in the air, casts Augury, asks if it's a good idea to go towards the portal and gets Weal and Woe
+	- Mabel pulls out a bag of bones, throws them in the air, casts Augury, asks if it's a good idea to go towards the portal, and gets Weal and Woe
 - Mabel says she doesn't have Divination prepared, and Hymn says they're done with gods 
 - Party goes through the long tunnel to another quiet part of the temple where they only hear the water 
 	- Hymn sends their imp down to the water to see if there's anything weird about it, and it's clear and beautiful. The imp takes a sip and finds that it's delicious 
