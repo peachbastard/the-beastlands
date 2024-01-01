@@ -19,7 +19,7 @@
 	- She protests because it kind of feels like she's calling up an ex 
 
 ## Cut To The Feeling
-- Hymn still has two of the holy items and ponders if they would become a god again if they get the sword from the temple 
+- Hymn still has two of the holy items and ponders if they would become a god again if they get the sword from the temple again
 	- The sword has a black blade with a sharp hilt 
 - [[Party/Oz\|Oz]] holds out her hand and a similar-looking sword that's thinner with a fancy guard appears. She snaps her fingers and it disappears 
 	- Hymn asks when she got it, and she laughs and says it just happened
