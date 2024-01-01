@@ -92,10 +92,10 @@
 - Hymn asks for healing, and Oz repeats their words about letting the party stab them once 
 	- They stab themselves in the heart, but fail to knock themselves unconscious, so they do it again 
 	- They fall into Oz's arms, who holds them and heals them 
-- Pill stabs Hymn again, who tries to use Mage Hand to wedgie him, but the magic dissipates 
-	- Pill says that their behavior has been a problem 
 
 ## Sheep Go To Heaven
+- Pill stabs Hymn again, who tries to use Mage Hand to wedgie him, but the magic dissipates 
+	- Pill says that their behavior has been a problem 
 - Hymn kicks a sack of powder down the pit, and the party hears a moan that is neither humanoid nor beast, but something altogether stranger 
 	- Sniff moans back and checks his compass 
 - Creatures begin to crawl out of the cracks of the crystalline ivory bone 
