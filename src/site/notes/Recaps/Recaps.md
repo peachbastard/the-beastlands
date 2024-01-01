@@ -31,3 +31,4 @@
 - [[Recaps/2023-11-30 Kill Your Heroes\|2023-11-30 Kill Your Heroes]]
 - [[Recaps/2023-12-07 Ready To Run\|2023-12-07 Ready To Run]]
 - [[Recaps/2023-12-21 A World Without Danger\|2023-12-21 A World Without Danger]]
+- [[Recaps/2023-12-28 All Cats Are Grey\|2023-12-28 All Cats Are Grey]]
