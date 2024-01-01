@@ -81,12 +81,12 @@
 - The bar is completely empty. Sniff eats the most edible-looking food there, and Hymn muses that food tastes much better when they're ignoring each call to action 
 - While she's in her room, Mabel tries to use her Poisoner's Kit to extract the poison from one of the snakes to find a cure
 - Oz pulls Pill aside and gives him one of her 500 GP diamonds and says that it's his pay 
-	- He says, "I'm getting paid? Does this mean I'm not apprentice now?" and she asks if he wants to be 
+	- He says, "I'm getting paid? Does this mean I'm not an apprentice now?" and she asks if he wants to be 
 	- Oz tells him, "I said I would pay you, so I did"
 	- Pill asks if he can be a member of the party now, and she says "I don't say why that would be a problem, bud"
 - The party decides to sleep together in the big room and push the beds together to make one big bed
 	- Roy sleeps on the couch and says that he's used to it, and it's better for his back
-- Sniff and Mabel are filthy, so Oz says. "C'mon, Hymn. Let's bunk up. Those two are fucking filthy"
+- Sniff and Mabel are still grimy, so Oz says. "C'mon, Hymn. Let's bunk up. Those two are fucking filthy"
 	- Hymn agrees
 - Pill tries get on the bed, so Hymn levitates Pill to the foot of it, then Pill's magic lashes out and throws them out of the room 
 	- Hymn pulls the beds back apart and tells Pill to sleep on the floor, and he gets mad and says that he's used to sleeping on the floor anyway
@@ -150,4 +150,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-|  [[Recaps/2023-12-07 Ready To Run\|2023-12-07 Ready To Run]] |  |
+|  [[Recaps/2023-12-07 Ready To Run\|2023-12-07 Ready To Run]] | [[all ca\|all ca]] |
