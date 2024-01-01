@@ -38,7 +38,8 @@
 ## Mucho Mistrust
 - Party enters the glass constructs tavern and sees that it's busy as he serves his unique cups to each unique customer 
 - Hymn ponders if the Archmagi is still alive in this timeline/dimension since the drow haven't asked them to kill her 
-- [[Party/Roy Valentine\|Roy Valentine]] says his wife wouldn't send him any papers in any dimension, then spits out a black gob of goo onto the table 
+- Sniff wonders if there's a word in which Roy's wife never serves him papers
+	- [[Party/Roy Valentine\|Roy Valentine]] says his wife wouldn't send him any papers in any dimension, then spits out a black gob of goo onto the table 
 - [[Party/Oz\|Oz]] asks for a blood ale, and the construct gets offended and says he doesn't carry such illicit drinks here because it's a refined establishment 
 - Mabel asks for something to cure her illness, and the construct says that he would take her out and shoot her, and to leave if she's ill 
 	- Hymn promises to take her out if she gets sick
@@ -72,8 +73,10 @@
 - Oz pulls Mabel out of the water, who holds out a brass bell that she got from the eel
 	- Hymn casts Detect Magic on the bell and finds that it is magic, and some kind of primordial ancient summoning within the bell. Faintest remnants of a wavy pattern on it
 - Oz complains to Mabel that she's all wet now, and that she owes her a drink
-- Hymn asks Oz if she still has the knife that they gave her, and she confirms and pulls it out 
-	- They say that they could rob the kid again and it'd be cute if they had matching knives 
+- Hymn asks Oz if she still has the knife that they gave her, and she confirms and pulls it out
+	- Hymn ponders what happens if the kid still has his knife in this universe
+	- Oz shrugs and says, "I dunno. We steal it again?"
+	- Hymn says that they could rob the kid again, and it'd be cute if they had matching knives 
 
 ## Such A Lovely Place
 - As they enter, three people on the street's heads burst into flames and they turn into brass constructs 
