@@ -102,7 +102,7 @@
 	- Sniff wonders to himself if Roy IV is the only one of Roy's children that he's ever met
 - As they walk, Hymn looks for anyone with keys on their belt loop or some kind of pass card 
 	- Sniff keeps an eye on Pill to slap him on the back of the head if needed 
-- General Falconhein signs a paper and smiles at Oz, who grunts out a "Sup?"
+- [[NPC/General Falconhein\|General Falconhein]] signs a paper and smiles at Oz, who grunts out a "Sup?"
 	- He responds "Ah, so the prodigal soldier returns. As you can see, things have changed since you carried out the mission"
 	- Oz asks, "So are we killing this emperor or what?"
 	- He says that he's been named the interregnum imperator because of the emperor's failings 
