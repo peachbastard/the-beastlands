@@ -151,7 +151,7 @@
 - Nev asks Falconhein if he can take them down
 - A tall, muscled human woman with a large floppy, feathered  hat and a huge claymore walks over
 	- General Falconhein says, "She's quite shy, but I can assure you she's quite proficient with her blade. I'm sure you can use all the help you can use after your long, tiring journey"
-	- Hymn says, "He sure has a type, doesn't he?" and Falconhein curly responds she's his niece that his brother had taken on as a ward
+	- Hymn says, "He sure has a type, doesn't he?" and Falconhein curtly responds she's his niece that his brother had taken on as a ward
 - Hymn closes their eyes and takes another look at Mabel and Roy and see's what they're in separate in empty rooms on cold benches 
 	- Mabel's eyes widen when she sees Nev 
 	- The imp blinks out of existence
