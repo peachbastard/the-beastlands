@@ -9,7 +9,7 @@
  ###### Basic Information
  - Niece to [[NPC/General Falconhein\|General Falconhein]] 
  - Wields a giant claymore and magic
- - Very sh
+ - Very shy
 
 
  | **Race** | **Friendly?** |
