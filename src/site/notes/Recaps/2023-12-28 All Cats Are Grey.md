@@ -42,7 +42,7 @@
 - Oz tells Hymn they can drop the Lysanderoth disguise now "cause it's kind of fucking weird," but they keep it on because they like walking around big and imposing
 - [[NPC/Pill\|Pill]] asks how long Oz has known Lysanderoth, and she says, "I don't know. A few months"
 	- He asks how they met, and she says it was while making a delivery 
-	- He asks if it was the bomb, and she asks what he's talking about and if he hit his head while he was busy 
+	- He asks if it was the bomb, and she asks what he's talking about and if he hit his head while she was busy 
 	- He says that he may have, and she ruffles his hair and says, "Get your head in the game, buddy"
 
 ## Knocking On Heaven's Door
@@ -119,4 +119,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-|  [[Recaps/2023-12-21 A World Without Danger\|2023-12-21 A World Without Danger]] |  |
+|  [[Recaps/2023-12-21 A World Without Danger\|2023-12-21 A World Without Danger]] | [[Recaps/2024-01-04 Bombs Away Is Your Punishment\|2024-01-04 Bombs Away Is Your Punishment]] |
