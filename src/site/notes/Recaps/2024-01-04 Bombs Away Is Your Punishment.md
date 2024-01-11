@@ -165,7 +165,7 @@
 	- They ask Oz, "What the hell happened? I thought we were going to take them out! And now they have Mabel and Roy"
 	- Oz says, "We'll get them back, then we'll figure out the rest"
 	- Sniff says, "Did you see all those ugly bastards? I don't think we could have taken them out"
-- Adelaide says, "We need to go beneath the temple. There's something called the Apotheosis"
+- [[NPC/Adelaide\|Adelaide]] says, "We need to go beneath the temple. There's something called the Apotheosis"
 - Hymn asks if anyone wants to see the abomination they saw, and Oz says, "Sure, Hymn. Let's do it."
 	- Hymn says, "I don't know why you've been so mumble-y all of a sudden. Maybe because we kissed"
 	- Adelaide blushes on hearing that they kissed 
