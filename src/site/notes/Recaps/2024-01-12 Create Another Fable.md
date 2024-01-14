@@ -3,7 +3,8 @@
 ---
 
 # What Happened? 
- ## Something I Might Like
+## Something I Might Like
+ 
 - The chain that was previously found is quite heavy, weighs about 60 pounds
 - [[Party/Hymn\|Hymn]] casts Detect Magic and finds that it may have once been magical, but is no longer
 - Hymn asks Sniff if he's getting any portal vibes, and the party's still in the area where he's getting some portal vibes 
