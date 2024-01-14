@@ -33,3 +33,4 @@
 - [[Recaps/2023-12-21 A World Without Danger\|2023-12-21 A World Without Danger]]
 - [[Recaps/2023-12-28 All Cats Are Grey\|2023-12-28 All Cats Are Grey]]
 - [[Recaps/2024-01-04 Bombs Away Is Your Punishment\|2024-01-04 Bombs Away Is Your Punishment]]
+- [[Recaps/2024-01-12 Create Another Fable\|2024-01-12 Create Another Fable]]
