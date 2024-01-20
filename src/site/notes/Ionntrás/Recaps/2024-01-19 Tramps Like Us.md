@@ -29,6 +29,7 @@
 - Tony asks what Finn can do, and he says he's a good gardener and a good cook 
 	- Tony says he can't taste anything, any Minski says that he should've said that before they voted him for the worst worst day 
 	- Minski says they should get the pick of the food since theirs was the second worst day
+	- Tony says he would like a gun instead, and Minski says they'll get him a gun
 
 ## Eat You Alive
 - An older man catching his breath yells out, "Some shark messed up the market place!" Most of the bar rushes out, and the party follows 
