@@ -9,10 +9,10 @@
 - Story begins in the town of Ionntrás with population of several hundred, including small disbursed hamelsts around town built on older remnants 
 - Everyone in the party knows each other to varying degrees because there are only a few hundred people, and everyone in the party is fairly young
 - The party:
-	- Captain Lamp Minski:  6'4, mess of black hair that is shaggy in a ponytail they put up a week ago, green eyes, two cat ears, and long cat tail. Born into the river runner trade. Matted fur 
-	- [[Reed Primus\|Reed Primus]]: slightly above average height woman with shaggy blond hair, green eyes, green clothing with a dark orange bandana, and a slim, but muscular build
-	- Finn Fairleaf: a stout halfling fellow with a red cloak. An aspiring adventurer that hasn't made it too far and has mostly made it through by hitchhiking 
-	- Tony: a little boy when he has his disguise up, without it he looks like a ceramic doll with cracks in face and arms. An orphan urchin with shaggy brown hair, cargo pants with pockets and tools, and a blue poncho
+	- [[Ionntrás/Party/Captain Lamp Minski\|Captain Lamp Minski]]:  6'4, mess of black hair that is shaggy in a ponytail they put up a week ago, green eyes, two cat ears, and long cat tail. Born into the river runner trade. Matted fur 
+	- [[Ionntrás/Party/Reed Primus\|Reed Primus]]: slightly above average height woman with shaggy blond hair, green eyes, green clothing with a dark orange bandana, and a slim, but muscular build
+	- [[Ionntrás/Party/Finn Fairleaf\|Finn Fairleaf]]: a stout halfling fellow with a red cloak. An aspiring adventurer that hasn't made it too far and has mostly made it through by hitchhiking 
+	- [[Ionntrás/Party/Tony\|Tony]]: a little boy when he has his disguise up, without it he looks like a ceramic doll with cracks in face and arms. An orphan urchin with shaggy brown hair, cargo pants with pockets and tools, and a blue poncho
 - Reed frequently has dealings with Captain Minski; the two have had a number of drinks with the roughish gardener halfling, and are the only ones to take kindness with the strange doll child who seems to have no one else in town besides the three 
 - The four are in a tavern in the merchant's district sitting around a table telling stories about the worst and best day of their childhoods
 	- Whoever has the best best day and worst worst day gets whatever they want on the menu paid by everyone else
@@ -126,8 +126,11 @@
 - Reed's usually placid countenance is replaced by something more voracious, and she challenges the party to a drinking contest:
 	- She beats Captain Minski, and narrowly beats Finn 
 	- The party is apprehensive about whether Tony should drink, and Reed says, "If you're old enough to fight, you're old enough to drink," then outdrinks him as well
-- Captain asks if there's anywhere in the establishment they can puke, and Darien says, "It's alright. You can puke in the rubbish pile. It's a bartender's job to clean it up"
+- Captain Minski asks if there's anywhere in the establishment they can puke, and Darien says, "It's alright. You can puke in the rubbish pile. It's a bartender's job to clean it up"
 	- After Minski pukes, Darien invites them to lay on the couch near the fireplace
+- Reed offhandedly compliments Tony for his abilities as a creepy doll boy 
+	- Captain Minski yells that he isn't a creepy doll boy
+	- Tony's head turns 180 degrees to look at Minski and asks them if they still think he's not a creepy doll boy
 - Captain Minski rants about how much they hate their Gnomish stepmother, and how she's a skank that walks around in skanky clothing all day and distracts the workers at the cannery to the point where no work gets done 
 	- They express a distaste for smaller races and Darien points to a sign that says "No discrimination allowed"
 - Darien says, "The militia have been sitting on their arses since the last crusade came through"
