@@ -10,7 +10,7 @@
 - Everyone in the party knows each other to varying degrees because there are only a few hundred people, and everyone in the party is fairly young
 - The party:
 	- [[Ionntrás Campaign/Party/Captain Lamp Minski\|Captain Lamp Minski]]:  6'4, mess of black hair that is shaggy in a ponytail they put up a week ago, green eyes, two cat ears, and long cat tail. Born into the river runner trade. Matted fur 
-	- [[Ionntrás Campaign/Party/Reed Primus\|Reed Primus]]: a fisher with slightly above average height woman with shaggy blond hair, green eyes, green clothing with a dark orange bandana, and a slim, but muscular build
+	- [[Ionntrás Campaign/Party/Reed Primus\|Reed Primus]]: a fisher that's only lightly-tanned despite years in the sun with shaggy blond hair, green eyes, green clothing with a dark orange bandana, and a slim, but muscular build
 	- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]]: a stout halfling fellow with a red cloak. An aspiring adventurer that hasn't made it too far and has mostly made it through by hitchhiking 
 	- [[Ionntrás Campaign/Party/Tony\|Tony]]: a little boy when he has his disguise up, without it he looks like a ceramic doll with cracks in face and arms. An orphan urchin with shaggy brown hair, cargo pants with pockets and tools, and a blue poncho
 - Reed frequently has dealings with Captain Minski; the two have had a number of drinks with the roughish gardener halfling, and are the only ones to take kindness with the strange doll child who seems to have no one else in town besides the three 
