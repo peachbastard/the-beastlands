@@ -119,7 +119,7 @@
 	- Minksi yells, "I know how to fish! I fished for 21 years for my lousy father, only for him to take those fish and put them into cans!"
 	- Reed says, "I'll make you breakfast instead"
 	- Minksi says, "I have breakfast now! I just went through a brunch phase," to which Reed asks what brunch is, and Finn explains 
-- Finn looks around for wood to repair the boat and finds 5 hull patches, 2 sails, 1 bottle of devil oil, 100 GP, and a small statue of a strange god
+- Finn looks around for wood to repair the boat and finds 5 hull patches, 2 sails, 1 bottle of devil oil, 100 gold pieces, and a small statue of a strange god
 	- The statue is semi-androgynous and fertility-esque, but also slightly sea creature-like and made of a slimy, green coral stone 
 - Reed takes the hull patches and takes time to fix up the ship, while Captain Minksi licks herself clean, and Tony Mends what he can, then starts looking around 
 	- Tony doesn't find much, but does find 5 more gold pieces 
