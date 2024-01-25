@@ -28,6 +28,7 @@
 	- Reed says, "I apologize for my actions. It's something my parents used to do when I was younger to help me sleep. I had a lot of energy and would sleepwalk, so they would give me some thwacks because they said you can't have trouble sleeping if you're unconscious"
 	- Captain looks a little bewildered, but agrees with the logic and tells her to never do it again
 
+
 ## She Gonna Teach Me How To Swim
 - The boat tumbles down some rocks and starts taking some surface level damage 
 	- Captain Minksi brushes it off as nothing a coat of paint can't fix, and it's like what happens when Tony takes a fall 
@@ -48,6 +49,7 @@
 - Reed volunteers to take first watch because she can't sleep 
 	- Captain Minksi says, "Don't worry, I won't slash ya," and she responds, "Thank you. I appreciate that, captain"
 
+
 ## Simple Minds
 - Reed sees a lowkey-looking boat go by in the same direction they were heading, but doesn't investigate it 
 - Captain Minksi asks if anyone saw anything in the middle of the night, and Reed says that she did 
@@ -65,6 +67,7 @@
 	- Reed says, "I'm plenty strong, Captain Minksi. I can cut down a few trees"
 - The party stops in a neck of the river and starts cutting down trees 
 	- Reed, Tony, and Finn efficiently cut down trees; while Captain Minksi falls into the mud trying to pull up a sapling 
+
 
 ## This Could Take All Night
 - The party continues up river for several hours until they reach the first wayfarer point 
@@ -88,6 +91,7 @@
 - The party cruise quietly up the river stream that is larger and slightly safer from hazards from now, with two paths: one that is also one of the main throughfares for this river, or a smaller, more obscure path 
 - Minksi asks Reed if she can handle a few bumps in the road, and Reed says, "Captain Minksi, I can handle a few bumps in the road. I can handle a lot"
 	- Minksi says, "I know you can," then leads the boat down the smaller path 
+
 
 ## Feel My Blood Enraged
 - Finn looks at the tents on the sides of the river, but doesn't see anyone 
@@ -125,6 +129,7 @@
 	- Tony doesn't find much, but does find 5 more gold pieces 
 - Captain Minksi puts the statue up on the boat high and lofty, then locks it down
 
+
 ## Is It Fast Enough So We Can Fly Away?
 - Finn looks for more devil oil, then finds two more bottles
 	- Devil oil is very valuable and enhances the ability of ships, can go sell for 100-1,000 gold pieces 
@@ -145,6 +150,7 @@
 - Captain Minksi examines the devil oil, then pours a drop of it on her dagger and lights it on fire 
 	- Finn pulls out one of the bottles he found at the camp and compares it against what they've obtained and finds that they seem to burn differently, but it's hard to tell if it's a matter of quality or substance. They both taste and smell like they would be lethal to consume
 	- She tells Reed to carry the chest, and she readily agrees  
+
 
 ## All The Other Real Ones That I Destroy
 - The town has a tavern, fishing shop, general store with an attached surgeon room, and a very small militia outposts
@@ -191,6 +197,7 @@
 	- Tony says that he doesn't have private parts, but would accept them even if they were gross and nasty 
 	- Minksi says, "Maybe I can introduce you to my stepmother and a different surgeon and sort something out"
 - Captain Minksi looks for smoke in the sky, but it's too dark to see anything. She asks if they should sail out, or if they should stay the night 
+
 
 ## And We'll Get Something Started
 - The party rejoins Reed at the tavern where she is sitting with a greasy looking human at a back table that offers some privacy 
