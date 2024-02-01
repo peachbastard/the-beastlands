@@ -4,7 +4,7 @@
 
 
 > [!party]
-> ![Captain Lamp Minski IMG 1.png](/img/user/z_Assets/Captain%20Lamp%20Minski%20IMG%201.png)
+> ![Captain Lamp Minksi IMG.png](/img/user/z_Assets/Captain%20Lamp%20Minksi%20IMG.png)
 
 ###### Basic Information 
 
