@@ -58,7 +58,7 @@
 - The party sneak back to their ship, but one of sharkin spot them and shouts, "They're heading for their ship!"
 	- The sharkin's ship is still being accosted by the maelstrom, and one of the sharkin approach the party 
 - The sharkin says, "We've been looking all over for you. You think you can just spill shark blood and get away from us? None of you are going to get the boat past me. You can get on the boat alive, or in my stomach"
-	- Captain Minksi says, "I wouldn't get another step closer, Mr. Shark. I just had the Eye of Shark Slaying installed in me," and she lifts her eyepatch to reveal her runic eye 
+	- Captain Minksi says, "I wouldn't get another step closer, Mr. Shark. I just had the Eye of Shark Slaying installed in me," and she lifts her eyepatch to reveal her [[Ionntrás Campaign/Party/Inventory/Rune Eye\|Rune Eye]] 
 - The sharkin says, "You're a liar," and takes a step back 
 	- Captain Minksi responds, "Oh, but I'm not. My eye longs for the salty flesh of your kind!" and takes a step forward 
 
