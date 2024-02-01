@@ -44,7 +44,7 @@
 	- He sees the bartender being choked by a sharkin, then pulls him away. He yells at the bartender to hide or he'll kill him 
 	- One of the sharkin looks both bored and curious, then levels a cannon against Finn and nearly knocks him unconscious
 - Captain Minksi holds a crossbow shot until Reed breaks the window 
-- Reed uses her shield to break the window open, then switches to her magic fishing rod and casts Maelstrom on the sharkin's ship 
+- Reed uses her shield to break the window open, then switches to her [[Ionntrás Campaign/Party/Inventory/Bobtail\|magic fishing rod]] and casts Maelstrom on the sharkin's ship 
 	- Captain Minksi uses this moment to shoot a sharkin
 	- Reed yells, "You might want to check on your ship!" but the sharkin clearly intend on killing them first and dealing with the ship later, with two of the sharkin leaving the bar to check on the ship
 - One of the sharkin knock Finn unconscious. As he loses consciousness, his eyes meet the bartender's before the satyr's eyes explode as an anchor crushes his skull 
