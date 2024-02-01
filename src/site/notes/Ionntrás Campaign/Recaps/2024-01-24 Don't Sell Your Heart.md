@@ -182,7 +182,7 @@
 	- Tony says that he wants surgeon tools, and is offered a freshly sharpened silver surgeon tools, but Tony says he has a bias towards ceramic tools 
 	- The man says he doesn't have ceramic tools yet, but will when he returns
 - Tony offers more than just his hand, offers his arm for the surgical tools 
-- Tony and Captain Minksi receive a long, strange surgery, and learn that the man's name is Dr. Barber 
+- Tony and Captain Minksi receive a long, strange surgery where Minksi ends up with the [[Ionntrás Campaign/Party/Inventory/Rune Eye\|Rune Eye]], and learn that the man's name is Dr. Barber 
 	- Finn asks what his middle name is, and Dr. Barber says, "I dare not speak of it"
 - The runic eye feels very odd in Captain Minksi's eye socket 
 - Tony says, "I was going to take something, but I don't feel like he will return my arm if I take something from"
