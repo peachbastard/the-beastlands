@@ -101,7 +101,7 @@
 	- Finn is unsure if he should take that as a compliment or not
 - The party hears the sound of a bell ringing down the river towards them 
 	- Reed sees a small boat with a solitary figure on it 
-- The boat pulls up with a small humanoid figure with a black cloak, black mask, and black belt ringing a bell 
+- The boat pulls up with a slim humanoid figure with a black cloak, black mask, and black belt ringing a bell 
 	- He says, "Woah there! I happened to be sailing down the river selling my goods and wanted to see if you wanted to buy my wares or had any food to spare"
 - Captain Minksi says they have food to spare, but the last person that tried to sell them something was three kobolds stacked together, and orders Tony to shake him down
 	- The man says, "I am quite uncomfortable with human contact," and Tony says that he's not a human
