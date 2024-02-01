@@ -4,6 +4,7 @@
 
 ![The Ionntrás Campaign IMG.png](/img/user/z_Assets/The%20Ionntr%C3%A1s%20Campaign%20IMG.png)
 
+## [[Ionntrás Campaign/Party/Inventory/Party Inventory\|Party Inventory]]
 # [[Ionntrás Campaign/Recaps/Recaps\|Recaps]]
 
 <!DOCTYPE html>
