@@ -43,7 +43,7 @@
     <h1>The Party</h1>
     <div class="image-grid">
         <a href="https://the-beastlands.vercel.app/ionntras-campaign/party/captain-lamp-minksi/">
-            <img src="https://i.imgur.com/3drfwTB.png" alt="Captain Lamp Minski">
+            <img src="https://i.imgur.com/pdeNkuO.png" alt="Captain Lamp Minski">
         </a>
         <a href="https://the-beastlands.vercel.app/ionntras-campaign/party/reed-primus/">
             <img src="https://i.imgur.com/6tkkUAm.png" alt="Reed Primus">
