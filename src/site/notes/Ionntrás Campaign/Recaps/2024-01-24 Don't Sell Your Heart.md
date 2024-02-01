@@ -118,7 +118,7 @@
 	- She looks in the water for loot 
 - Tony knows that they can potentially get one of the cannons on the boat with some repairs, but in the boat's current state it might split in two 
 - Captain Minksi says that she has something for Reed, but she politely declines and says, "You don't have to get me anything, captain"
-	- Minksi asserts that she's giving it to her, and hands her a really nice-looking fishing rod 
+	- Minksi asserts that she's giving it to her, and hands her a really nice-looking [[Ionntrás Campaign/Party/Inventory/Bobtail\|fishing rod]]
 	- Reed says, "Thank you, captain. I don't like owing people favors. I'll repay you some time. I could teach you how to fish"
 	- Minksi yells, "I know how to fish! I fished for 21 years for my lousy father, only for him to take those fish and put them into cans!"
 	- Reed says, "I'll make you breakfast instead"
