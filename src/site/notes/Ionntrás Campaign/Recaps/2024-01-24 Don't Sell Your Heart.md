@@ -216,8 +216,8 @@
 - Finn quietly pulls the curtain shut so they can discuss what to do next 
 - The sharkin talk loudly about the scores they've gotten, the sweeet revenge they're going to get on the small town yokels that dared defied them, make goat jokes about the bartender, and demand meat and alcohol 
 	- They mention someone in particular, the only one they sound potentially respectful to, a Captain Splitfin, but they're almost unwilling to speak his name 
-- Session ends as the party whispers about their next 
+- Session ends as the party whispers about their next move
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Ionntrás Campaign/Recaps/2024-01-19 Tramps Like Us\|2024-01-19 Tramps Like Us]]  |  |
+| [[Ionntrás Campaign/Recaps/2024-01-19 Tramps Like Us\|2024-01-19 Tramps Like Us]]  | [[Ionntrás Campaign/Recaps/2024-01-31 Some Blurry Little Quest\|2024-01-31 Some Blurry Little Quest]] |
