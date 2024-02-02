@@ -9,7 +9,7 @@
 - Story begins in the town of Ionntrás with population of several hundred, including small disbursed hamlets around town built on older remnants 
 - Everyone in the party knows each other to varying degrees because there are only a few hundred people, and everyone in the party is fairly young
 - The party:
-	- [[Ionntrás Campaign/Party/Captain Lamp Minksi\|Captain Lamp Minksi]]:  6'4, mess of black hair that is shaggy in a ponytail they put up a week ago, green eyes, two cat ears, and long cat tail. Born into the river runner trade. Matted fur 
+	- [[Ionntrás Campaign/Party/Captain Lamp Minksi\|Captain Lamp Minksi]]:  6'4, mess of black hair that is shaggy in a ponytail she put up a week ago, green eyes, two cat ears, and long cat tail. Born into the river runner trade. Matted fur 
 	- [[Ionntrás Campaign/Party/Reed Primus\|Reed Primus]]: a fisher that's only lightly-tanned despite years in the sun with shaggy blond hair, green eyes, green clothing with a dark orange bandana, and a slim, but muscular build
 	- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]]: a stout halfling fellow with a red cloak. An aspiring adventurer that hasn't made it too far and has mostly made it through by hitchhiking 
 	- [[Ionntrás Campaign/Party/Tony\|Tony]]: a little boy when he has his disguise up, without it he looks like a ceramic doll with cracks in face and arms. An orphan urchin with shaggy brown hair, cargo pants with pockets and tools, and a blue poncho
@@ -17,30 +17,30 @@
 - The four are in a tavern in the merchant's district sitting around a table telling stories about the worst and best day of their childhoods
 	- Whoever has the best best day and worst worst day gets whatever they want on the menu paid by everyone else
 - Finn: when dad died and his uncle took him in
-- Captain Minksi: parents divorced and they learned at the cannery and cut their face in their distress, then had to keep working as they bled over the fish
-	- Finn asks how it affected their schooling, and they ask what that is 
-		- They say, "Oh you went to school and want to complain about one of your parents dying?"
-		- Finn responds, "At least yours aren't dead," but Minksi says they don't like their dad or stepmom 
-- Minksi asks Reed what her worst day was, and she says one day she almost caught a really big, really shiny fish, and fought for it with all her might, but it got away
+- Captain Minksi: parents divorced and she learned at the cannery and cut her face in their her, then had to keep working as she bled over the fish
+	- Finn asks how it affected her schooling, and she asks what that is 
+		- She says, "Oh you went to school and want to complain about one of your parents dying?"
+		- Finn responds, "At least yours aren't dead," but Minksi says she doesn't like her dad or stepmom 
+- Captain Minksi asks Reed what her worst day was, and she says one day she almost caught a really big, really shiny fish, and fought for it with all her might, but it got away
 - Tony says, "When my mortal body was taken by the fey, then my parents threw me out because they didn't want a doll child, but my parents are still alive" 
 - Everyone agrees that Tony had the worst day, and Reed says "Mr. Tony, you must be a little more useful than a toy"
 	-  Tony agrees and taps an object on the table and makes it glow 
-- Minksi asks if they can reattach Tony's limbs if they come off and if he bleeds, and he says that he cracks, but he can fix himself if it doesn't get too big 
-- Tony asks what Finn can do, and he says he's a good gardener and a good cook 
+- Captain Minksi asks if she can reattach Tony's limbs if they come off and if he bleeds, and he says that he cracks, but he can fix himself if it doesn't get too big 
+- Tony asks what Finn he can do, and he says he's a good gardener and a good cook 
 	- Tony says he can't taste anything, any Minksi says that he should've said that before they voted him for the worst worst day 
-	- Minksi says they should get the pick of the food since theirs was the second worst day
-	- Tony says he would like a gun instead, and Minksi says they'll get him a gun
+	- Minksi says that she should get the pick of the food since hers was the second worst day
+	- Tony says he would like a gun instead, and Minksi says she'll get him a gun
 
 ## Eat You Alive
 - An older man catching his breath yells out, "Some shark messed up the market place!" Most of the bar rushes out, and the party follows 
-- Finn asks Captain Minksi what race they are, and they say their mother was a beautiful human, and their father is a tabaxi 
+- Finn asks Captain Minksi what race they are, and she says her mother was a beautiful human, and her father is a tabaxi 
 - As they approach, they hear the guttural laughter the sharkin are known for. They weigh several hundred pounds and look like great white sharks 
 	- They occupy a strange place in society: some of the few outlaws that have dealings with the floating nation pirates 
 	- The town usually pays them the bribes they ask for on a personal basis to avoid any inconveniences or being ripped to shreds by several huge walking sharks 
 - A crowd has gathered as three sharkin harass one of the shopkeepers at a stall
 - Captain Minksi and Reed know the shopkeeper generally, his name is Atticus Penn 
-	- They lean over to Reed and say, "I owe these sharkin a few hundred gold, so let's try to stay out of their way at first"
-	- She responds, "Of course, Captain Minksi"
+	- She leans over to Reed and says, "I owe these sharkin a few hundred gold, so let's try to stay out of their way at first"
+	- Reed responds, "Of course, Captain Minksi"
 - The party creeps closer and they can hear them demanding something from Atticus 
 - Finn hears them demand that Atticus hand over something that he took from the river or took from them, and threaten to rip him to shreds if he doesn't hand it over now. He relays this to the party 
 - Reed says, "I can't just let them threaten this man" 
@@ -51,13 +51,13 @@
 	- Reed says she doesn't have any bees, but can catch them some fish 
 		- She backtracks and says, "Oh... you're fish"
 - The sharkin go into a feeding frenzy and knock Reed unconscious 
-	- The red sharkin snarls with blood running down its mouth, "All right, who's next?"
+	- The red sharkin snarls with blood running down its mouth shouts, "All right, who's next?"
 - Atticus yells, "Alright, that's enough!" and explodes with wreaths of flame, causing the blue and white sharkin to writhe in pain 
 - Finn looks for a way though the chaos to sneak through the crowd to hit the one that took out Reed, but he misses, then disappears back into the shadows  
 - Tony closes the distance and tosses a vial of rotten mink to cast Tasha's Caustic Brew against the red sharkin, but it dodges 
 	- Tony tries to cry to the red sharkin and says, "That was my sister!"
 	- The sharkin bellows, "Good! You're next boy! I'll clean my teeth on your bones!"
-- Captain Minksi hisses and pulls out their two daggers and stabs the red sharkin, then Disengages to move back 
+- Captain Minksi hisses and pulls out her two daggers and stabs the red sharkin, then Disengages to move back 
 - The red sharkin says, "I'll get you for that! Right on, boys! Boys?" and turns to see the the white and blue sharkin are still writhing in agony 
 - The blue sharkin is able to break from of his fiery shackles and tackles Atticus and begins viciously tearing into him; breaking the concentration on his spell 
 	- The white sharkin remains motionless on the ground
@@ -96,9 +96,9 @@
 	- Fatalities and disappearances inside are enough toe steer most people away
 - Nearby are the Artisan's Quarters, and town's famed herbalist, local farms and hamlets, and the Gallows' Speak Church that is old and still technically in use, though operated by a few silent nuns. It is unknown what gods the church worship, but they tend to the sick and needy 
 - The market square begins to reassemble itself, and the militia take away the dead body of Atticus
-- Finn tries to open the chest, but Minksi stops them 
+- Finn tries to open the chest, but Captain Minksi stops them from opening it in the middle of the market
 	- They get into an argument about whether or not Finn can teleport; with Finn asserting that he may be able to, but should save it for when its necessary
-- Reed says, "Captain Minksi, may I trouble you for a bite of that sharkin?" they toss some over
+- Reed says, "Captain Minksi, may I trouble you for a bite of that sharkin?" and she tosses some over
 	-  Reed starts eating it then says, "To the tavern then?"
 
 ## Cause I'm More Than A Handful, You'll See
@@ -127,24 +127,24 @@
 - Reed's usually placid countenance is replaced by something more voracious, and she challenges the party to a drinking contest:
 	- She beats Captain Minksi, and narrowly beats Finn 
 	- The party is apprehensive about whether Tony should drink, and Reed says, "If you're old enough to fight, you're old enough to drink," then outdrinks him as well
-- Captain Minksi asks if there's anywhere in the establishment they can puke, and Darien says, "It's alright. You can puke in the rubbish pile. It's a bartender's job to clean it up"
-	- After Minksi pukes, Darien invites them to lay on the couch near the fireplace
+- Captain Minksi asks if there's anywhere in the establishment she can puke, and Darien says, "It's alright. You can puke in the rubbish pile. It's a bartender's job to clean it up"
+	- After Minksi pukes, Darien invites her to lay on the couch near the fireplace
 - Reed offhandedly compliments Tony for his abilities as a creepy doll boy 
 	- Captain Minksi yells that he isn't a creepy doll boy
-	- Tony's head turns 180 degrees to look at Minksi and asks them if they still think he's not a creepy doll boy
-- Captain Minksi rants about how much they hate their Gnomish stepmother, and how she's a skank that walks around in skanky clothing all day and distracts the workers at the cannery to the point where no work gets done 
-	- They express a distaste for smaller races and Darien points to a sign that says "No discrimination allowed"
+	- Tony's head turns 180 degrees to look at Minksi and asks her if she still thinks he's not a creepy doll boy
+- Captain Minksi rants about how much she hates her Gnomish stepmother, and how she's a skank that walks around in skanky clothing all day and distracts the workers at the cannery to the point where no work gets done 
+	- She expresses a distaste for smaller races and Darien points to a sign that says "No discrimination allowed"
 - Darien says, "The militia have been sitting on their arses since the last crusade came through"
 	- Finn says they sat on their asses during the last attack, and that he was surprised they even showed up 
 - Darien invites them to stay the night, and the party asks if there's somewhere secure that they can sleep, but he says that upstairs will be fine 
-- Captain Minksi falls as they try to get up the stairs 
-	- Reed runs towards them and asks if they're alright, and Captain Minksi belligerently insists that they're okay and says, "Don't touch me!"
-	- Reed says she's not touching them and they say, "Don't even touch me with your eyes!" and she shuts her eyes 
-	- Finn says that they're not okay and should get some rest
+- Captain Minksi falls as she tries to get up the stairs 
+	- Reed runs towards them and asks if she's alright, and Captain Minksi belligerently insists that she's okay and says, "Don't touch me!"
+	- Reed says she's not touching her and she responds, "Don't even touch me with your eyes!" and Reed shuts her eyes 
+	- Finn says that she's not okay and should get some rest
 - Reed asks if she can open her eyes now, and Captain Minksi gives the affirmative 
 	- She then pulls a blue sword out and strikes Minksi with it
 	- Captain Minksi yells, "You stabbed me!" and Reed responds, "No, it was more of a slashing motion"
-	- Captain Minksi angrily flicks some of their blood at her, then goes into one of the rooms 
+	- Captain Minksi angrily flicks some of her blood at her, then goes into one of the rooms 
 - Darien says, "Alright, that's enough of that. What's with you fishing folk and being decades behind?"
 	- Reed responds, "Fish don't change," and Darien says that he's been here for hundreds of years 
 	- Reed excitedly asks about the fish from back then
@@ -157,17 +157,17 @@
 >[!redacted]
 
 
-- Loud banging on the front door as Reed knocks on the doors upstairs and tells the party that it's time to wake up and leave because there's fish to catch
-	- Captain Minksi refuses to leave, and wants to stay back and fight because Darien is like a brother to them
+- There's a loud banging on the front door as Reed knocks on the doors upstairs and tells the party that it's time to wake up and leave because there's fish to catch
+	- Captain Minksi refuses to leave, and wants to stay back and fight because Darien is like a brother to her
 - Darien says "After all these years of safety I've never become accustomed to it," and he draws a sword and magic begins glowing on his arm
 - Party runs out the back window that Reed directs them to 
 	- Tony almost falls, but Finn catches him 
 - A visceral battles ensues inside as the party escapes 
-- Captain Minksi says, "I know some boats we can steal," and Finn asks why they'd need to steal one if they're a captain 
-	- They respond "I'm a captain, they'd be grateful to have their boat stolen by the great Captain Minksi"
-- Finn discerns that Captain Minksi is not a captain, and they've run ships, but don't officially own one of their own 
-	- They begrudgingly admit that they've only ran ships owned by their father
-- Captain Minksi looks for a boat owner from their father and sees a larger double-boat which usually requires 2-3 people to man, and a smaller one-man river craft that would fit them all, but uncomfortably 
+- Captain Minksi says, "I know some boats we can steal," and Finn asks why she'd need to steal one if she's a captain 
+	- She respond "I'm a captain, they'd be grateful to have their boat stolen by the great Captain Minksi"
+- Finn discerns that Captain Minksi is not a captain, and she's run ships, but doesn't officially own one of her own 
+	- She begrudgingly admits that she's only ran ships owned by her father
+- Captain Minksi looks for a boat owner from her father and sees a larger double-boat which usually requires 2-3 people to man, and a smaller one-man river craft that would fit them all, but uncomfortably 
 - 20 hulking sharkins approach with weapons made of anchors and cutlasses, some with cannons over their heads 
 - Captain Minksi ushers everyone onto the boat, shoves a rag into a bottle of oil, lights it, and hurls it in their general direction, but only manages to get one
 	- A sharkin yells, "Oi, she torched Dave. I was going to torch Dave!"
@@ -198,7 +198,7 @@
 - Minksi continues to barter with the devil as the ship sustains attacks 
 	- Tony pleads for Captain Minksi to make the deal, then falls unconscious from another attack 
 	- Finn stabilizes Tony
-- Minksi eventually manages to convince the devil to just take one of their eyes after being convinced by the sustained attacks and the fact that most captains wear eyepatches 
+- Minksi eventually manages to convince the devil to just take one of her eyes after being convinced by the sustained attacks and the fact that most captains wear eyepatches 
 - Finn investigates the box and places it into the water 
 	- In the refractions of the light, he can see markings that were hidden or invisible before with a Rubix Cube-esque mechanism in the front that requires a similar coding or pattern 
 - Reed sees that it looks like someone wrote notes in Elvish, then crossed it out that gives her some ideas about how to work the inner mechanisms 
