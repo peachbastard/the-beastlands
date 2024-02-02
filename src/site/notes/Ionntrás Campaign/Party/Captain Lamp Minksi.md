@@ -9,7 +9,7 @@
 ###### Basic Information 
 
 - Was born into the river running business
-- Calls herself a captain, but they don't actually own a boat and have only ran ships that her father owns 
+- Calls herself a captain, but she doesn't actually own a boat and has only ran ships that her father owns 
 - Mother was a beautiful human and father is a tabaxi 
 - Resents her father for divorcing her mother and marrying a skanky Gnome
 
