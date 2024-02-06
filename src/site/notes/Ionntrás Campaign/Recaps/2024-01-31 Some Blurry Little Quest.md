@@ -27,7 +27,7 @@
 	- She then strikes Glor, who retaliates 
 - Redscar disengages and moves towards the exit
 - Tony tries to shoot his sling at the fleeing sharkin, but misses 
-- Finn dramatically whips his [[Ionntrás Campaign/Party/Inventory/Cape of the Mountebank\|shimmering cape]] around and teleports into Redscar and the sharkin explodes, spilling gore and shark guts everywhere
+- Finn dramatically whips his [[Ionntrás Campaign/Inventory/Cape of the Mountebank\|shimmering cape]] around and teleports into Redscar and the sharkin explodes, spilling gore and shark guts everywhere
 - Reed strikes at Glor, then uses an Action Surge to strike again 
 - Captain Minksi stabs Glor to death, then asks the satyr if they can have a free room 
 	- The satyr yells at them to get out of here and asks, "Do you know what happens when there's blood in the air? I'm gonna be cleaning blood for months!"
@@ -45,7 +45,7 @@
 	- One of the sharkin looks both bored and curious, then levels a cannon against Finn and nearly knocks him unconscious
 - Captain Minksi holds a crossbow shot until Reed breaks the window 
 - Reed uses her shield to break the window open, then Captain Minksi uses this moment to shoot a sharkin
-	- Reed uses her [[Ionntrás Campaign/Party/Inventory/Bobtail\|magic fishing rod]] to cast Maelstrom on the sharkins' ship
+	- Reed uses her [[Ionntrás Campaign/Inventory/Bobtail\|magic fishing rod]] to cast Maelstrom on the sharkins' ship
 	- Reed yells, "You might want to check on your ship!" but the sharkin clearly intend on killing them first and dealing with the ship later, with two of the sharkin leaving the bar to check on the ship
 - One of the sharkin knock Finn unconscious. As he loses consciousness, his eyes meet the bartender's before the satyr's eyes explode as an anchor crushes his skull 
 - Captain Minksi yells, "The captain never leaves their crew behind!" and uses her Feline Agility to rush into the bar and to carry Finn out 
@@ -58,7 +58,7 @@
 - The party sneak back to their ship, but one of sharkin spot them and shouts, "They're heading for their ship!"
 	- The sharkin's ship is still being accosted by the maelstrom, and one of the sharkin approach the party 
 - The sharkin says, "We've been looking all over for you. You think you can just spill shark blood and get away from us? None of you are going to get the boat past me. You can get on the boat alive, or in my stomach"
-	- Captain Minksi says, "I wouldn't get another step closer, Mr. Shark. I just had the Eye of Shark Slaying installed in me," and she lifts her eyepatch to reveal her [[Ionntrás Campaign/Party/Inventory/Rune Eye\|Rune Eye]] 
+	- Captain Minksi says, "I wouldn't get another step closer, Mr. Shark. I just had the Eye of Shark Slaying installed in me," and she lifts her eyepatch to reveal her [[Ionntrás Campaign/Inventory/Rune Eye\|Rune Eye]] 
 - The sharkin says, "You're a liar," and takes a step back 
 	- Captain Minksi responds, "Oh, but I'm not. My eye longs for the salty flesh of your kind!" and takes a step forward 
 
