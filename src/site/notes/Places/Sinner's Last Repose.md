@@ -5,8 +5,9 @@
 
 > [!place]
 > ![Sinner's Last Repose IMG.png](/img/user/z_Assets/Sinner's%20Last%20Repose%20IMG.png)
-> ###### Basic Information
-> | **Where** | **Territory** |
+
+###### Basic Information
+ | **Where** | **Territory** |
 | --------- | ---------- |
 | [[Places/Foghaven\|Foghaven]]           |  N/A    |
 
