@@ -4,8 +4,9 @@
 
 > [!place]
 > ![All Faith's Temple IMG.png](/img/user/z_Assets/All%20Faith's%20Temple%20IMG.png)
-> ###### Basic Information
-> | **Where** | **Territory** |
+ 
+ ###### Basic Information
+| **Where** | **Territory** |
 | --------- | ---------- |
 | [[Places/Foghaven\|Foghaven]]           |  Wizards    |
 
