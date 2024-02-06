@@ -5,7 +5,8 @@
 
 > [!place]
 > ![Reflecting Teacup IMG.png](/img/user/z_Assets/Reflecting%20Teacup%20IMG.png)
-> ###### Basic Information
+
+###### Basic Information
 > | **Where** | **Territory** |
 | --------- | ---------- |
 | [[Places/Foghaven\|Foghaven]]          |  [[Lore/Sorcerers' Union\|Sorcerers' Union]]    |
