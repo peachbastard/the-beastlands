@@ -10,6 +10,6 @@
 
 | **Race** | **Class** | **Subclass** |
 | -------- | --------- | ------------ |
-|     |     |  |
+| Human    |     |  |
 - A fisher 
 - Polite and earnest
