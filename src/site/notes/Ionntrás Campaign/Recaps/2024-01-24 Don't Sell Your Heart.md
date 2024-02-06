@@ -171,8 +171,8 @@
 	- He pulls out one made of stone, but carved with runes all over it He says, "A very rare runic magic of the giants. Yes, yes. It will grow with you. At first when you choose, you can remain perfectly alert. Later, you may even learn the magical auras. See twice as far as a hawk, and twice as close as a microscope"
 	- He spits a third one out into his hand, "We have a regular old eyeball. Wait, you wanted a glass one," then spits out a glass eye 
 	- He says, "The fire eye will run you 1,000 gold pieces, and the runic eye will run you 100,000 gold pieces" 
-- Captain Minksi asks if she can pay him on a payment plan for 50 GP a week 
-	- She pulls a dagger out on the man and says, "Listen, old man. Give me the fire eye for 100 GP," and he says "My surgical oath prevents me from taking any harm"
+- Captain Minksi asks if she can pay him on a payment plan for 50 gold pieces a week 
+	- She pulls a dagger out on the man and says, "Listen, old man. Give me the fire eye for 100 gold pieces," and he says "My surgical oath prevents me from taking any harm"
 	- She offers him 50% of the mystical treasure they find 
 - The proprietors says, "I've been examining your boy prince and believe I can replace one of his limbs for a real baby limb. Let me hold one of your arms, you'll be closer to a real boy, I can examine it, then I can make you a real boy when you return"
 	- Tony asks if the arm will grow hair, then becomes apprehensive that it won't grow in tandem with him
