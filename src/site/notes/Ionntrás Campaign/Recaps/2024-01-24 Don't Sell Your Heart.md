@@ -118,7 +118,7 @@
 	- She looks in the water for loot 
 - Tony knows that they can potentially get one of the cannons on the boat with some repairs, but in the boat's current state it might split in two 
 - Captain Minksi says that she has something for Reed, but she politely declines and says, "You don't have to get me anything, captain"
-	- Minksi asserts that she's giving it to her, and hands her a really nice-looking [[Ionntrás Campaign/Party/Inventory/Bobtail\|fishing rod]]
+	- Minksi asserts that she's giving it to her, and hands her a really nice-looking [[Ionntrás Campaign/Inventory/Bobtail\|fishing rod]]
 	- Reed says, "Thank you, captain. I don't like owing people favors. I'll repay you some time. I could teach you how to fish"
 	- Minksi yells, "I know how to fish! I fished for 21 years for my lousy father, only for him to take those fish and put them into cans!"
 	- Reed says, "I'll make you breakfast instead"
@@ -182,7 +182,7 @@
 	- Tony says that he wants surgeon tools, and is offered a freshly sharpened silver surgeon tools, but Tony says he has a bias towards ceramic tools 
 	- The man says he doesn't have ceramic tools yet, but will when he returns
 - Tony offers more than just his hand, offers his arm for the surgical tools 
-- Tony and Captain Minksi receive a long, strange surgery where Minksi ends up with the [[Ionntrás Campaign/Party/Inventory/Rune Eye\|Rune Eye]], and learn that the man's name is Dr. Barber 
+- Tony and Captain Minksi receive a long, strange surgery where Minksi ends up with the [[Ionntrás Campaign/Inventory/Rune Eye\|Rune Eye]], and learn that the man's name is Dr. Barber 
 	- Finn asks what his middle name is, and Dr. Barber says, "I dare not speak of it"
 - The runic eye feels very odd in Captain Minksi's eye socket 
 - Tony says, "I was going to take something, but I don't feel like he will return my arm if I take something from"
