@@ -10,7 +10,7 @@
 
 | **Race** | **Class** | **Subclass** |
 | -------- | --------- | ------------ |
-| Tabaxi    | Rogue    |  |
+| Tabaxi    | Rogue    | Swashbuc |
 
 - Was born into the river running business
 - Calls herself a captain, but she doesn't actually own a boat and has only ran ships that her father owns 
