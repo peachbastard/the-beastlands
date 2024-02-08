@@ -44,7 +44,7 @@
 - Tony says, "Do you think he ate someone?"
 - Captain Minksi says that they should all attack him at once 
 - Tony suggests that Captain Minksi could sneak up on it, and he can enchant a rock to say "Ogres suck! Ogres suck!"
-	- Minksi says that it's a giant, and that he's racist 
+	- Minksi says that it's a giant and that he's racist 
 - As the party discusses their next steps, they hear movement in the trees and see a halfling far up the tree that says that the wayfarer must have sent them to rescue him 
 	- Tony asks what town he's talking about, and he says it it's called Mayflower 
 	- Captain Minksi says that every there is dead 
