@@ -16,5 +16,6 @@
 | [[Ionntrás Campaign/Inventory/Rune Eye\|Rune Eye]]                             | Captain Lamp Minksi |
 | [[Ionntrás Campaign/Inventory/Cape of the Mountebank\|Cape of the Mountebank]] | Finn Fairleaf       |
 | [[Ionntrás Campaign/Inventory/Bobtail\|Bobtail]]                               | Reed Primus         |
+| [[Ionntrás Campaign/Inventory/Riptide\|Riptide]]                               | Reed Primus         |
 
 { .block-language-dataview}
