@@ -28,7 +28,7 @@
 - Redscar disengages and moves towards the exit
 - Tony tries to shoot his sling at the fleeing sharkin, but misses 
 - Finn dramatically whips his [[Ionntrás Campaign/Inventory/Cape of the Mountebank\|shimmering cape]] around and teleports into Redscar and the sharkin explodes, spilling gore and shark guts everywhere
-- Reed strikes at Glor, takes a deep breath, then strike again 
+- Reed strikes at Glor, takes a deep breath, then strikes again 
 - Captain Minksi stabs Glor to death, then asks the satyr if they can have a free room 
 	- The satyr yells at them to get out of here and asks, "Do you know what happens when there's blood in the air? I'm gonna be cleaning blood for months!"
 	- Minksi says, "Better to be alive and cleaning then cleaning in hell"
@@ -118,4 +118,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Ionntrás Campaign/Recaps/2024-01-24 Don't Sell Your Heart\|2024-01-24 Don't Sell Your Heart]]  |  |
+| [[Ionntrás Campaign/Recaps/2024-01-24 Don't Sell Your Heart\|2024-01-24 Don't Sell Your Heart]]  | [[Ionntrás Campaign/Recaps/2024-02-07 Run Deep, Run Wild\|2024-02-07 Run Deep, Run Wild]] |
