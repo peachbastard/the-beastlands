@@ -70,7 +70,7 @@
 - Tony shoots a dart at the giant, then has Stitch cast Shocking Grasp against it, causing it to fall to the ground as its leg explodes 
 - Reed moves toward the prone Finn, then her sword glows gold and she slashes the giant
 - The giant tries to get away, then there's a loud boom the giant takes additional damage and its head explodes 
-- Captain Minksi goes to take some of its teeth, but they smell atrocious and so she doesn't 
+- Captain Minksi goes to take some of its teeth, but they smell atrocious so she doesn't 
 - Finn asks Tony if there's anything from the giant he can use to improve Stitch, and Tony cuts the giant down the middle and takes some parts from it and puts it in his Bag of Holding 
 - Captain Minksi takes the sword, which is covered in water ferns and seems to turn into water as she swings it. She takes her rapier and throws it behind her and takes the sword
 	- Tony offers to improve her sword, and Minksi tells him to leave her sword alone 
