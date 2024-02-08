@@ -47,7 +47,7 @@
 	- Minksi says that it's a giant and that he's racist 
 - As the party discusses their next steps, they hear movement in the trees and see a halfling far up the tree that says that the wayfarer must have sent them to rescue him 
 	- Tony asks what town he's talking about, and he says it it's called Mayflower 
-	- Captain Minksi says that every there is dead 
+	- Captain Minksi says that everyone there is dead 
 	- Finn identifies it as about 10 miles up river in the direction they're heading 
 - The halfling offers to hire them to help him get rid of the hill giant so he can get his cart across
 	- Captain Minksi says that she knows that halflings are known for selling their bodies for gold and says that he could seduce the giant 
