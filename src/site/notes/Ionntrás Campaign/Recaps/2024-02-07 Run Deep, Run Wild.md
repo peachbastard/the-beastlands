@@ -32,7 +32,7 @@
 ## Don't Let's Start
 - After a few hours, the party makes their way to a wayfarer left unattended with a sign in Common saying to attend to their boat and help themselves to a wagon 
 - Captain Minksi asks Reed if she knows how to hitch the boat to the wagon and she says, "I do, Captain Minksi. I've been doing it since I was young. My ma and pa said that I couldn't get the boat out of the water, I'd have to stay in the river"
-- Reed pulls the boat out with the help of Stitch while Captain Minksi watches with her hands on her hips 
+- Reed pulls the boat out with Stitch's help while Captain Minksi watches with her hands on her hips 
 - Captain Minksi tries to lead the party in a shanty, but Tony fumbles the lyrics 
 - [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]] mentions that he was a gardener and a cook at a shanty house, but doesn't know any shanties himself, and could play a fiddle if he had one 
 	- Captain Minksi declares him the crew's fiddle boy and says that every good ship should have one 
