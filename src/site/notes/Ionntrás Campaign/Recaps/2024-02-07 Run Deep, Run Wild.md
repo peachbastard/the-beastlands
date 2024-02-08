@@ -15,7 +15,7 @@
 	- Tony says that it's his first attempt at creating life
 	- Finn asks if it's alive, and Tony says, "It's alive! Can't you see it moving?"
 	- Finn asks what its name is and suggests Stitch; while Minksi suggests Angelina
-- Reed feels a small mudlark nuzzle against her leg and feeds it some fish guts, but does so too excitedly and it gets scared and spits a powerful gush of water that could knock an adult down that Reed dodges. The mudlark bites Reed's arm and hangs off it
+- Reed feels a small mudlark nuzzle against her leg and feeds it some fish guts, but does so too excitedly and it gets scared and spits a powerful gush of water that could knock an adult down, which Reed dodges. The mudlark bites Reed's arm and hangs off it
 	- Captain Minksi asks, "Did everyone get a new pet overnight?"
 	- Reed says, "We can share it if you'd like, captain," but Minksi declines 
 	- Reed says, "I've already named it. Muddy," to which Captain Minksi sarcastically says it was very original and says she would have named it Muddy Buddy 
@@ -161,4 +161,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[some\|some]]  |  |
+| [[Ionntrás Campaign/Recaps/2024-01-31 Some Blurry Little Quest\|2024-01-31 Some Blurry Little Quest]]  |  |
