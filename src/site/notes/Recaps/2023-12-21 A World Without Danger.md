@@ -148,7 +148,7 @@
 	- Hymn explains that Janken is their twin brother, and she takes it in stride 
 - Oz says, "Mabel, you know that's not the quote, right? 'The blood of the covenant is thicker than the water of the womb'"
 	- Hymn responds, "I know, but it would be nice to kick it with the water of the womb a little, do you understand?"
-	- Oz laughs and says, "No I don't"
+	- Oz laughs and says, "No, I don't"
 - Session ends as Mabel casts Pass Without Trace on the party and they head towards the All Faith's Temple
 
 |  **Previous Session**   |   **Next Session**   |
