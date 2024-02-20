@@ -13,7 +13,7 @@
 - The curtain slams open and one of the sharkin says, "Who said that?"
 	- Captain Minksi says that she heard it from someone when they got here in the morning, and the sharkin says that they didn't get there until just now 
 - Captain Minksi shoots her crossbow at the sharkin 
-- [[Ionntrás Campaign/Party/Tony\|Tony]] tries to hit it with his sling, but misses 
+- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]] tries to hit it with his sling, but misses 
 - Finn strikes at one of the sharkin's legs and feet with his shortsword and dagger 
 - [[Ionntrás Campaign/Party/Reed Primus\|Reed Primus]] slashes at one of the sharkin, but is still plastered and misses 
 - Captain Minksi also misses, then Disengages to run through the sharkin, jumps onto the bar and yells, "Who's hungry?"
