@@ -14,5 +14,5 @@
 
 - Member of the Monster Slayers Guild 
 - Has a compass that can detect monsters 
-- Absorbed some of [[NPC/Lysanderoth\|Lysanderoth's]] memorie 
+- Absorbed some of [[NPC/Lysanderoth\|Lysanderoth's]] memories 
 - Tried to keep his real name secret, but [[NPC/Arthur\|Arthur]] revealed it to be Bjorn Giantsbane 
