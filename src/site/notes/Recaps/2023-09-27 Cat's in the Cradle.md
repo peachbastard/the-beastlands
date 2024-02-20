@@ -89,7 +89,7 @@
 	- Hymn is instantly on edge and tells him to put their friend down, but he says he'll need it to get them out of here 
 - Hymn flirts with Shook, who asks about her partner 
 - Mabel and Roy go to where Shook says the adults' prison is
-	- Mabel drinks another Potion of Dragon's Majesty and invisibly swoops the party and their companions back to the Sinner's Last Repose
+	- Mabel drinks another Potion of Dragon's Majesty and invisibly swoops the party and their companions back to the [[Places/Sinner's Last Repose\|Sinner's Last Repose]]
 - Party flies over the city in chaos as other commissars are trying to get in to help, but the gates are closed
 
 ## Million Diamond Man 
