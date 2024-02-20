@@ -8,6 +8,7 @@
 > ![Triangle-Hood Figure.png](/img/user/z_Assets/Triangle-Hood%20Figure.png)
 
 ###### Basic Information 
+
 | **Race** | **Friendly?** |
 | -------- | ------------- |
 | Unknown  | No            |
