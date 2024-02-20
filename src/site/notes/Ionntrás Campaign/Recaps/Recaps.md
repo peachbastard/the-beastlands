@@ -6,3 +6,4 @@
 - [[Ionntrás Campaign/Recaps/2024-01-24 Don't Sell Your Heart\|2024-01-24 Don't Sell Your Heart]]
 - [[Ionntrás Campaign/Recaps/2024-01-31 Some Blurry Little Quest\|2024-01-31 Some Blurry Little Quest]]
 - [[Ionntrás Campaign/Recaps/2024-02-07 Run Deep, Run Wild\|2024-02-07 Run Deep, Run Wild]]
+- [[Ionntrás Campaign/Recaps/2024-02-18 Digging Up Worms\|2024-02-18 Digging Up Worms]]
