@@ -12,7 +12,7 @@
 	- [[Ionntrás Campaign/Party/Captain Lamp Minksi\|Captain Lamp Minksi]]:  6'4, mess of black hair that is shaggy in a ponytail she put up a week ago, green eyes, two cat ears, and long cat tail. Born into the river runner trade. Matted fur 
 	- [[Ionntrás Campaign/Party/Reed Primus\|Reed Primus]]: a fisher that's only lightly-tanned despite years in the sun with shaggy blond hair, green eyes, green clothing with a dark orange bandana, and a slim, but muscular build
 	- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]]: a stout halfling fellow with a red cloak. An aspiring adventurer that hasn't made it too far and has mostly made it through by hitchhiking 
-	- [[Ionntrás Campaign/Party/Tony\|Tony]]: a little boy when he has his disguise up, without it he looks like a ceramic doll with cracks in face and arms. An orphan urchin with shaggy brown hair, cargo pants with pockets and tools, and a blue poncho
+	- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]]: a little boy when he has his disguise up, without it he looks like a ceramic doll with cracks in face and arms. An orphan urchin with shaggy brown hair, cargo pants with pockets and tools, and a blue poncho
 - Reed frequently has dealings with Captain Minksi; the two have had a number of drinks with the roughish gardener halfling, and are the only ones to take kindness with the strange doll child who seems to have no one else in town besides the three 
 - The four are in a tavern in the merchant's district sitting around a table telling stories about the worst and best day of their childhoods
 	- Whoever has the best best day and worst worst day gets whatever they want on the menu paid by everyone else
