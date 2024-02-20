@@ -13,7 +13,7 @@
 	- She says that she wants to tattoo the map into Tony's back because the stone slabs will be inconvenient to carry around all the time 
 - There are 3 slabs, each about 10 pounds 
 	- Captain Minksi says that each of the crew is responsible for carrying one slab, and she will gut them like a fish if they drop it 
-- [[Ionntrás Campaign/Party/Tony\|Tony]] mentions that he's been working on something, but hasn't been able to finish it
+- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]] mentions that he's been working on something, but hasn't been able to finish it
 	- Captain Minksi berates him for saying "magical nonsense" and he apologizes, then she tells him to have a spine 
 	- Tony stands a little taller 
 - Captain Minksi asks everyone if they want to search for the treasure
