@@ -18,8 +18,8 @@
 | --------------------------------------------------------- | ----- |
 | [[Inventory/Backbiter\|Backbiter]]                     | Hymn  |
 | [[Inventory/Crystal Brain\|Crystal Brain]]             | Hymn  |
-| [[Inventory/Demon Slaying Sword\|Demon Slaying Sword]] | Hymn  |
 | [[Inventory/Bag of Devouring\|Bag of Devouring]]       | Hymn  |
+| [[Inventory/Demon Slaying Sword\|Demon Slaying Sword]] | Hymn  |
 | [[Inventory/The Bomb\|The Bomb]]                       | Hymn  |
 | [[Inventory/Paintbrush Staff\|Paintbrush Staff]]       | Mabel |
 
