@@ -193,4 +193,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Recaps/2023-12-28 All Cats Are Grey\|2023-12-28 All Cats Are Grey]]  | [[create\|create]] |
+| [[Recaps/2023-12-28 All Cats Are Grey\|2023-12-28 All Cats Are Grey]]  | [[Recaps/2024-01-12 Create Another Fable\|2024-01-12 Create Another Fable]] |
