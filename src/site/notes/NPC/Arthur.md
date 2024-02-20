@@ -14,7 +14,7 @@
 |     Human      |   Hopefully   |
 
 
-- Baby that the party rescued from an evil hag and calls [[Party/Lysanderoth\|Lysanderoth]] dada
+- Baby that the party rescued from an evil hag and calls [[NPC/Lysanderoth\|Lysanderoth]] dada
 - Has shown remarkable capacities for learning languages and magic 
 - Thinks in Abyssal
 - As of [[Recaps/2023-07-06 Sins of the Father\|2023-07-06 Sins of the Father]] is now the size of a 5-6 year old and can read
