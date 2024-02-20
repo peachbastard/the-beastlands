@@ -66,7 +66,7 @@
 - Reed swings down as she's held aloft by the mage eater, then uses the momentum from the creature falling to stab through its head 
 - Captain Minksi orders everyone to cut open the creature for treasure while Finn keeps lookout for other mage eaters 
 	- Reed finds 50 gold pieces and 2 rubies, which she hands over to Minksi, and human skeletons, which she gives to Tony 
-	- Tony and Minksi find a spyglass and 5 strange arrows 
+	- Tony and Minksi find a [[Ionntrás Campaign/Inventory/Spyglass\|Spyglass]] and 5 strange arrows 
 	- Minksi asks Tony if he can turn the arrows into crossbow bolts, and says that he thinks he can 
 - Tony investigates the spyglass and finds that it's patinaed and has a repeating wave and skull-and-bones pattern 
 	- Minksi peers through it and sees that objects are magnified, making them much easier to see, and that it might help for casting spells at a distance
