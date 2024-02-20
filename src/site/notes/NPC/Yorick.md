@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/npc/yorick/","created":"","updated":""}
 ---
 
-
+ 
 > [!npc]
 > ![Placeholder IMG.png](/img/user/z_Assets/Placeholder%20IMG.png)
 
