@@ -5,12 +5,12 @@
 
 # What Happened? 
 ## A Bit Too Insane
-- The river in the morning is when its more hospitable to smaller life without the carnivorous eels
+- The river in the morning is when it's more hospitable to smaller life without the carnivorous eels
 - [[Ionntrás Campaign/Party/Reed Primus\|Reed Primus]] has woken up early and is sitting cross-legged on the water in just shorts and a sports bra with the tip of her sword pointed to her heart
 - [[Ionntrás Campaign/Party/Captain Lamp Minksi\|Captain Lamp Minksi]] wakes up and sees her with a start and yells, "Don't kill yourself! It's not Suicide Sunday!"
 	- Reed says, "Good morning, Captain Minksi. I was just training with my sword. I got you something," then pulls up a fish that she had caught, "I said I would get you breakfast"
 	- Minksi says, "That's true, you did. Last night was rough. Not my finest captain moment"
-- [[Ionntrás Campaign/Party/Tony\|Tony]] reveals a homunculus that he's been working on all night made of a composite of body parts 
+- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]] reveals a homunculus that he's been working on all night made of a composite of body parts 
 	- Captain Minksi tells Tony to get away from it and rushes forward with her two daggers
 	- Tony says that it's his first attempt at creating life
 	- Finn asks if it's alive, and Tony says, "It's alive! Can't you see it moving?"
