@@ -29,7 +29,7 @@
 - Oz asks why they're robbing this train
 	- Man says that they're on an official mission to search it for an artifact, and will take everyone's valuables as taxes
 - Hymn manages to shove the leader's arm into the black Bag of Holding and cuts it off 
-	- He tries to retaliate, but [[Party/Lysanderoth\|Lysanderoth]] smirks and uses his cloud rune to redirect the attack to one of the other bandits, and he decapitates him 
+	- He tries to retaliate, but [[NPC/Lysanderoth\|Lysanderoth]] smirks and uses his cloud rune to redirect the attack to one of the other bandits, and he decapitates him 
 	- Hymn casts Blight on the leader, man looks really hurt
 	- Mabel punches who she believes to be a robber, but is actually an innocent old man
 		- The man is knocked out immediately, and a young boy cries and says that she killed her grandpa 
