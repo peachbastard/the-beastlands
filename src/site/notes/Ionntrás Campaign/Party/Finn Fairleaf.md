@@ -9,7 +9,7 @@
 ###### Basic Information 
 |**Race**|**Class**|**Subclass**|
 |---|---|---|
-|Halfling|Rogue|Swashbuck |
+|Halfling|Rogue|Swashbuckler |
 
 - Aspiring adventurer, and also a gardener and cook
 - Father was killed and he was taken in by his uncle
