@@ -4,9 +4,9 @@
 
 
 # What Happened? 
-## I Can't See It In The 
+## I Can't See It In The Night 
 - A gurgling black mess comes to the top, doesn't come out, but tries to eat the statue
-- [[Ionntrás Campaign/Party/Captain Lamp Minksi\|Captain Lamp Minksi]] runs in front of Reed and says, "Stay behind me, Reed!"
+- [[Ionntrás Campaign/Party/Captain Lamp Minksi\|Captain Lamp Minksi]] runs in front of Reed and yells, "Stay behind me, Reed!"
 	- Reed says, "I don't need you to protect me, Captain Minksi"
 	- Minksi retorts, "I'm not trying to save you, I'm trying to get that boon"
 	- Reed tells her, "It's not a boon, captain. It's something cursed. It's not a boon," but Minksi insists that it is one 
@@ -51,7 +51,8 @@
 	- Reed tries to push it, but it weights several tons and she's only able to shift it a few inches 
 - Captain Minksi wakes up the devil and asks him how much gold it will cost to make the boat jump over the pillar 
 	- Finn offers it Captain Minksi's soul, but it says that it's already been traded 
-	- The devil asks how much money she has, and she whispers the amount in its ear. It agrees, so she tosses all the money into the hole 
+	- Minksi asks who traded it and to whom, but the devil says all it can see is that it's been traded
+	- The devil asks how much money she has, and she whispers the amount in its ear. It agrees, so she tosses all the party's money into the hole 
 	- During this time, Tony has tried to takes some of the marble that he notices is virtually indestructible, but it's odd that the temple managed to be destroyed. He finds a small stone of it on the ground and takes it
 - The boat shoots up and over the pillar and is now powering through the narrow river 
 - There are many colorful snakes with glimmering glinting scales in the river
@@ -61,8 +62,8 @@
 
 - Captain Minksi tries teach everyone a new sea shanty and orders Tony with his "shrill doll voice" to do the high parts 
 	- He tries to do the lowest voice he can manage 
-- The party manages  to put a good distance from the temple
-	- As they travel, Captain Minksi and Tony notice damage to the hull. Tony tries to cast Mending on it, but there's larger parts of damage that can't be fixed, and more complex damage that may immediately need a boatswain's touch. The boat won't immediately be sink, but they are slowed down 
+- The party manages to put a good distance from the temple
+	- As they travel, Captain Minksi and Tony notice damage to the hull. Tony tries to cast Mending on it, but there's larger parts of damage that can't be fixed, and more complex damage that may need a boatswain's touch. The boat won't immediately be sink, but they are slowed down 
 - Reed feeds Muddy some fish guts from her hand, and he takes it more gently and doesn't hurt her for the first time 
 	- Reed is concerned and says, "Muddy, are you okay? You don't seem as hungry as usual"
 	- Captain Minksi says, "He's finally starting to like you," and Reed frowns and responds, "Finally?"
@@ -70,14 +71,14 @@
 	- Reed tells her during training or sparring 
 	- Minksi tells Reed that people don't come at each other with intent to kill during a spar, and reiterates that people don't hurt the people they care about 
 	- Finn brings up the time that Reed struck Minksi at the tavern, and Reed reiterates that it was to help her sleep
-	- Minksi asks Reed if she understands, and she responds, "Yes, captain"
+	- Minksi asks Reed if she understands and she responds, "Yes, captain"
 - Tony tells Captain Minksi that if she finds him a hand or hook he can infuse it for her 
 	- Minksi tells him that if he gives her a good hand she'll give him three gold stars 
 	- The party gets in a discussion about the gold star system that ends with Minksi giving Finn a gold star, then taking one away from all of them; resulting in Tony having negative one stars. Reed goes from having two stars to none as she gives her last one to Tony so he can be at zero stars 
 - Captain Minksi pulls a reed from the river, tosses it on Finn, and yells, "There's a snake on you!"
-	- Finn breaks into tears and starts having a panic attack 
+	- Finn bursts into tears and starts having a panic attack 
 	- Reed says, "Don't worry, Mr. Fairleaf. If you're cursed, we can be cursed together," but he continues to panic 
-	- Reed points at Finn and yells, "Muddy, help him!" and Muddy pecks him and he screams more 
+	- Reed points at Finn and yells, "Muddy, help him!" Muddy pecks him and he screams more 
 - The party enters an area with a imposing hyper-realistic statue of a gigantic warrior and remnants of other broken statues
 	- Captain Minksi says it's next place on the map 
 - They also see a bloodstained cave and Captain Minksi says, "I'm sure there's no adventures or boons or treasures in this cave"
@@ -89,7 +90,7 @@
 	- Minksi says that she can use it as her new hand 
 	- Minksi asks the party what she should name the snake and Reed says, "Snakey"
 	- Minksi doesn't respond to Reed, but just silently glares at her, then announces that she's naming it Gummy 
-	- Gummy jumps into the water, then pokes its head over the boat 
+	- Gummy jumps into the water then pokes its head over the boat 
 - Captain Minksi hypothesizes that, "Once upon a time there was a place of great snakes and panthers, and it was a place where people would get their boons. This army were going here to get their boon, but the slugs were jealous and turned to army into stone" 
 	- Minksi asks if anyone else has any theories about the cave 
 	- Reed says she doesn't, but that the best way to form a solid hypothesis is to gather more data 
@@ -102,10 +103,10 @@
 - Finn recounts what his uncle told him about women in the hills that will turn you into stone and take your soul 
 	- Minksi asks if they do anything else to you while you're turned to stone, and if they're beautiful 
 	- Finn tells her that they just eat your soul, but are very beautiful 
-- A sonorous voice from just around the corner of the stone in accented Common, "Intrepid adventurers finally come to save me from my unending torment?"
-	- Minksi stands up, dusts herself off and straightens up her collar, then unbuttons the first button of her shirt 
-- Captain Minksi turns the corner and suddenly freezes. A beautiful woman steps forward with slow, graceful steps in a gown with a strange gold headdress and trails a finger around her stony body
-	- Tony feels a strange stiffness in his body, but doesn't turn to stone. Reed is able to resist the allure of the woman's gold eyes and the golden eyes of the snakes she has for hair, and Finn is around the corner and unaffected. He closes his eyes 
+- A sonorous voice from just around the corner of the stone in accented Common says, "Intrepid adventurers finally come to save me from my unending torment?"
+	- Minksi stands up, dusts herself off, and straightens up her collar, then unbuttons the first button of her shirt 
+- Captain Minksi turns the corner and suddenly freezes. A beautiful woman steps forward with slow, graceful steps in a gown with a strange gold headdress and trails a finger around her now stony body
+	- Tony feels a strange stiffness in his body, but doesn't turn to stone. Reed is able to resist the allure of the woman's gold eyes and the golden eyes of the snakes she has for hair, and Finn is unaffected from around the corner. He closes his eyes 
 - Reed approaches with her eyes closed and asks the woman what the cause of her unending torment is, and the woman tells her that it's hunger 
 	- Reed says, "What do you hunger for? Oh.... souls," and the woman smiles and confirms 
 	- Reed gestures at Captain Minksi and says, "You don't want her then, her soul's already been traded away," but the snake woman doesn't care
@@ -131,7 +132,7 @@
 - Reed is left alone in the cavern with a stone Captain Minksi frozen in place as she pops her collar, Tony looking on in fear, and Finn mid-stab 
 	- She looks around the room for something to fix them and finds a lot of extremely interesting looking gear on the statues, but they've been turned to stone 
 	- The snake woman left behind nothing but her golden headdress 
-- Reed turns to Gummy and says, "You gotta help me. I was bit by a snake, that basically makes up blood brothers," and Gummy just looks up, tilts his head, and flicks his tongue out at her 
+- Reed turns to Gummy and says, "You gotta help me. I was bit by a snake, that basically makes us blood brothers," and Gummy just looks up, tilts his head, and flicks his tongue out at her 
 - Reed takes some time to ponder her next steps loud to Gummy, who simply flicks his tongue in response 
 	- Gummy perks up in interest when Reed offers to introduce him to Muddy, and she sternly says that if he tries to eat Muddy she will kill him
 	- She eventually looks around the room for the least intimidating statue and finds one of an infant 
@@ -167,7 +168,7 @@
 	- Reed tells Minksi that she's going to introduce Muddy and Gummy, then firmly says that if Gummy does anything to Muddy she will kill the snake 
 	- Reed asks Minksi what she's supposed to do, and Minksi exasperatedly repeats that she needs to find a church or temple with someone that can fix them
 -  Reed whoops and jumps off the boat and is immediately greeted by a tall man in dark clothing
-	- The man tells her he's on the way to the next town to sell his premium goods at a marked up price and asks if she wants to trade before he does so 
+	- The man tells her he's on the way to the next town to sell his premium goods at a marked up price and asks if she wants to trade at a discount before he does so 
 	- Reed tells him that she doesn't have any gold, but does have a sword 
 	- Reed hands over the inscribed longsword and receives a small sack in return 
 	- As the man leaves, Reed wishes him good luck on his future business endeavors, and the man tells her to shut up 
@@ -203,7 +204,7 @@
 	- The man opens the door and asks what's wrong with them 
 	- Reed says, "They've been turned to... rock" 
 	- The man says, "Oh, why didn't you say so?" and tells Reed that he can help them, and asks if she has experience with giant man-eating birds 
-	- Reed says, "I have experience with small man-eating birds," and the man responds, "Good enough," and tells her that he will cure her friends, but they have to kill a giant man-eating bird that has been terrorizing the town 
+	- Reed says, "I have experience with a small man-eating bird," and the man responds, "Good enough," and tells her that he will cure her friends, but they have to kill a giant man-eating bird that has been terrorizing the town 
 - Reed takes the man to the boat, and he leaves and returns with a contract and Scrolls of Greater Restoration that he had made before the gods died 
 	- Reed signs the contract with her blood, and the man uses the scrolls on the rest of the party and the infant and turns them back into flesh 
 - The infant cries and babbles in a language that is not Common 
