@@ -216,4 +216,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Ionntrás Campaign/Recaps/2024-02-07 Run Deep, Run Wild\|2024-02-07 Run Deep, Run Wild]]  |  |
+| [[Ionntrás Campaign/Recaps/2024-02-07 Run Deep, Run Wild\|2024-02-07 Run Deep, Run Wild]]  | [[Ionntrás Campaign/Recaps/2024-02-24 Heal Me With Poison\|2024-02-24 Heal Me With Poison]] |
