@@ -52,7 +52,7 @@
         <a href="https://the-beastlands.vercel.app/ionntras-campaign/party/finn-fairleaf/">
             <img src="https://i.imgur.com/Op41D1X.png" alt="Finn Fairleaf">
         </a>
-        <a href="https://the-beastlands.vercel.app/ionntras-campaign/party/tony/">
+        <a href="https://the-beastlands.vercel.app/ionntras-campaign/party/tony-garp/">
             <img src="https://i.imgur.com/gtw00Q0.png" alt="Tony">
         </a>
     </div>
