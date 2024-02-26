@@ -12,5 +12,5 @@
 | -------- | --------- | ------------ |
 | Wechselkind    | Artificer    | Reanimator |
 
-- Looks like a young boy when he has his disguise up, but without it looks like a ceramic doll with cracks in his face and arms 
+- Looks like a young boy when he has his disguise up, but without it looks like a porcelain doll with cracks in his face and arms 
 - Mortal body was taken by the fey, then his parents threw him out because they didn't want a doll child
