@@ -14,7 +14,7 @@
 - Captain Minksi steps forward and puts her hand in the black ooze and is horrified when it instantly destroys the entire thing bones and all
 - [[Ionntrás Campaign/Party/Reed Primus\|Reed Primus]] looks around the room and finds that it's very austerely decorated, but otherwise empty 
 - Captain Minksi tries to shoot a bolt at the ooze, but it's instantly destroyed and the ooze doesn't recoil 
-- Captain Minksi looks at her missing hand and says that all good captains have a hook hand, then becomes despondent and says that they've been a terrible captain 
+- Captain Minksi looks at her missing hand and says that all good captains have a hook hand, then becomes despondent and says that she's been a terrible captain 
 	- Reed says, "You're a great captain, captain," and Minksi thanks her and tells her that she forgives her for being an asshole yesterday 
 - The black ooze starts moving towards
 - Reed says, "I apologize for my actions. I had a bad dream last night and it was partly the reason for my behavior, but that doesn't excuse it"
