@@ -121,7 +121,7 @@
 
 
 
-- Reed approaches the prone man and stabs downward, misses, takes a deep breath and uses another Action Surge, then pierces her sword through his mouth
+- Reed approaches the prone man and stabs downward, misses, takes a deep breath, then pierces her sword through his mouth
 
 >[!redacted]
 
