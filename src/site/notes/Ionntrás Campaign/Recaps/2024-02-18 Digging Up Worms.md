@@ -109,12 +109,12 @@
  - Captain Minksi tells Reed to catch the man a fish and she says, "Should I load up the gear or catch the fish?" 
 	  - Minksi says, "One thing at a time, buddy," and Reed returns to the river and catches some small river crabs and a white eel with blind white eyes 
 	  - Minksi says that the eel's good luck 
-	  - Reed tries to ascertain if the eel's and the man's eyes look similar, but just finds that they're both white and milky
- - Captain Minksi brings No Eyes the eels, and he says, "Kraxis the Dragon birthed onto Zorastrian, who of course created the river flow. We found a way to cook the eel with dried salt from the riverbed after a long period of many moons"
-	  - She says, "I hope you don't mind me asking, sir. I didn't know you were one of those elves"
-	   - He looks defensive and says, "Of course I'm an elf! Wait, you're not one of our crew"
-   - Captain Minksi says, "Of course I'm an elf, feel my ears," and puts her fingers over her head and tries to have him feel them
-   - Reed asks, "Would you like me to catch you another eel, Mr. No Eyes?"
+	  - Reed tries to ascertain if the eel's and the man's eyes look similar, but just finds that they're both white and milky 
+- Captain Minksi brings No Eyes the eels, and he says, "Kraxis the Dragon birthed onto Zorastrian, who of course created the river flow. We found a way to cook the eel with dried salt from the riverbed after a long period of many moons"
+	- She says, "I hope you don't mind me asking, sir. I didn't know you were one of those elves"
+	- He looks defensive and says, "Of course I'm an elf! Wait, you're not one of our crew"
+	- Captain Minksi says, "Of course I'm an elf, feel my ears," and puts her fingers over her head and tries to have him feel them 
+	- Reed asks, "Would you like me to catch you another eel, Mr. No Eyes?"
 - No Eyes starts shouting in Elvish and balls of fire begin to shoot in random direction from his amulet across the room, catching parts of it on fire
 
 >[!redacted]
