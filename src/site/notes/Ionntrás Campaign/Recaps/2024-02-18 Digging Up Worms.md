@@ -115,7 +115,7 @@
 	   - He looks defensive and says, "Of course I'm an elf! Wait, you're not one of our crew"
    - Captain Minksi says, "Of course I'm an elf, feel my ears," and puts her fingers over her head and tries to have him feel them
    - Reed asks, "Would you like me to catch you another eel, Mr. No Eyes?"
-   - No Eyes starts shouting in Elvish and balls of fire begin to shoot in random direction from his amulet across the room, catching parts of it on fire
+- No Eyes starts shouting in Elvish and balls of fire begin to shoot in random direction from his amulet across the room, catching parts of it on fire
 
 >[!redacted]
 
