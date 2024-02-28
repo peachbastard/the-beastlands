@@ -10,7 +10,7 @@
 	- Reed says, "I don't need you to protect me, Captain Minksi"
 	- Minksi retorts, "I'm not trying to save you, I'm trying to get that boon"
 	- Reed tells her, "It's not a boon, captain. It's something cursed. It's not a boon," but Minksi insists that it is one 
-	- Reed says that she doesn't need a boon, and that Minksi can have any boon that it offers, but it won't be good 
+	- Reed tells Minksi that she doesn't need a boon, and that she can have any boon that it offers, but it won't be good 
 - Captain Minksi steps forward and puts her hand in the black ooze and is horrified when it instantly destroys the entire thing bones and all
 - [[Ionntrás Campaign/Party/Reed Primus\|Reed Primus]] looks around the room and finds that it's very austerely decorated, but otherwise empty 
 - Captain Minksi tries to shoot a bolt at the ooze, but it's instantly destroyed and the ooze doesn't recoil 
@@ -22,7 +22,7 @@
 	- Reed retorts, "I said partly!" and trails off and doesn't explain the rest 
 - Captain Minksi orders Reed to help her open the door as the black ooze surges towards them 
 	- The door is still partially open, but Minksi gets stuck trying to get out and calls for Tony and Finn to help 
-- Captain Minksi hears Reed says "doom" in Elvish and asks what she's talking about 
+- Captain Minksi hears Reed say "doom" in Elvish and asks what she's talking about 
 	-  Reed points out an ancient, frantic carving in Elvish of the word on the back of the door 
 	- Minksi asks Reed why she didn't point it out when they first came in, and Reed says she didn't see it 
 	- The two of them try to get more information out of it, but have to drop it as the black ooze moves closer and instantly dissolves Angelina 2 into nothing
