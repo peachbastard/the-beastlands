@@ -50,7 +50,7 @@
 - The party tries to bring the back down a narrow, reedy section of river, but there's a marble pillar in the way
 	- Reed tries to push it, but it weights several tons and she's only able to shift it a few inches 
 - Captain Minksi wakes up the devil and asks him how much gold it will cost to make the boat jump over the pillar 
-	- Finn offers it Captain Minksi's soul, but it says that it's already been traded 
+	- Finn offers it Minksi's soul, but it says that it's already been traded 
 	- Minksi asks who traded it and to whom, but the devil says all it can see is that it's been traded
 	- The devil asks how much money she has, and she whispers the amount in its ear. It agrees, so she tosses all the party's money into the hole 
 	- During this time, Tony has tried to takes some of the marble that he notices is virtually indestructible, but it's odd that the temple managed to be destroyed. He finds a small stone of it on the ground and takes it
