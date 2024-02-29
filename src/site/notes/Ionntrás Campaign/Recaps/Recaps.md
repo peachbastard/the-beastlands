@@ -8,3 +8,4 @@
 - [[Ionntrás Campaign/Recaps/2024-02-07 Run Deep, Run Wild\|2024-02-07 Run Deep, Run Wild]]
 - [[Ionntrás Campaign/Recaps/2024-02-18 Digging Up Worms\|2024-02-18 Digging Up Worms]]
 - [[Ionntrás Campaign/Recaps/2024-02-24 Heal Me With Poison\|2024-02-24 Heal Me With Poison]]
+- [[Ionntrás Campaign/Recaps/2024-02-28 Hit The Ground Upright\|2024-02-28 Hit The Ground Upright]]
