@@ -62,7 +62,7 @@
 - Captain Minksi says that they might be dealing with bandits and to be cute and cordial 
 	- Reed says, "I'm always cute and cordial," and Minksi agrees and says that it's her defining traits 
 - They enter and a gruff voice calls down, "Oy. What are you doing in here? "
-	- Minksi says in Thieves' Cant, "Hey, fuck off buddy. ind your own beeswax"
+	- Minksi says in Thieves' Cant, "Hey, fuck off buddy. Mind your own beeswax"
 	- The man responds, "Well, we're making it our beeswax since you're coming into our hideout" 
 	- Minksi asks, "Can we come in your hideout and hangout? We've got treats"
 - Another voice chimes in and says, "Oi! Digger! Get to work then. You're not getting paid to eat snacks if you want them. Just go and take them!
@@ -72,7 +72,7 @@
 	- Minksi says that they're here to stay and the voice responds, "You're just here for our score aren't you?"
 	- Minksi says they have a new shipment and were routed by the sharkin and says, "If you don't want any of the awesome stuff we got, that's fine"
 - Another arrow flies towards Captain Minksi and Tony yells, "That's not nice!"
-- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]] casts Dimension Door to get up to the man firing the arrows 
+- Finn casts Dimension Door to get up to the man firing the arrows 
 - Captain Minksi gets on all fours, uses her Feline Agility to run up to a woman with an axe and pushes her, but she stands her ground very assuredly and laughs in Minksi's face 
 	- Minksi says, "Bitch," in Thieves' Cant 
 - Finn tries to shove the man, but his halfling arms are too weak and the man doesn't budge
