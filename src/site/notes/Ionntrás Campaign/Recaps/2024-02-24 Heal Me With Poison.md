@@ -217,4 +217,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Ionntrás Campaign/Recaps/2024-02-18 Digging Up Worms\|2024-02-18 Digging Up Worms]]  |  |
+| [[Ionntrás Campaign/Recaps/2024-02-18 Digging Up Worms\|2024-02-18 Digging Up Worms]]  | [[Ionntrás Campaign/Recaps/2024-02-28 Hit The Ground Upright\|2024-02-28 Hit The Ground Upright]] |
