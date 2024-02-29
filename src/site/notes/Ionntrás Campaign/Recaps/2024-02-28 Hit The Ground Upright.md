@@ -1,0 +1,187 @@
+---
+{"dg-publish":true,"permalink":"/ionntras-campaign/recaps/2024-02-28-hit-the-ground-upright/","created":"","updated":""}
+---
+
+
+# What Happened? 
+## They Can Only Do Harm
+- The dim evening light is blinding after the darkness of petrification. The strange old man looks down at everyone in the boat and says, "There's one of the old giant ironwood trees that was a scout post that kept us safe from roving bandits, but ever since I lost much of my power, I can't keep the town safe the way I used to and it's become a den of thieves, robbers, and murderers, as well as other beasty monsters. You're job is to kill it, in exchange for the de-petrification"
+	- Reed asks, "I thought there was a bird?"
+	- The man replies, "That's what's in the woods"
+	- The man asks if they have a place, and Captain Minksi says that's forward of him 
+	- The man snaps his fingers and she turns back to stone 
+- [[Ionntrás Campaign/Party/Reed Primus\|Reed Primus]] says, "I'd hate to impose. We'll find a place to stay. Turn her back,"
+	- The man snaps his fingers and Captain Minksi turns back into flesh and tries to slap him, but he's surprisingly fast 
+	- Minksi tries to use her Feline Agility to slap him, but he avoids her strikes and says, "To think I was going to help you with that soul problem," then disappears 
+- [[Ionntrás Campaign/Party/Captain Lamp Minksi\|Captain Lamp Minksi]] asks why everyone's talking about her soul and that she has to have one 
+	- Finn says that the snake woman told them about her soul and it was her area of expertise 
+	- Tony says that she must have a soul because she's still here, and Minksi agrees 
+- Captain Minksi looks for a tavern but doesn't find any and says, "Where's a man supposed to get a drink and a wench around here?"
+	- Tony offers to make her a drink and an Angelina 3, but she says that his drinks are good, and that the appeal of bar drinks is that they taste a little like piss 
+	- Minksi grabs a passerby for the nearest tavern or bar, and he says that alcohol's been banned for over 100 years 
+	- Angered, Minksi tries to trip the man with her tail, but he steps on it and walks halfway
+- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]] whispers to Captain Minksi that he's read in books that places that are restricted like this usually go really hard in private 
+	- Minksi praises him for his idea and renews her effort to find a tavern
+- The party hears the sounds of jovial voices and cheering from a rundown church 
+	- Reed recognizes it as the church where she met the man that fixed the party
+	- Captain Minksi says that he might have let them in if she hadn't tried to slap him 
+	- Reed says, "I think I made a good impression on him, I can talk to him"
+- Reed knocks on the door and says, "I killed the snake," to no response, then says, "Let us in," to no response." She says, "My baby's getting cold," but there's still no response 
+	- Captain Minksi tries to open the door, but it's barred and the stained glass windows are too thick to see through or break 
+- Reed tries to say, "The fog is coming in and your flock seeks passage," but as she starts to talk, the fog surrounds them and no sound comes out 
+	- Minksi tries to mouth that they should leave the baby here 
+- Captain Minksi gestures for everyone to bang on the door as loud as they can 
+	- Tony grabs a couple rocks and makes them flash light to put near the windows 
+
+## Beware Doll, You're Bound To Fail
+- Reed walks away towards the ironwood tree and the party follows 
+	- They eventually get to an area where the fog lets off any they can hear each other again 
+- Captain Minksi says it's called a Fog of Feline Unhearing and that her dad told her it only affects cats 
+	- Finn says that he couldn't hear, and Minksi theorizes that he may be part cat 
+	- Tony says that he also couldn't hear and may be part cat
+	- Minksi asks Reed if she could hear, and Reed says that she's human 
+- The baby continues to cry as they walk 
+	- Captain Minksi asks Reed if she can just whip out a tit and feed it, and says, "That's too bad," when Reed says she can't
+	- Reed says, "I can't produce for it now, but maybe next time"
+	- Minksi asks, "The next time we have a kid?" and Reed says yes 
+- Reed catches some fish and feeds it to the baby as Captain Minksi's irritation with its crying grows
+	- Tony asks if the baby needs all of its fingers, and Minksi suggests that he use its arms to remake Angelina 
+	- Reed sternly tells the party, "Don't touch the baby," and that all of its limbs and appendages will remain attached  
+- Reed checks the baby's genitalia and finds that it doesn't have human genitals and has a cloaca instead
+	- Reed says that she's named the baby Petra 
+	- Captain Minksi asks why, and Reed says that it means rock 
+- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]] inspects Petra to try to determine why it's still crying and determines that it must have suffered a traumatic event prior to being petrified, then the trauma of being reanimated and finding itself with strangers 
+	- Finn tries to think of any lizard or bird humanoid species in the land and recalls the brutal lizard-people Unlindsen Swamps, but Petra doesn't look quite like them 
+	- Finn manages to soothe Petra a little by singing to her and rocking her, but her crying is renewed when Captain Minksi approaches 
+	- Minksi tries to waves her tail above Petra like a toy, but she continues to cry 
+	- Finn hands Petra off to Tony, and she calms down more than she has since she was unpetrified 
+- The party wakes up exhausted after sleeping uncovered in the swamps and dealing with Petra's crying 
+- Tony creates an Angelina 3 during the night 
+
+## Some Are Clowns
+- Captain Minksi says that they might be dealing with bandits and to be cute and cordial 
+	- Reed says, "I'm always cute and cordial," and Minksi agrees and says that it's her defining traits 
+- They enter and a gruff voice calls down, "Oy. What are you doing in here? "
+	- Minksi says in Thieves' Cant "Hey, fuck off buddy, mind your own beeswax"
+	- The man responds, "Well, we're making it our beeswax since you're coming into our hideout" 
+	- Minksi asks, "Can we come in your hideout and hangout? We've got treats"
+- Another voice chimes in and says, "Oi! Digger! Get to work then. You're not getting paid to eat snacks if you want them. Just go and take them!
+	- An arrow from up high suddenly pierces Captain Minksi's flesh 
+	- Minksi says, "Hello! You're totally gonna miss out on kisses and treats! From the best criminals in the lands!"
+	- The new voice says, "Just leave the treats and go"
+	- Minksi says that they're here to stay and the voice responds, "You're just here for our score aren't you?"
+	- Minksi says they have a new shipment and were routed by the sharkin and says, "If you don't want any of the awesome stuff we got, that's fine"
+- Another arrow flies towards Captain Minksi and Tony yells, "That's not nice!"
+- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]] casts Dimension Door to get up to the man firing the arrows 
+- Captain Minksi gets on all fours, uses her Feline Agility to run up to a woman with an axe and pushes her, but she stands her ground very assuredly and laughs in Minksi's face 
+	- Minksi says, "Bitch," in Thieves' Cant 
+- Finn tries to shove the man, but his halfling arms are too weak and the man doesn't budge
+- Tony casts Sanctuary on Reed, then misses with his sling 
+- Reed shoots a Fire Bolt at the woman attacking Captain Minksi and Sanctuary drops 
+- Captain Minksi is knocked prone with a chain by the axe-wielding woman and nearly gets hit by a critical blow, but Reed casts Silvery Barbs 
+- Finn is knocked off the platform
+	- Angelina 3 tries to catch him, but misses wildly and they are both knocked down 
+	- Angelina 3 is flattened as she takes half of Finn's damage 
+- Captain Minksi looks over the edge and looks up into the woman's eyes and says, "Hey, you know what? You're kind of beautiful," then switches to Thieves' Cant and says, "How about you and I work together for a little bit?"
+	- Words are exchanged, and Minksi stays on the ground with her hands behind her head and sighs dreamily as the woman disappears
+- Finn gets up and dashes to join Tony and Reed 
+- Angelina 3 looks up at Tony in confusion 
+	- Tony says, "Don't die! I don't want to make another of you!" and Angelina 3 gives him a feeble thumbs up 
+	- Tony asks Captain Minksi if she's okay, and Minksi sighs contentedly and responds, "Another great day of being a captain"
+- Reed dashes to catch up to Minksi and Tony, takes a deep breath, then shoots a Fire Bolt at the bowman 
+- "A voice yells, "Oi, captain! Digger's done a runner and the fort's under attack! Wake your drunk ass up!"
+- An arrow flies towards Reed, but she summons a golden forcefield and stops it. The magic stops a second arrow from hitting her, but green fog swarms around her and poisons Captain Minksi 
+- Captain Minksi gets mad and dashes towards the man that shot her and tries to grab the neck to push him off the platform, but he withstands
+	- Minksi looks him in the eyes and says, "I vaporized your partner. You have a few seconds of mercy left in me"
+	- He responds, "All the more reason I should end you right here then"
+- Reed runs forward and casts a Fire Bolt at the man who yells, "Oi, captain! Now would be a good time to wake up!"
+- The bowman grabs Captain Minksi by the scruff of the neck and says, "I heard you cats land on your feet!" and throws her off the platform
+	- Minksi manages to catch herself on the secondary landing and lands on her feet for a moment before she falls unconscious
+- Finn makes his way towards Captain Minksi 
+- Tony says, "Is she okay?" and Tony starts sweating and turns pale 
+	- Tony fires his sling at the bowman who cries, "Ouch! Me eye!"
+	- Tony then tries to telekinetically pull the bowman over the edge, but he stops just as he's about to go over
+- The bowman says, "You'll pay for what you did to Digga!" and fires a green arrow at Finn 
+	- Reed says, "I don't think you can say that word, sir"
+	- Finn falls unconscious on top of Captain Minksi
+- Tony looks through the [[Ionntrás Campaign/Inventory/Spyglass\|Spyglass]] and manages to cast Cure Wounds on Captain Minksi from a distance
+- Reed strikes the bowman with her glowing sword and asks, "If we want to get through unmolested, what do we tell them?"
+	- The bowman snarls, insults her, and refuses to tell her anything 
+	- Reed says, "That's not a very nice way to talk to the person that's holding your life in their hands"
+	- The bowman responds, "My blood is the river. Let it run"
+	- Reed pushes the bowman off the platform, and falls to his death with a crunch 
+- Tony goes to check on Captain Minksi and Finn while Reed investigates the body of the bowman 
+- Finn asks Captain Minksi what she did to the woman with the axe; and she says that she's definitely not going to sleep with her later and winks
+- Captain Minksi asks if anyone has any gold to spare, and Reed gives her five gold pieces 
+	- Minksi says that they may need gold to negotiate with the bandits 
+	- Reed says she has something that the bandits may want, and hands a strange mechanism of gears to Tony, and a broken bow with both ends glowing to Minksi
+- Reed mentions that there's a cockatrice nest on the lookout branch where they might be able to find even more stuff
+- The party enters a room with a huge mass of pillows and a bigger mass of flesh in striped clothing snoring loudly with a bottle in one hand, facedown in the cushions
+	- Captain Minksi says, "Hey boss, we're here with the shipment," there's no response so Minksi tries to grab his bottle 
+- The giant man lunges towards Captain Minksi with a dagger crackling with electricity
+	- Minksi lets go of the bottle and says, "Woah woah woah woah! Hey boss, the booze is all yours. I have more for you if you want some though"
+	- The man immediately falls back asleep when she lets go of the bottle 
+- Reed says, "I'm good to keep going, but you two look a little... battered"
+	- The party quietly takes a short rest next to the drunken giant
+
+## And No One Dared
+- The party steps out from the tree into the open area and are immediately greeted by the horrid squawking of a dragon-like bird guarding a nest 
+	- Captain Minksi goes back to the room with the captain and shifts through his pockets and finds a medium-sized coin purse with about 300 copper pieces, then returns
+- Finn hides behind Captain Minksi 
+	- Finn and Angelina 3 are restrained as a familiar feeling creeps over him, one that he felt before when he was petrified, but much weaker 
+- Captain Minksi fires her crossbow at the cockatrice and misses, then tries to hide in the doorway; exposing Finn's position 
+- Reed closes the distance with the cockatrice and has to hold onto the ledge closely as it beats its wings and tries to blow her away. She swings and misses 
+- Tony looks through the Spyglass and tries to cast Witch Bolt, but misses 
+- The cockatrice pecks Reed, then nearly hits her again, but she stops it with a Shield 
+- Captain Minksi peeks her head out and lands a Sneak Attack on the cockatrice, then fires at it again 
+- Reed hits it with her golden sword, takes a deep breath, swings again and misses, then exhales and wipes some blood off and catches regains some health
+	- The cockatrice lets out one final screech
+	- As Reed's hand pulls away from the now-dead cockatrice, she finds that her hand is starting to turn into stone 
+- Reed shows her hand to Captain Minksi and says, "Now we match"
+	- Minksi asks Reed if she's going to ask the old man to fix her hand, and that he must be able to because it's just her hand and he fixed their whole bodies
+	- Reed says, "No, I won't. I'm not afraid of losing my hand because you did, and you're doing so well"
+	- Tony says that he might be able to create a hand for Minksi from the cockatrice remains, then excitedly tears the bird apart and stores pieces of it in his Bag of Holding when she gives the affirmative 
+- Finn searches the nest and gives Tony a sling he found and says that there's some machinery in a gap in the tree 
+	- Reed theorizes that the gear mechanism she found may fit in the machinery 
+	- Tony says that's a great idea and tells Reed that she's much more than her strength 
+- Tony has Angelina 3 put the mechanism in the gap, and it slides in with a hiss and a gentle, barely perceptible hum rings through the tree 
+- The inside of the tree is now lit up 
+- Captain Minksi tries to carry an egg out, but finds it too difficult with her missing hand and calls out for Reed, who takes the egg from her
+
+## Disturb The Sound Of Silence
+- Captain Minksi walks down through the way they came and finds herself eye-to-eye with the two furious orbs of the awake captain who says, "Oi, a couple of egg thieves. You thought you could just sneak off with a couple eggs"
+	- Minksi says, "You're in the dream world. You better wake up before someone really takes your eggs," but the man tells her he's not going to fall for that
+	- Minksi responds, "Mate, I'll give you one last chance to wake up. I think you're having paranoid delusions about someone stealing your eggs. What if someone killed your men?"
+	- The man says, "I'll just get new ones,"
+	- The man attacks Minksi with his lightning dagger 
+- Captain Minksi kicks the man in the chest and pushes him off the ledge 
+	- The man falls with a sickening crunch, but manages to walk away and runs out of the tree 
+	- Minksi says they've got to respect that he was able to survive that fall and won't even go after him
+- Reed searches the area he was in and finds a small box with a plate of glass and strange runic symbols underneath 
+	- Reed hands it to Tony and says, "Mr. Garp, this is more your forte"
+	- Tony says, "It's so weird, I haven't seen anything like it, I haven't seen anything like it. I'd like to know more"
+	- Captain Minksi asks, "Are you getting a positive or negative vibe?"
+	- Tony responds, "I guess positive because the last one like it made the place light up"
+- Reed says, "Come on, let's get back to town and report back to the priest. I don't want to get pregnant"
+	- Captain Minksi asks why she'd get pregnant, and Reed reminds her that the priest said she would get pregnant and lose her limbs and go blind if they didn't kill the cockatrice 
+	- Minksi says that getting pregnant is the worst on that list, and Reed agrees and says, "This bloodline ends with me"
+- The party returns and finds that there's still a layer of silent fog over the town
+- Reed goes to break down the priest's door, but it opens the moment that she touches it, and the priest emerges 
+	- The priest looks at Reed with a knowing look and raises a hand in greeting 
+	- Reed raises her stone hand in return 
+- The priest gestures at Reed in a way to ask if she wants him to fix it 
+	- Reed points at Captain Minksi and gestures for him to regrow her hand 
+	- Minksi shakes her head and points at Reed 
+	- Minksi then tries to make gestures to convey asking if she has a soul 
+	- The priest disappears 
+- Captain Minksi enters the church and finds that the man is gone and the building is empty and now derelict; the windows shattered and the roof gone 
+	- Minksi finds a small wooden talisman to some god or goddess, but none of the party has enough knowledge of the gods to identify it 
+	- Reed looks at her hand and grimaces when she finds that it's back to normal
+- The party returns to the boat with the devil propelling it down the river 
+	- Minksi gives it one copper piece and it says, "That's insulting"
+	- Minksi then drops a gold piece down the hatch, which it says is better 
+- Session ends as the party travels down the river 
+
+|  **Previous Session**   |   **Next Session**   |
+| --- | --- |
+| [[Ionntrás Campaign/Recaps/2024-02-24 Heal Me With Poison\|2024-02-24 Heal Me With Poison]]  |  |
