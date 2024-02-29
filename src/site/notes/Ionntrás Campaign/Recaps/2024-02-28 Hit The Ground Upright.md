@@ -62,7 +62,7 @@
 - Captain Minksi says that they might be dealing with bandits and to be cute and cordial 
 	- Reed says, "I'm always cute and cordial," and Minksi agrees and says that it's her defining traits 
 - They enter and a gruff voice calls down, "Oy. What are you doing in here? "
-	- Minksi says in Thieves' Cant "Hey, fuck off buddy, mind your own beeswax"
+	- Minksi says in Thieves' Cant, "Hey, fuck off buddy. ind your own beeswax"
 	- The man responds, "Well, we're making it our beeswax since you're coming into our hideout" 
 	- Minksi asks, "Can we come in your hideout and hangout? We've got treats"
 - Another voice chimes in and says, "Oi! Digger! Get to work then. You're not getting paid to eat snacks if you want them. Just go and take them!
