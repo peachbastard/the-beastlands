@@ -209,6 +209,8 @@
 	- Reed signs the contract with her blood, and the man uses the scrolls on the rest of the party and the infant and turns them back into flesh 
 - The infant cries and babbles in a language that is not Common 
 - The man says that they have to kill the giant bird or, "Your friend will go blind. And lose her limbs. And become morbidly obese. And malnourished. And pregnant. With eldritch abominations. I expect this done by the next day," and leaves 
+- Captain Minksi chases after him as he walks away and asks what god he serves 
+	- The man does not answer, despite Minksi's aggressive questioning and disappears 
 - Reed asks Captain Minksi if she gets "feeding stars" for curing them
 	- Minksi sighs and tells Reed again that aren't for food, unless she wants a really extravagant meal; and that they can be exchanged for a kiss from her, gold, a favor, or having someone killed
 	- Reed says, "I get plenty of kisses, and I can kill others just fine"
