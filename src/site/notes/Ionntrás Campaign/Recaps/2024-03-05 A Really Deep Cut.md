@@ -41,7 +41,7 @@
 	- Minksi says, "No, captain goes down with the ship"
 - The party hears a voice in their mind speak begging to heal the wound in his side and they will have whatever boon they speak of him
 - Captain Minksi says, "Who are you?" and he says, "A powerful and respected lord of the realms," Minksi asks who
-	- The devil starts talking in an angry Abyssal and deals psychic damge to everyone
+	- The devil starts talking in an angry Abyssal and deals psychic damage to everyone
 	- Minksi asks what the boon is and what his name is
 	- The devil says, "It would take an eon in your time just to understand the titles I have held," then tells them that the house of the goat is one of the great four houses in the abyssal region
 - Reed investigates the wound to try to fix him, but Captain Minksi grabs her wrist and says that they should try to find out more about the boon first 
@@ -122,7 +122,8 @@
 	-  They find Mayor John manning the store 
 	- John offers them three Potions of Healing for 20 gold pieces 
 	- Neither of them have that much, so Reed offers to do any work that needs to be done around the town
-	- Minksi manages to trade 5 gold pieces and her bag of gold fish scales 
+	- Minksi manages to trade 5 gold pieces and her bag of gold fish scales
+	- Minksi tries to exchange her 300 copper pieces for 3 gold pieces, but the mayor refuses and tells them to g
 - Captain Minksi and Reed return to the tavern and the barkeep tells them that their friends got a room with four beds and left a note 
 	- Minksi reads the note and runs off 
 	- Reed reads it and finds that Tony and Finn had returned to the cave 
