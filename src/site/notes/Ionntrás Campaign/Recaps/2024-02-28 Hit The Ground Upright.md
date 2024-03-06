@@ -136,7 +136,7 @@
 - Captain Minksi peeks her head out and lands a Sneak Attack on the cockatrice, then fires at it again 
 - Reed hits it with her golden sword, takes a deep breath, swings again and misses, then exhales and wipes some blood off and catches regains some health
 	- The cockatrice lets out one final screech
-	- As Reed's hand pulls away from the now-dead cockatrice, she finds that her hand is starting to turn into stone 
+	- As Reed pulls away from the now-dead cockatrice, she finds that her hand is starting to turn into stone 
 - Reed shows her hand to Captain Minksi and says, "Now we match"
 	- Minksi asks Reed if she's going to ask the old man to fix her hand, and that he must be able to because it's just her hand and he fixed their whole bodies
 	- Reed says, "No, I won't. I'm not afraid of losing my hand because you did, and you're doing so well"
@@ -184,4 +184,4 @@
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
-| [[Ionntrás Campaign/Recaps/2024-02-24 Heal Me With Poison\|2024-02-24 Heal Me With Poison]]  |  |
+| [[Ionntrás Campaign/Recaps/2024-02-24 Heal Me With Poison\|2024-02-24 Heal Me With Poison]]  | [[Ionntrás Campaign/Recaps/2024-03-05 A Really Deep Cut\|2024-03-05 A Really Deep Cut]] |
