@@ -191,7 +191,7 @@
 	- Angelina 3 almost drops Tony, and for a moment as the waves lap his feet he thinks he feels something else in the water try to pull him down, but they're able to pull him up
 - Captain Minksi asks Tony what else in the water
 	- Tony looks in with the Spyglass and drops dead
-- Session ends as Tony's body suddenly starts shaking and seizing and his head spins 360 degrees and says, "I'm back! Me and the devil made a deal!"
+- Session ends as Tony's body suddenly starts shaking and seizing and his head spins 360 degrees and he says, "I'm back! Me and the devil made a deal!"
 
 |  **Previous Session**   |   **Next Session**   |
 | --- | --- |
