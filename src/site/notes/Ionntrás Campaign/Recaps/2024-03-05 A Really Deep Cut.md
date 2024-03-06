@@ -5,7 +5,7 @@
 
 # What Happened? 
 ## Bad Blood
- - The party manages to break free of the fog and can hear the sounds of the river 
+ -  The party manages to break free of the fog and can hear the sounds of the river 
 - They're only able to enjoy the normal sights and sounds for a bit before the experienced noses on the ship recognize a  shift of the smell to copperish before the river starts turning darker and darker red into what looks to be blood 
 	- The phenomena is unfamiliar to Captain Minksi, but she pretends that her dad told her about it and says that he told her, "One day you're going to navigate the Great River of Blood," and that they may be approaching the Bones of the Titan that are still bleeding
 	- Tony asked if that scared her, and she responds "My dad may have been a questionable father, but when it came to matters of the sail, we were like captain and first mate. When it came to other stuff like parenting, not so much"
