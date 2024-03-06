@@ -167,8 +167,6 @@
 
 >[!redacted]
 
-
-
 - Captain Minksi wakes up with goop on her face, some kind of herb that she licks 
 	- Minksi orders Tony to get over there and do a medicine check
 	- Tony says, "These herbs are really helpful, I put it on your face when you fell asleep"
