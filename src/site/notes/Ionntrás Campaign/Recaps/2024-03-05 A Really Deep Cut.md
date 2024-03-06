@@ -20,7 +20,7 @@
 	- The devil says, "This isn't a democracy"
 - Tony says, "Remember, Angelina, we're voting to not go on the blood river," and Angelina votes to go down the blood river 
 - The party goes down the smaller river. It's slow going, and the river becomes too shallow for the boat. They can see what looks like a small crag or cliffside where a strong, steady, and furious current of the foul blood rushes 
-- Tony looks through the Spyglass and sees a cave 
+- Tony looks through the [[Ionntrás Campaign/Inventory/Spyglass\|Spyglass]] and sees a cave 
 	- Tony says, "Captain, look!" and she instinctively puts it up to her eyepatched eye
 - Captain Minksi puts her hand in the blood and smears if on her face and a rash develops 
 - Tony has Angelina manhandle him to the entrance 
