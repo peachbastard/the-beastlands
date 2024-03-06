@@ -34,7 +34,7 @@
 	- He's covered in ritual scarring, has cloven hooves, wears a kilt of a monster never seen in their worst nightmares, and has a goat head
 - Captain Minksi calls for a vote and asks if he was placed here as punishment for some kind of sin 
 	- Tony says, "This is terrible,"
-	- Minksi says, "Tomy, what if he wanted to kill all of us? And the world"
+	- Minksi says, "Tony, what if he wanted to kill all of us? And the world"
 - Reed says, "What if I talked to him and you guys stay here?"
 	- Captain Minksi retorts, "What if he unholy smites you?"
 	- Reed says, "Then I get unholy smited and you guys are fine,"
@@ -132,7 +132,7 @@
 	- Reed gives Minksi a dose of Pixie Dust and tells her to give it to the devil 
 	- Minksi tells the devil to bring them back to the cave, but the devil refuses to go anywhere near the House of the Goat 
 	- Reed offers the devil her soul 
-	- Minksi gets on er knees and says that she doesn't have any family, just her crew, who she's starting to see as her friends, and begs the devil to help her 
+	- Minksi gets on her knees and says that she doesn't have any family, just her crew, who she's starting to see as her friends, and begs the devil to help her 
 	- The devil says that he'll bring them there, but they have to take the demon's wand and give it to him and give him all the crew's souls upon their death 
 - Meanwhile, Finn and Tony have returned to the demon, with Tony apologizing to Finn the entire way
 - Tony tells the demon that he'll help him in exchange for three wishes each for the party, to which the demon agrees 
