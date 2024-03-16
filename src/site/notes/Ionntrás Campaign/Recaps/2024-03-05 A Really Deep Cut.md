@@ -123,7 +123,7 @@
 	- John offers them three Potions of Healing for 20 gold pieces 
 	- Neither of them have that much, so Reed offers to do any work that needs to be done around the town
 	- Minksi manages to trade 5 gold pieces and her bag of gold fish scales
-	- Minksi tries to exchange her 300 copper pieces for 3 gold pieces, but the mayor refuses and tells them to g
+	- Minksi tries to exchange her 300 copper pieces for 3 gold pieces, but the mayor refuses and tells them to get out 
 - Captain Minksi and Reed return to the tavern and the barkeep tells them that their friends got a room with four beds and left a note 
 	- Minksi reads the note and runs off 
 	- Reed reads it and finds that Tony and Finn had returned to the cave 
@@ -194,6 +194,6 @@
 	- Tony looks in with the Spyglass and drops dead
 - Session ends as Tony's body suddenly starts shaking and seizing and his head spins 360 degrees and he says, "I'm back! Me and the devil made a deal!"
 
-|  **Previous Session**   |   **Next Session**   |
-| --- | --- |
-| [[Ionntrás Campaign/Recaps/2024-02-28 Hit The Ground Upright\|2024-02-28 Hit The Ground Upright]]  |  |
+| **Previous Session**                  | **Next Session**                     |
+| ------------------------------------- | ------------------------------------ |
+| [[Ionntrás Campaign/Recaps/2024-02-28 Hit The Ground Upright\|2024-02-28 Hit The Ground Upright]] | [[Ionntrás Campaign/Recaps/2024-03-13 This Is Not Your Time\|2024-03-13 This Is Not Your Time]] |
