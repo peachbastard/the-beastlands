@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowBacklinks":null,"dgShowLocalGraph":"false","created":"","updated":""}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false","created":"","updated":""}
 ---
 
 ![Beastlands Map IMG.png](/img/user/z_Assets/Beastlands%20Map%20IMG.png)
