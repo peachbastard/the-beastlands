@@ -11,3 +11,4 @@
 - [[Ionntrás Campaign/Recaps/2024-02-28 Hit The Ground Upright\|2024-02-28 Hit The Ground Upright]]
 - [[Ionntrás Campaign/Recaps/2024-03-05 A Really Deep Cut\|2024-03-05 A Really Deep Cut]]
 - [[Ionntrás Campaign/Recaps/2024-03-13 This Is Not Your Time\|2024-03-13 This Is Not Your Time]]
+- [[Ionntrás Campaign/Recaps/2024-03-20 We Said We'd Fight Together\|2024-03-20 We Said We'd Fight Together]]
