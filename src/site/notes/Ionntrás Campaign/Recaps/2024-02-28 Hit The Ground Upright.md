@@ -20,7 +20,7 @@
 	- Tony offers to make her a drink and an Angelina 3, but she says that his drinks are good, and that the appeal of bar drinks is that they taste a little like piss 
 	- Minksi grabs a passerby for the nearest tavern or bar, and he says that alcohol's been banned for over 100 years 
 	- Angered, Minksi tries to trip the man with her tail, but he steps on it and walks halfway
-- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]] whispers to Captain Minksi that he's read in books that places that are restricted like this usually go really hard in private 
+- [[Ionntrás Campaign/Party/Tony Garp\|Ionntrás Campaign/Party/Tony Garp]] whispers to Captain Minksi that he's read in books that places that are restricted like this usually go really hard in private 
 	- Minksi praises him for his idea and renews her effort to find a tavern
 - The party hears the sounds of jovial voices and cheering from a rundown church 
 	- Reed recognizes it as the church where she met the man that fixed the party
@@ -50,7 +50,7 @@
 - Reed checks the baby's genitalia and finds that it doesn't have human genitals and has a cloaca instead
 	- Reed says that she's named the baby Petra 
 	- Captain Minksi asks why, and Reed says that it means rock 
-- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]] inspects Petra to try to determine why it's still crying and determines that it must have suffered a traumatic event prior to being petrified, then the trauma of being reanimated and finding itself with strangers 
+- [[Ionntrás Campaign/Party/Finn Fairleaf\|Ionntrás Campaign/Party/Finn Fairleaf]] inspects Petra to try to determine why it's still crying and determines that it must have suffered a traumatic event prior to being petrified, then the trauma of being reanimated and finding itself with strangers 
 	- Finn tries to think of any lizard or bird humanoid species in the land and recalls the brutal lizard-people Unlindsen Swamps, but Petra doesn't look quite like them 
 	- Finn manages to soothe Petra a little by singing to her and rocking her, but her crying is renewed when Captain Minksi approaches 
 	- Minksi tries to waves her tail above Petra like a toy, but she continues to cry 
