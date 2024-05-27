@@ -6,3 +6,4 @@
 
 
 # [[God's Plan Campaign/Recaps/Recaps\|Recaps]]
+# [[God's Plan Campaign/Party Inventory/Inventory\|Inventory]]
