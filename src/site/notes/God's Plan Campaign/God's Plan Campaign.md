@@ -3,3 +3,6 @@
 ---
 
 ![God's Plan IMG.png](/img/user/z_Assets/God's%20Plan%20IMG.png)
+
+
+# [[God's Plan Campaign/Recaps/Recaps\|Recaps]]
