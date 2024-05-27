@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/ionntras-campaign/inventory/party-inventory/","created":"","updated":""}
 ---
 
+
 | Coinage | Amount |
-| ---- | ---- |
-| PP | 0 |
-| GP | 25 |
-| SP | 0 |
-| CP | 0 |
+| ------- | ------ |
+| PP      | 0      |
+| GP      | 25     |
+| SP      | 0      |
+| CP      | 0      |
 
 
 ##### Individual Items 
