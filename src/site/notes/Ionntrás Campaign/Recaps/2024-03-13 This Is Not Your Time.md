@@ -204,7 +204,7 @@
 	- Tony ritual casts Detect Magic and finds magic coming from the skeleton's coat, the sword, and sources of magic from within the box the skeleton is gripping 
 - Captain Minksi grabs the coat and gently pulls it away from the box. The skeleton collapses, and the skull looks at Minksi as it falls to the ground. Something rattles inside it 
 	- Minksi puts on the coat and asks if she looks snazzy. Tony says she looks picture perfect 
-- Tony looks inside the skull with the Spyglass and finds something metal within. He asks Captain Minksi if he should grab it; and she says yes, but it's hers 
+- Tony looks inside the skull with the [[Ionntrás Campaign/Inventory/Spyglass\|Spyglass]] and finds something metal within. He asks Captain Minksi if he should grab it; and she says yes, but it's hers 
 	- Tony tells Angelina 3 to smash it and she says, "Aye aye, captain," while looking at Minksi 
 	- Angelina 3 smashes the skull, revealing a key-like object 
 - The stone box looks like the box that the tablets were found in with the same handwriting as the maps in Elvish: "the horror, the horror" then becomes illegible after
@@ -214,6 +214,6 @@
 - Session ends as one particularly large, pure white sharkin with a captain hat and an anchor over his arm points at the party and says, "You certainly gave us the runabout. But you don't know nothing about sharks once there's blood in the water"
 
 
-| **Previous Session**             | **Next Session** |
-| -------------------------------- | ---------------- |
-| [[Ionntrás Campaign/Recaps/2024-03-05 A Really Deep Cut\|2024-03-05 A Really Deep Cut]] |                  |
+| **Previous Session**             | **Next Session**                            |
+| -------------------------------- | ------------------------------------------- |
+| [[Ionntrás Campaign/Recaps/2024-03-05 A Really Deep Cut\|2024-03-05 A Really Deep Cut]] | [[Ionntrás Campaign/Recaps/2024-03-20 We Said We'd Fight Together\|2024-03-20 We Said We'd Fight Together]]] |
