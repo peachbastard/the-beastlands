@@ -37,8 +37,8 @@
 - Captain Minksi tells Tony and Finn that she's forgiven Reed now, and to adjust their perceptions of her accordingly 
 	- Reed says, "You don't have to forgive me, Captain Minksi. Forgiveness should be earned through action, not words"
 	- Minksi tells Reed that her saying that she's a good captain helped her get through the temple, and affirms that she's been forgiven
-- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]] hears the faint, but constant sound of something dripping, and the party sees that some of the black ooze is still managing to make its way through the seam of the doors 
-- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]] tries to set the ooze on fire to evaporate it, but nothing happens 
+- [[Ionntrás Campaign/Party/Finn Fairleaf\|Ionntrás Campaign/Party/Finn Fairleaf]] hears the faint, but constant sound of something dripping, and the party sees that some of the black ooze is still managing to make its way through the seam of the doors 
+- [[Ionntrás Campaign/Party/Tony Garp\|Ionntrás Campaign/Party/Tony Garp]] tries to set the ooze on fire to evaporate it, but nothing happens 
 	- Finn stabs it with his shortsword and the sword is instantly destroyed 
 	- Reed pokes at it with the inscribed longsword pilfered from the underwater cave, and part of it is destroyed
 	- Seeing this, Captain Minksi tells them that they need to leave 
