@@ -4,7 +4,7 @@
 
 
 ## Throw The Bait
-- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]] tries to discern if the sharkin will be there for a while, and it seems like they may be staying there with more of the crew joining. The two sharkin there are named Redscar and Glor 
+- [[Ionntrás Campaign/Party/Finn Fairleaf\|Ionntrás Campaign/Party/Finn Fairleaf]] tries to discern if the sharkin will be there for a while, and it seems like they may be staying there with more of the crew joining. The two sharkin there are named Redscar and Glor 
 - [[Ionntrás Campaign/Party/Captain Lamp Minksi\|Captain Lamp Minksi]] suggests that they wait until the sharkin fall asleep and steal their ship
 	- Finn is concerned that they will get mutilated and tied to the mast
 	- Minksi says that they follow river jungle law and would only kill the small and scrawny and leave her, the big and strong
@@ -13,7 +13,7 @@
 - The curtain slams open and one of the sharkin says, "Who said that?"
 	- Captain Minksi says that she heard it from someone when they got here in the morning, and the sharkin says that they didn't get there until just now 
 - Captain Minksi shoots her crossbow at the sharkin 
-- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]] tries to hit it with his sling, but misses 
+- [[Ionntrás Campaign/Party/Tony Garp\|Ionntrás Campaign/Party/Tony Garp]] tries to hit it with his sling, but misses 
 - Finn strikes at one of the sharkin's legs and feet with his shortsword and dagger 
 - [[Ionntrás Campaign/Party/Reed Primus\|Reed Primus]] slashes at one of the sharkin, but is still plastered and misses 
 - Captain Minksi also misses, then Disengages to run through the sharkin, jumps onto the bar and yells, "Who's hungry?"
