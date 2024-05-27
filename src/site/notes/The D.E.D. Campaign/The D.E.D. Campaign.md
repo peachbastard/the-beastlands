@@ -48,16 +48,16 @@
 <body>
     <h1>The Party</h1>
     <div class="image-grid">
-        <a href="https://the-beastlands.vercel.app/party/oz/">
+        <a href="https://the-beastlands.vercel.app/the-d-e-d-campaign/party/oz/">
             <img src="https://i.imgur.com/hEmKfkO.jpg" alt="Oz">
         </a>
-        <a href="https://the-beastlands.vercel.app/party/hymn/">
+        <a href="https://the-beastlands.vercel.app/the-d-e-d-campaign/party/hymn/">
             <img src="https://i.imgur.com/i0WMBm3.jpg" alt="Hymn">
         </a>
-        <a href="https://the-beastlands.vercel.app/party/mabel/">
+        <a href="https://the-beastlands.vercel.app/the-d-e-d-campaign/party/mabel/">
             <img src="https://i.imgur.com/VmmKDvo.jpg" alt="Mabel">
         </a>
-        <a href="https://the-beastlands.vercel.app/party/sniff/">
+        <a href="https://the-beastlands.vercel.app/the-d-e-d-campaign/party/sniff/">
             <img src="https://i.imgur.com/ZmPM2R1.jpg" alt="Sniff">
         </a>
     </div>
