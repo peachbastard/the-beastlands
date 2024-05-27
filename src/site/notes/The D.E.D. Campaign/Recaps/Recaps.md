@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/the-d-e-d-campaign/recaps/recaps/","created":"","updated":""}
 ---
 
+# [[The D.E.D. Campaign/The D.E.D. Campaign\|The D.E.D. Campaign]] 
+
+
 - [[The D.E.D. Campaign/Recaps/2023-05-17 Ship Sails\|2023-05-17 Ship Sails]]
 - [[The D.E.D. Campaign/Recaps/2023-06-07 Lich Please\|2023-06-07 Lich Please]]
 - [[The D.E.D. Campaign/Recaps/2023-06-13 Gnome Liches\|2023-06-13 Gnome Liches]]
