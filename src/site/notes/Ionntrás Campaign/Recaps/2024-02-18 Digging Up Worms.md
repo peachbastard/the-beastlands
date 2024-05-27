@@ -20,7 +20,7 @@
 	- Minksi asks Tony if he knows about the great wizard Pavlov, which he does, and she suggests that he uses his trainings
 	- Finn asks if they should also be feeding it, and Tony says they can 
 - [[Ionntrás Campaign/Party/Captain Lamp Minksi\|Captain Lamp Minksi]] plucks a mushroom off the cave wall and is disappointed when it stops glowing
-- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]] asks Reed if there's anything he can do to improve his aim with the sling
+- [[Ionntrás Campaign/Party/Tony Garp\|Ionntrás Campaign/Party/Tony Garp]] asks Reed if there's anything he can do to improve his aim with the sling
 	- Reed says, "Yes, hard work. Determination, perseverance, grit. Pain. Just like my ma and pa said."
 	- Tony takes his sling and shoots the mushroom out of Captain Minksi's hand, just barely skimming her fingers 
 - Captain Minksi takes another mushroom, puts it on her head, and orders Tony to shoot it 
@@ -54,7 +54,7 @@
 - The mage eater emits a psychic scream that hampers Tony and Captain Minksi 
 	- It then strikes Angelina and Reed with its long legs 
 - Captain Minksi tries to hit it again with her crossbow, but its strange skin deflects it and she yells, "Guys! Magic attacks only!"
-- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]] gets closer and strikes the mage eater with his short sword and dagger 
+- [[Ionntrás Campaign/Party/Finn Fairleaf\|Ionntrás Campaign/Party/Finn Fairleaf]] gets closer and strikes the mage eater with his short sword and dagger 
 - Tony casts Mending on the boat 
 - Reed says, "Magic and non-magic weapons don't work well on these things. Makes them a fun challenge!"
 	- She then strikes it once, closes her eyes and takes a deep breath then strikes again; cutting off one of its leg and cheering as its insect blood splashes on her. She then takes another deep breath and regains some health 
