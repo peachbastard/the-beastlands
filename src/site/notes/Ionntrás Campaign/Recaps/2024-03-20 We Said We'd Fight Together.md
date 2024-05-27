@@ -7,8 +7,8 @@
 ## Letting Darkness Grow
  - A group of sharkin led by a huge great white sharkin captain barge into the sunken temple demanding revenge
 - [[Ionntrás Campaign/Party/Captain Lamp Minksi\|Captain Lamp Minksi]] is cut off as she goes to say something. The scar that's been growing on her face has become significantly worse, and she collapses to the ground 
-- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]] fires his sling and misses 
-- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]] fires his sling and misses 
+- [[Ionntrás Campaign/Party/Finn Fairleaf\|Ionntrás Campaign/Party/Finn Fairleaf]] fires his sling and misses 
+- [[Ionntrás Campaign/Party/Tony Garp\|Ionntrás Campaign/Party/Tony Garp]] fires his sling and misses 
 	- He then telekinetically shoves the closest sharkin 
 - [[Ionntrás Campaign/Party/Reed Primus\|Reed Primus]] says to Captain Minksi, "I could have helped you, but I didn't. I'm sorry"
 	- Reed then gets closer to the great white sharkin and hits it with a fire bolt
