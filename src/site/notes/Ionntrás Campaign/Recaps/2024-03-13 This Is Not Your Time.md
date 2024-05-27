@@ -11,8 +11,8 @@
 	- She tentatively licks it and it tastes like foul dirt 
 - Captain Minksi suggests looking for Reed, but says that she'll find her way back to the hotel and jokes about how she's searching for boons
 	- Minksi and Finn discuss how they should try to get better boons next time 
-- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]] tells Captain Minksi that she might be able to break a wall with her new porcelain hand, so she punches it and nothing happens 
-- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]] says, "Boy am I tired! I can't wait to go to bed"
+- [[Ionntrás Campaign/Party/Finn Fairleaf\|Ionntrás Campaign/Party/Finn Fairleaf]] tells Captain Minksi that she might be able to break a wall with her new porcelain hand, so she punches it and nothing happens 
+- [[Ionntrás Campaign/Party/Tony Garp\|Ionntrás Campaign/Party/Tony Garp]] says, "Boy am I tired! I can't wait to go to bed"
 	- Finn asks Angelina 3 if she's also ready for bed and she says, "What is sleep?"
 	- Finn tries to explain sleep to Angelina 3 who asks, "What happens when you close your eyes?"
 	- Finn says that he sometimes vividly hallucinates for eight hours 
