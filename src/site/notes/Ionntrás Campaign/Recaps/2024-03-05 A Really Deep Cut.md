@@ -9,10 +9,10 @@
 - They're only able to enjoy the normal sights and sounds for a bit before the experienced noses on the ship recognize a  shift of the smell to copperish before the river starts turning darker and darker red into what looks to be blood 
 	- The phenomena is unfamiliar to Captain Minksi, but she pretends that her dad told her about it and says that he told her, "One day you're going to navigate the Great River of Blood," and that they may be approaching the Bones of the Titan that are still bleeding
 	- Tony asked if that scared her, and she responds "My dad may have been a questionable father, but when it came to matters of the sail, we were like captain and first mate. When it came to other stuff like parenting, not so much"
-- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]] says his uncle was a good guy that took care of him and taught him to garden and cook 
+- [[Ionntrás Campaign/Party/Finn Fairleaf\|Ionntrás Campaign/Party/Finn Fairleaf]] says his uncle was a good guy that took care of him and taught him to garden and cook 
 	- Tony ponders if he ever had an uncle 
 - [[Ionntrás Campaign/Party/Captain Lamp Minksi\|Captain Lamp Minksi]] points out a break to the right where it seems that the blood is coming from the side river 
-- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]] says, "Captain Minksi, I really liked how you said that this could be from the bones still bleeding. Maybe we could test some of the blood"
+- [[Ionntrás Campaign/Party/Tony Garp\|Ionntrás Campaign/Party/Tony Garp]] says, "Captain Minksi, I really liked how you said that this could be from the bones still bleeding. Maybe we could test some of the blood"
 - [[Ionntrás Campaign/Party/Captain Lamp Minksi\|Captain Lamp Minksi]] dips the tip of her tail in the blood, but nothing happens. She licks it off and it tastes gross 
 - [[Ionntrás Campaign/Party/Reed Primus\|Reed Primus]] has been quietly fishing, but has only been able to catch seaweed 
 - Captain Minksi knocks on the devil hatch
