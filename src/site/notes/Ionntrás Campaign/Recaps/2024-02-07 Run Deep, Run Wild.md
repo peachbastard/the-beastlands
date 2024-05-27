@@ -10,7 +10,7 @@
 - [[Ionntrás Campaign/Party/Captain Lamp Minksi\|Captain Lamp Minksi]] wakes up and sees her with a start and yells, "Don't kill yourself! It's not Suicide Sunday!"
 	- Reed says, "Good morning, Captain Minksi. I was just training with my sword. I got you something," then pulls up a fish that she had caught, "I said I would get you breakfast"
 	- Minksi says, "That's true, you did. Last night was rough. Not my finest captain moment"
-- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]] reveals a homunculus that he's been working on all night made of a composite of body parts 
+- [[Ionntrás Campaign/Party/Tony Garp\|Ionntrás Campaign/Party/Tony Garp]] reveals a homunculus that he's been working on all night made of a composite of body parts 
 	- Captain Minksi tells Tony to get away from it and rushes forward with her two daggers
 	- Tony says that it's his first attempt at creating life
 	- Finn asks if it's alive, and Tony says, "It's alive! Can't you see it moving?"
@@ -34,7 +34,7 @@
 - Captain Minksi asks Reed if she knows how to hitch the boat to the wagon and she says, "I do, Captain Minksi. I've been doing it since I was young. My ma and pa said that I couldn't get the boat out of the water, I'd have to stay in the river"
 - Reed pulls the boat out with Stitch's help while Captain Minksi watches with her hands on her hips 
 - Captain Minksi tries to lead the party in a shanty, but Tony fumbles the lyrics 
-- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]] mentions that he was a gardener and a cook at a shanty house, but doesn't know any shanties himself, and could play a fiddle if he had one 
+- [[Ionntrás Campaign/Party/Finn Fairleaf\|Ionntrás Campaign/Party/Finn Fairleaf]] mentions that he was a gardener and a cook at a shanty house, but doesn't know any shanties himself, and could play a fiddle if he had one 
 	- Captain Minksi declares him the crew's fiddle boy and says that every good ship should have one 
 - As the party continues, they come across a brick wall where a hill giant has fallen asleep in the middle of the road with a magnificent-looking sword in its teeth
 	- Captain Minksi knows that giants live around the Seven Splinter Peaks, has never seen one, but knows that it's rare for them to be this far from the mountains 
