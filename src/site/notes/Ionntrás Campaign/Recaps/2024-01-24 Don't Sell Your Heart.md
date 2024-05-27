@@ -13,11 +13,11 @@
 	- She says that she wants to tattoo the map into Tony's back because the stone slabs will be inconvenient to carry around all the time 
 - There are 3 slabs, each about 10 pounds 
 	- Captain Minksi says that each of the crew is responsible for carrying one slab, and she will gut them like a fish if they drop it 
-- [[Ionntrás Campaign/Party/Tony Garp\|Tony Garp]] mentions that he's been working on something, but hasn't been able to finish it
+- [[Ionntrás Campaign/Party/Tony Garp\|Ionntrás Campaign/Party/Tony Garp]] mentions that he's been working on something, but hasn't been able to finish it
 	- Captain Minksi berates him for saying "magical nonsense" and he apologizes, then she tells him to have a spine 
 	- Tony stands a little taller 
 - Captain Minksi asks everyone if they want to search for the treasure
-- [[Ionntrás Campaign/Party/Finn Fairleaf\|Finn Fairleaf]] says that they should kill the sharkin and save the town, and Captain Minksi says that she didn't care much for the town that she wasn't even from, and that, "there was too many people and it was too goddamn loud and annoying"
+- [[Ionntrás Campaign/Party/Finn Fairleaf\|Ionntrás Campaign/Party/Finn Fairleaf]] says that they should kill the sharkin and save the town, and Captain Minksi says that she didn't care much for the town that she wasn't even from, and that, "there was too many people and it was too goddamn loud and annoying"
 - Tony says, "Maybe if we save the town they will be grateful that you saved them and unite the villages"
 	- Captain Minksi berates him for thinking that they can save the village when they should prioritize the treasure 
 - Finn asks what kind of treasure 
