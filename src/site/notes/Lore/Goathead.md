@@ -3,4 +3,4 @@
 ---
 
 
-Worshipped by [[Party/Oz\|Oz]], who calls him an asshole and a fucker
+Worshipped by [[The D.E.D. Campaign/Party/Oz\|Oz]], who calls him an asshole and a fucker
